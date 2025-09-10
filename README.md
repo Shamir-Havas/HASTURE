@@ -1,15 +1,6 @@
 # 🏥 HASTURE – Intelligent Hospital Management System
 
 
-This project highlights my ability to:
-
-Build end-to-end ML solutions (from raw data → preprocessing → model → deployment)
-
-Implement custom algorithms (HUOMIL) for specialized tasks
-
-Work with realistic healthcare datasets
-
-Develop full-stack data-driven applications with Python, Django, and ML
 
 ## 📌 Overview
 **HASTURE** is an intelligent **Hospital Management System (HMS)** that integrates:
