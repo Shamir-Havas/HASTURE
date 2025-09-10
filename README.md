@@ -1,48 +1,35 @@
-# HASTURE-Intelligent-Hospital-Management-System
 
+# HASTURE – Intelligent Hospital Management System
 
+## Overview
+HASTURE is an advanced **Intelligent Hospital Management System** designed to optimize hospital operations, improve patient care, and support data-driven decision-making. Built with a focus on **data science and analytics**, the system integrates hospital management workflows with insightful data analysis.
 
+---
 
+## Key Features
+- **Patient Management:** Efficient registration, history tracking, and record management.  
+- **Appointment Scheduling:** Automated scheduling with conflict resolution.  
+- **Doctor & Staff Management:** Role-based management of staff and doctors.  
+- **Billing & Invoicing:** Generate invoices and track payments.  
+- **Medical Records Analysis:** Track patient trends and generate reports.  
+- **Data-Driven Insights:** Visualizations and analytics to support hospital decisions.  
 
-HASTURE is a comprehensive Intelligent Hospital Management System designed to streamline hospital operations, improve patient care, and manage hospital data efficiently.
+---
 
+## Data Science Components
+- **Data Collection:** Patient records, appointments, and hospital operations data.  
+- **Data Cleaning & Processing:** Preprocessing pipelines for structured and unstructured data.  
+- **Analysis & Reporting:** Statistical summaries, trend analysis, and performance reports.  
+- **Visualizations:** Charts, graphs, and dashboards for key hospital metrics.  
 
+---
 
-\## Features
+## Technologies & Tools
+- **Programming:** Python (pandas, NumPy, scikit-learn), SQL  
+- **Database:** MySQL / PostgreSQL  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Other Tools:** Jupyter Notebook, Git, GitHub, Docker (optional)  
 
-\- Patient registration and management
+---
 
-\- Appointment scheduling
-
-\- Doctor and staff management
-
-\- Billing and invoicing
-
-\- Medical records management
-
-\- Reports and analytics
-
-
-
-\## Technologies Used
-
-\- Programming Language: \[e.g., Python / Java / Node.js]
-
-\- Database: \[e.g., MySQL / PostgreSQL / MongoDB]
-
-\- Frontend: \[e.g., React / HTML/CSS/JS]
-
-\- Others: \[e.g., Docker, REST APIs, SSH]
-
-* HUOMIL pattern mining
-
-\## Installation
-
-1\. Clone the repository:
-
-&nbsp;  ```bash
-
-&nbsp;  git clone git@github.com:Shamir-Havas/HASTURE-Intelligent-Hospital-Management-System.git
-
-
-
+## Project Structure
