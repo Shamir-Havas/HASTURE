@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Windows
+ehthumbs.db
+Desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Build / distribution
+dist/
+build/
+
+# OneDrive
+~$*
