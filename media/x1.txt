@@ -1,0 +1,5001 @@
+Formulation	DrugName	SubCat	SubCat1
+Injection	Paracetamol	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Antihistamine	PPI
+Syrup	Ibuprofen	Antihistamine	NSAID
+Capsule	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Penicillin
+Injection	Aspirin	Antihistamine	PPI
+Injection	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Metformin	Painkiller	NSAID
+Injection	Aspirin	Antipyretic	PPI
+Capsule	Cetrizine	Antacid	Salicylate
+Ointment	Cetrizine	Antipyretic	Salicylate
+Injection	Omeprazole	Antipyretic	H1 Blocker
+Injection	Omeprazole	Painkiller	PPI
+Syrup	Metformin	Antihistamine	NSAID
+Syrup	Metformin	Antipyretic	H1 Blocker
+Capsule	Omeprazole	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Painkiller	Salicylate
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Ointment	Metformin	Antipyretic	Penicillin
+Injection	Omeprazole	Antacid	Penicillin
+Injection	Cetrizine	Antibiotic	Salicylate
+Tablet	Paracetamol	Antacid	Salicylate
+Ointment	Metformin	Painkiller	PPI
+Capsule	Amoxicillin	Antacid	PPI
+Syrup	Amoxicillin	Antacid	H1 Blocker
+Syrup	Cetrizine	Painkiller	Penicillin
+Injection	Aspirin	Antihistamine	Salicylate
+Tablet	Cetrizine	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Syrup	Aspirin	Antibiotic	PPI
+Tablet	Metformin	Antihistamine	Penicillin
+Injection	Amoxicillin	Antibiotic	Penicillin
+Capsule	Cetrizine	Antipyretic	Salicylate
+Syrup	Cetrizine	Antibiotic	Salicylate
+Ointment	Ibuprofen	Antihistamine	Salicylate
+Ointment	Aspirin	Antihistamine	Penicillin
+Ointment	Omeprazole	Antihistamine	Penicillin
+Ointment	Paracetamol	Antibiotic	Salicylate
+Tablet	Aspirin	Painkiller	PPI
+Tablet	Metformin	Painkiller	Salicylate
+Tablet	Metformin	Antihistamine	Penicillin
+Capsule	Amoxicillin	Antacid	Salicylate
+Capsule	Metformin	Antacid	PPI
+Ointment	Paracetamol	Antibiotic	PPI
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Injection	Omeprazole	Antihistamine	PPI
+Syrup	Paracetamol	Antibiotic	H1 Blocker
+Syrup	Paracetamol	Antacid	PPI
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antibiotic	NSAID
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	Salicylate
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Tablet	Omeprazole	Antihistamine	Salicylate
+Injection	Paracetamol	Antacid	Penicillin
+Tablet	Amoxicillin	Painkiller	Penicillin
+Tablet	Paracetamol	Antihistamine	PPI
+Ointment	Aspirin	Antipyretic	Salicylate
+Capsule	Paracetamol	Antipyretic	NSAID
+Syrup	Metformin	Antipyretic	Penicillin
+Capsule	Aspirin	Antipyretic	NSAID
+Ointment	Cetrizine	Antibiotic	Salicylate
+Tablet	Cetrizine	Antacid	H1 Blocker
+Syrup	Omeprazole	Antihistamine	NSAID
+Syrup	Metformin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antacid	Penicillin
+Ointment	Ibuprofen	Antipyretic	PPI
+Injection	Amoxicillin	Antipyretic	Penicillin
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Capsule	Cetrizine	Painkiller	Salicylate
+Ointment	Ibuprofen	Painkiller	PPI
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antacid	Penicillin
+Injection	Cetrizine	Antihistamine	Penicillin
+Capsule	Metformin	Painkiller	PPI
+Tablet	Omeprazole	Antipyretic	NSAID
+Capsule	Omeprazole	Antihistamine	Salicylate
+Capsule	Ibuprofen	Antipyretic	PPI
+Syrup	Paracetamol	Antipyretic	H1 Blocker
+Injection	Paracetamol	Antipyretic	Salicylate
+Capsule	Omeprazole	Painkiller	NSAID
+Capsule	Ibuprofen	Painkiller	NSAID
+Capsule	Amoxicillin	Antacid	H1 Blocker
+Syrup	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antacid	Penicillin
+Capsule	Omeprazole	Antibiotic	H1 Blocker
+Capsule	Aspirin	Antihistamine	Salicylate
+Ointment	Aspirin	Antihistamine	H1 Blocker
+Tablet	Paracetamol	Painkiller	PPI
+Syrup	Metformin	Antipyretic	Salicylate
+Syrup	Ibuprofen	Painkiller	Salicylate
+Ointment	Cetrizine	Antibiotic	PPI
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Aspirin	Antihistamine	Penicillin
+Syrup	Omeprazole	Antihistamine	NSAID
+Capsule	Ibuprofen	Antibiotic	Penicillin
+Capsule	Amoxicillin	Antipyretic	PPI
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	Salicylate
+Injection	Metformin	Antipyretic	Penicillin
+Injection	Ibuprofen	Antipyretic	PPI
+Injection	Cetrizine	Antibiotic	NSAID
+Capsule	Paracetamol	Antihistamine	NSAID
+Capsule	Aspirin	Antipyretic	Penicillin
+Ointment	Cetrizine	Antipyretic	Penicillin
+Syrup	Omeprazole	Antihistamine	PPI
+Tablet	Aspirin	Antihistamine	Salicylate
+Syrup	Metformin	Antipyretic	NSAID
+Ointment	Omeprazole	Antipyretic	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	Salicylate
+Ointment	Omeprazole	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antacid	Salicylate
+Injection	Aspirin	Antihistamine	Penicillin
+Tablet	Aspirin	Antihistamine	Salicylate
+Injection	Ibuprofen	Antacid	Salicylate
+Ointment	Aspirin	Antihistamine	H1 Blocker
+Tablet	Aspirin	Painkiller	Salicylate
+Injection	Aspirin	Antihistamine	PPI
+Syrup	Paracetamol	Antacid	PPI
+Syrup	Aspirin	Antibiotic	Salicylate
+Tablet	Paracetamol	Antibiotic	Salicylate
+Capsule	Paracetamol	Antacid	Penicillin
+Injection	Aspirin	Antibiotic	NSAID
+Capsule	Cetrizine	Antibiotic	Salicylate
+Syrup	Cetrizine	Antacid	Penicillin
+Tablet	Ibuprofen	Painkiller	NSAID
+Injection	Ibuprofen	Antipyretic	Salicylate
+Ointment	Omeprazole	Antibiotic	H1 Blocker
+Injection	Metformin	Antacid	Salicylate
+Tablet	Omeprazole	Antipyretic	PPI
+Capsule	Omeprazole	Antacid	PPI
+Capsule	Cetrizine	Antacid	Salicylate
+Tablet	Omeprazole	Antibiotic	NSAID
+Tablet	Metformin	Antipyretic	Penicillin
+Injection	Cetrizine	Antihistamine	NSAID
+Injection	Omeprazole	Painkiller	PPI
+Tablet	Aspirin	Painkiller	H1 Blocker
+Capsule	Metformin	Painkiller	Salicylate
+Capsule	Paracetamol	Antipyretic	H1 Blocker
+Tablet	Omeprazole	Antacid	NSAID
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Capsule	Amoxicillin	Painkiller	PPI
+Tablet	Aspirin	Antacid	Penicillin
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Syrup	Metformin	Painkiller	Salicylate
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Tablet	Cetrizine	Antacid	Salicylate
+Injection	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antipyretic	PPI
+Capsule	Cetrizine	Antipyretic	Salicylate
+Injection	Omeprazole	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	Salicylate
+Injection	Cetrizine	Antibiotic	NSAID
+Tablet	Omeprazole	Antihistamine	H1 Blocker
+Syrup	Aspirin	Antihistamine	Penicillin
+Tablet	Omeprazole	Painkiller	Penicillin
+Syrup	Paracetamol	Antihistamine	Penicillin
+Syrup	Metformin	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	NSAID
+Ointment	Omeprazole	Painkiller	Penicillin
+Ointment	Amoxicillin	Antibiotic	Salicylate
+Injection	Aspirin	Antibiotic	Penicillin
+Syrup	Aspirin	Antibiotic	PPI
+Injection	Paracetamol	Antipyretic	Salicylate
+Syrup	Omeprazole	Antacid	NSAID
+Ointment	Paracetamol	Antacid	NSAID
+Ointment	Omeprazole	Antibiotic	Penicillin
+Syrup	Ibuprofen	Antacid	NSAID
+Capsule	Aspirin	Antihistamine	NSAID
+Ointment	Omeprazole	Antacid	NSAID
+Tablet	Metformin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Antibiotic	PPI
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Capsule	Ibuprofen	Painkiller	PPI
+Ointment	Amoxicillin	Antipyretic	Penicillin
+Tablet	Cetrizine	Antihistamine	Penicillin
+Syrup	Paracetamol	Antibiotic	Salicylate
+Ointment	Aspirin	Antacid	H1 Blocker
+Syrup	Omeprazole	Antacid	PPI
+Injection	Aspirin	Antibiotic	H1 Blocker
+Injection	Aspirin	Antihistamine	PPI
+Syrup	Ibuprofen	Antacid	Salicylate
+Ointment	Metformin	Antihistamine	PPI
+Tablet	Amoxicillin	Antacid	PPI
+Injection	Omeprazole	Antihistamine	PPI
+Tablet	Aspirin	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Antipyretic	NSAID
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Metformin	Antacid	NSAID
+Capsule	Paracetamol	Antipyretic	H1 Blocker
+Injection	Paracetamol	Antipyretic	PPI
+Capsule	Paracetamol	Antacid	Salicylate
+Capsule	Paracetamol	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antibiotic	NSAID
+Injection	Ibuprofen	Antibiotic	Salicylate
+Ointment	Amoxicillin	Antibiotic	PPI
+Syrup	Metformin	Antihistamine	PPI
+Ointment	Amoxicillin	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Tablet	Metformin	Antipyretic	PPI
+Injection	Paracetamol	Antihistamine	Penicillin
+Capsule	Omeprazole	Antacid	NSAID
+Capsule	Paracetamol	Antihistamine	Salicylate
+Capsule	Ibuprofen	Antibiotic	PPI
+Tablet	Aspirin	Antacid	NSAID
+Ointment	Paracetamol	Antibiotic	PPI
+Injection	Ibuprofen	Antacid	Salicylate
+Syrup	Paracetamol	Antibiotic	NSAID
+Injection	Omeprazole	Antacid	NSAID
+Capsule	Amoxicillin	Antibiotic	Salicylate
+Capsule	Paracetamol	Antihistamine	PPI
+Injection	Omeprazole	Antihistamine	PPI
+Tablet	Ibuprofen	Antipyretic	PPI
+Syrup	Cetrizine	Antihistamine	PPI
+Tablet	Omeprazole	Antacid	H1 Blocker
+Injection	Paracetamol	Antibiotic	PPI
+Tablet	Amoxicillin	Antihistamine	NSAID
+Capsule	Amoxicillin	Antipyretic	NSAID
+Injection	Amoxicillin	Antihistamine	NSAID
+Capsule	Paracetamol	Antibiotic	NSAID
+Ointment	Aspirin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	Penicillin
+Injection	Aspirin	Painkiller	NSAID
+Syrup	Cetrizine	Antacid	Salicylate
+Tablet	Metformin	Antipyretic	PPI
+Capsule	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Cetrizine	Antibiotic	Penicillin
+Injection	Paracetamol	Painkiller	NSAID
+Capsule	Metformin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	NSAID
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Tablet	Amoxicillin	Antacid	Penicillin
+Tablet	Omeprazole	Painkiller	H1 Blocker
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Ointment	Cetrizine	Antibiotic	NSAID
+Injection	Aspirin	Antibiotic	NSAID
+Injection	Ibuprofen	Antacid	H1 Blocker
+Ointment	Omeprazole	Painkiller	PPI
+Capsule	Aspirin	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Syrup	Paracetamol	Antacid	H1 Blocker
+Ointment	Metformin	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Antipyretic	NSAID
+Syrup	Metformin	Antihistamine	PPI
+Tablet	Paracetamol	Antihistamine	NSAID
+Injection	Cetrizine	Painkiller	NSAID
+Injection	Cetrizine	Antibiotic	Penicillin
+Capsule	Aspirin	Antihistamine	NSAID
+Capsule	Amoxicillin	Painkiller	NSAID
+Syrup	Metformin	Antacid	NSAID
+Tablet	Cetrizine	Antibiotic	PPI
+Tablet	Ibuprofen	Painkiller	NSAID
+Tablet	Paracetamol	Antipyretic	NSAID
+Tablet	Amoxicillin	Antibiotic	Salicylate
+Ointment	Aspirin	Antibiotic	Salicylate
+Injection	Metformin	Painkiller	PPI
+Capsule	Metformin	Painkiller	Salicylate
+Capsule	Aspirin	Antacid	PPI
+Ointment	Aspirin	Antibiotic	NSAID
+Tablet	Omeprazole	Antacid	PPI
+Injection	Paracetamol	Painkiller	Salicylate
+Injection	Metformin	Antibiotic	Penicillin
+Ointment	Omeprazole	Painkiller	NSAID
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Injection	Aspirin	Antibiotic	Penicillin
+Syrup	Omeprazole	Antipyretic	Penicillin
+Syrup	Omeprazole	Antihistamine	NSAID
+Injection	Aspirin	Antacid	PPI
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Injection	Paracetamol	Antipyretic	Salicylate
+Injection	Ibuprofen	Painkiller	Salicylate
+Capsule	Omeprazole	Antacid	NSAID
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Capsule	Aspirin	Antacid	PPI
+Syrup	Aspirin	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antacid	PPI
+Tablet	Amoxicillin	Painkiller	Penicillin
+Capsule	Omeprazole	Antipyretic	NSAID
+Injection	Paracetamol	Painkiller	NSAID
+Ointment	Paracetamol	Antihistamine	NSAID
+Injection	Omeprazole	Antacid	NSAID
+Capsule	Aspirin	Antipyretic	Penicillin
+Syrup	Amoxicillin	Antibiotic	H1 Blocker
+Injection	Cetrizine	Antihistamine	Penicillin
+Capsule	Omeprazole	Antipyretic	NSAID
+Injection	Ibuprofen	Antacid	PPI
+Capsule	Omeprazole	Antipyretic	NSAID
+Tablet	Cetrizine	Antacid	NSAID
+Tablet	Omeprazole	Painkiller	NSAID
+Tablet	Metformin	Antihistamine	Salicylate
+Injection	Cetrizine	Painkiller	H1 Blocker
+Syrup	Omeprazole	Painkiller	PPI
+Ointment	Aspirin	Antipyretic	Salicylate
+Capsule	Amoxicillin	Antihistamine	NSAID
+Injection	Amoxicillin	Antipyretic	Salicylate
+Injection	Metformin	Antihistamine	H1 Blocker
+Capsule	Metformin	Painkiller	NSAID
+Capsule	Paracetamol	Antipyretic	Salicylate
+Syrup	Aspirin	Antacid	H1 Blocker
+Injection	Omeprazole	Antipyretic	Penicillin
+Injection	Paracetamol	Antibiotic	PPI
+Capsule	Ibuprofen	Painkiller	PPI
+Injection	Ibuprofen	Antibiotic	PPI
+Ointment	Omeprazole	Antihistamine	Penicillin
+Injection	Ibuprofen	Antibiotic	NSAID
+Ointment	Ibuprofen	Painkiller	PPI
+Capsule	Cetrizine	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	PPI
+Capsule	Omeprazole	Antibiotic	Penicillin
+Capsule	Paracetamol	Antihistamine	NSAID
+Injection	Cetrizine	Antibiotic	Salicylate
+Tablet	Omeprazole	Antipyretic	Penicillin
+Syrup	Cetrizine	Antipyretic	H1 Blocker
+Tablet	Cetrizine	Antihistamine	NSAID
+Tablet	Amoxicillin	Antacid	Penicillin
+Ointment	Omeprazole	Antihistamine	NSAID
+Syrup	Paracetamol	Antibiotic	Penicillin
+Syrup	Omeprazole	Antihistamine	Salicylate
+Syrup	Amoxicillin	Antacid	H1 Blocker
+Capsule	Ibuprofen	Antibiotic	Penicillin
+Syrup	Aspirin	Antibiotic	PPI
+Capsule	Ibuprofen	Antacid	NSAID
+Capsule	Paracetamol	Antibiotic	Salicylate
+Tablet	Metformin	Antacid	H1 Blocker
+Capsule	Omeprazole	Antihistamine	Penicillin
+Syrup	Cetrizine	Antihistamine	Salicylate
+Capsule	Omeprazole	Antacid	NSAID
+Injection	Aspirin	Painkiller	NSAID
+Injection	Paracetamol	Antihistamine	PPI
+Tablet	Aspirin	Antibiotic	PPI
+Ointment	Omeprazole	Antihistamine	Penicillin
+Capsule	Ibuprofen	Antibiotic	Penicillin
+Tablet	Aspirin	Antibiotic	Salicylate
+Tablet	Metformin	Painkiller	Salicylate
+Ointment	Paracetamol	Antacid	NSAID
+Syrup	Omeprazole	Antihistamine	NSAID
+Tablet	Ibuprofen	Antacid	Penicillin
+Injection	Aspirin	Antipyretic	NSAID
+Injection	Ibuprofen	Antacid	NSAID
+Syrup	Metformin	Antipyretic	PPI
+Syrup	Aspirin	Antacid	H1 Blocker
+Injection	Aspirin	Painkiller	NSAID
+Tablet	Aspirin	Antibiotic	PPI
+Tablet	Paracetamol	Antibiotic	Penicillin
+Syrup	Paracetamol	Antihistamine	PPI
+Syrup	Cetrizine	Antibiotic	NSAID
+Tablet	Metformin	Antibiotic	NSAID
+Capsule	Paracetamol	Antihistamine	PPI
+Syrup	Aspirin	Antacid	PPI
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antibiotic	PPI
+Tablet	Paracetamol	Antacid	H1 Blocker
+Syrup	Metformin	Painkiller	PPI
+Capsule	Paracetamol	Antipyretic	Penicillin
+Capsule	Metformin	Antihistamine	PPI
+Ointment	Aspirin	Painkiller	Penicillin
+Injection	Aspirin	Antipyretic	Penicillin
+Tablet	Cetrizine	Antihistamine	NSAID
+Tablet	Paracetamol	Antibiotic	H1 Blocker
+Capsule	Paracetamol	Antipyretic	Salicylate
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antihistamine	PPI
+Injection	Cetrizine	Painkiller	PPI
+Syrup	Ibuprofen	Antihistamine	Salicylate
+Capsule	Amoxicillin	Antihistamine	Penicillin
+Ointment	Omeprazole	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Antihistamine	PPI
+Injection	Ibuprofen	Antacid	PPI
+Capsule	Metformin	Antibiotic	PPI
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Injection	Paracetamol	Painkiller	Salicylate
+Ointment	Ibuprofen	Antacid	Salicylate
+Ointment	Omeprazole	Antacid	Penicillin
+Injection	Aspirin	Antacid	PPI
+Ointment	Aspirin	Antipyretic	Salicylate
+Injection	Ibuprofen	Painkiller	Salicylate
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antihistamine	Salicylate
+Syrup	Metformin	Antipyretic	Salicylate
+Syrup	Cetrizine	Antibiotic	H1 Blocker
+Injection	Paracetamol	Antacid	H1 Blocker
+Capsule	Amoxicillin	Antacid	PPI
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Injection	Omeprazole	Antacid	Penicillin
+Tablet	Paracetamol	Painkiller	NSAID
+Injection	Cetrizine	Painkiller	PPI
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Syrup	Omeprazole	Antipyretic	NSAID
+Tablet	Omeprazole	Painkiller	PPI
+Tablet	Aspirin	Antihistamine	PPI
+Injection	Amoxicillin	Painkiller	NSAID
+Syrup	Amoxicillin	Painkiller	Penicillin
+Ointment	Amoxicillin	Antihistamine	Penicillin
+Injection	Omeprazole	Antipyretic	Penicillin
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Ibuprofen	Painkiller	PPI
+Syrup	Amoxicillin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Injection	Metformin	Antipyretic	NSAID
+Injection	Paracetamol	Antacid	NSAID
+Tablet	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antibiotic	Penicillin
+Ointment	Omeprazole	Painkiller	NSAID
+Tablet	Metformin	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antipyretic	Salicylate
+Injection	Amoxicillin	Painkiller	PPI
+Ointment	Omeprazole	Painkiller	Salicylate
+Capsule	Cetrizine	Painkiller	Penicillin
+Capsule	Metformin	Antibiotic	Salicylate
+Ointment	Amoxicillin	Antihistamine	NSAID
+Ointment	Paracetamol	Antihistamine	Penicillin
+Syrup	Amoxicillin	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Painkiller	H1 Blocker
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Metformin	Antibiotic	H1 Blocker
+Syrup	Cetrizine	Painkiller	NSAID
+Syrup	Aspirin	Painkiller	Penicillin
+Syrup	Aspirin	Antacid	Penicillin
+Ointment	Metformin	Painkiller	Salicylate
+Ointment	Ibuprofen	Antacid	NSAID
+Injection	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Antihistamine	H1 Blocker
+Injection	Paracetamol	Antacid	Penicillin
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Tablet	Metformin	Painkiller	PPI
+Ointment	Paracetamol	Antihistamine	NSAID
+Ointment	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Metformin	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antihistamine	NSAID
+Injection	Cetrizine	Painkiller	NSAID
+Ointment	Cetrizine	Antacid	H1 Blocker
+Capsule	Amoxicillin	Painkiller	Salicylate
+Injection	Cetrizine	Antacid	Penicillin
+Syrup	Metformin	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antibiotic	H1 Blocker
+Tablet	Paracetamol	Antihistamine	PPI
+Capsule	Cetrizine	Antacid	PPI
+Syrup	Cetrizine	Antibiotic	PPI
+Ointment	Omeprazole	Antipyretic	Penicillin
+Tablet	Cetrizine	Antacid	Penicillin
+Ointment	Aspirin	Painkiller	Penicillin
+Capsule	Aspirin	Painkiller	PPI
+Tablet	Amoxicillin	Antibiotic	Salicylate
+Capsule	Ibuprofen	Antipyretic	NSAID
+Tablet	Omeprazole	Painkiller	Salicylate
+Capsule	Aspirin	Antibiotic	H1 Blocker
+Injection	Amoxicillin	Antacid	NSAID
+Capsule	Amoxicillin	Antipyretic	NSAID
+Ointment	Aspirin	Antihistamine	Salicylate
+Injection	Omeprazole	Antihistamine	Penicillin
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Omeprazole	Antipyretic	H1 Blocker
+Injection	Paracetamol	Antacid	H1 Blocker
+Syrup	Omeprazole	Antacid	PPI
+Injection	Aspirin	Painkiller	Salicylate
+Injection	Ibuprofen	Antacid	PPI
+Syrup	Amoxicillin	Painkiller	Salicylate
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Tablet	Aspirin	Painkiller	Salicylate
+Tablet	Amoxicillin	Antibiotic	NSAID
+Syrup	Metformin	Antihistamine	H1 Blocker
+Injection	Aspirin	Antipyretic	NSAID
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Paracetamol	Antacid	Salicylate
+Injection	Metformin	Antihistamine	Salicylate
+Ointment	Aspirin	Antihistamine	PPI
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Capsule	Amoxicillin	Antibiotic	PPI
+Ointment	Metformin	Painkiller	Penicillin
+Ointment	Cetrizine	Antacid	H1 Blocker
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Metformin	Antibiotic	NSAID
+Injection	Paracetamol	Antipyretic	Penicillin
+Tablet	Aspirin	Painkiller	Penicillin
+Tablet	Aspirin	Antihistamine	Penicillin
+Injection	Omeprazole	Painkiller	Penicillin
+Injection	Paracetamol	Painkiller	Penicillin
+Injection	Omeprazole	Painkiller	PPI
+Injection	Aspirin	Antacid	PPI
+Injection	Paracetamol	Antipyretic	PPI
+Injection	Metformin	Antibiotic	NSAID
+Syrup	Aspirin	Painkiller	Penicillin
+Syrup	Amoxicillin	Painkiller	Salicylate
+Tablet	Ibuprofen	Antipyretic	Penicillin
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Tablet	Ibuprofen	Antihistamine	PPI
+Injection	Ibuprofen	Antacid	NSAID
+Injection	Omeprazole	Painkiller	Penicillin
+Syrup	Aspirin	Painkiller	PPI
+Capsule	Metformin	Antibiotic	NSAID
+Syrup	Aspirin	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antibiotic	H1 Blocker
+Ointment	Omeprazole	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Tablet	Paracetamol	Antacid	Penicillin
+Capsule	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Aspirin	Painkiller	H1 Blocker
+Injection	Paracetamol	Antihistamine	Penicillin
+Ointment	Amoxicillin	Painkiller	Penicillin
+Tablet	Aspirin	Antibiotic	Salicylate
+Syrup	Aspirin	Antihistamine	PPI
+Injection	Paracetamol	Antibiotic	NSAID
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Syrup	Aspirin	Antipyretic	NSAID
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Tablet	Omeprazole	Antihistamine	NSAID
+Ointment	Cetrizine	Antipyretic	Penicillin
+Tablet	Metformin	Antacid	Salicylate
+Syrup	Aspirin	Painkiller	NSAID
+Syrup	Aspirin	Painkiller	H1 Blocker
+Injection	Ibuprofen	Antacid	Penicillin
+Tablet	Omeprazole	Antipyretic	PPI
+Capsule	Paracetamol	Antipyretic	PPI
+Ointment	Paracetamol	Antihistamine	Salicylate
+Syrup	Cetrizine	Antihistamine	Penicillin
+Injection	Omeprazole	Painkiller	Salicylate
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Tablet	Paracetamol	Antihistamine	NSAID
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Ointment	Aspirin	Antacid	PPI
+Capsule	Aspirin	Antibiotic	Salicylate
+Ointment	Metformin	Painkiller	Penicillin
+Injection	Omeprazole	Antipyretic	Salicylate
+Injection	Ibuprofen	Antacid	NSAID
+Capsule	Metformin	Antihistamine	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	H1 Blocker
+Syrup	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Capsule	Ibuprofen	Antacid	NSAID
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Capsule	Paracetamol	Antacid	PPI
+Ointment	Amoxicillin	Antipyretic	NSAID
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Injection	Omeprazole	Antacid	Salicylate
+Injection	Amoxicillin	Antibiotic	Penicillin
+Ointment	Paracetamol	Painkiller	PPI
+Ointment	Omeprazole	Antihistamine	Salicylate
+Capsule	Cetrizine	Antihistamine	Salicylate
+Capsule	Omeprazole	Antacid	H1 Blocker
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Painkiller	Salicylate
+Syrup	Cetrizine	Antacid	PPI
+Syrup	Ibuprofen	Antipyretic	Penicillin
+Tablet	Ibuprofen	Antacid	Penicillin
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Ointment	Paracetamol	Antihistamine	PPI
+Capsule	Cetrizine	Antipyretic	PPI
+Injection	Cetrizine	Antihistamine	Penicillin
+Ointment	Paracetamol	Antihistamine	Penicillin
+Syrup	Omeprazole	Antibiotic	PPI
+Tablet	Ibuprofen	Antipyretic	NSAID
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Tablet	Metformin	Antipyretic	PPI
+Tablet	Omeprazole	Antacid	Penicillin
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Metformin	Antihistamine	H1 Blocker
+Tablet	Metformin	Antibiotic	Penicillin
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Injection	Ibuprofen	Antihistamine	Penicillin
+Capsule	Omeprazole	Painkiller	Salicylate
+Tablet	Ibuprofen	Antacid	Penicillin
+Syrup	Ibuprofen	Painkiller	Penicillin
+Injection	Metformin	Antacid	H1 Blocker
+Syrup	Paracetamol	Antibiotic	Penicillin
+Ointment	Cetrizine	Antipyretic	NSAID
+Tablet	Paracetamol	Painkiller	NSAID
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Capsule	Metformin	Antipyretic	Penicillin
+Syrup	Metformin	Antibiotic	Penicillin
+Injection	Ibuprofen	Painkiller	PPI
+Syrup	Cetrizine	Antacid	Penicillin
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Injection	Metformin	Antihistamine	H1 Blocker
+Syrup	Metformin	Antibiotic	PPI
+Injection	Metformin	Painkiller	Salicylate
+Capsule	Ibuprofen	Antipyretic	H1 Blocker
+Capsule	Amoxicillin	Antipyretic	Penicillin
+Ointment	Omeprazole	Antipyretic	PPI
+Ointment	Amoxicillin	Painkiller	NSAID
+Syrup	Metformin	Antipyretic	Penicillin
+Injection	Ibuprofen	Antipyretic	NSAID
+Tablet	Cetrizine	Antihistamine	Salicylate
+Injection	Aspirin	Antipyretic	Penicillin
+Injection	Ibuprofen	Antihistamine	PPI
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Capsule	Cetrizine	Antacid	NSAID
+Capsule	Paracetamol	Antihistamine	NSAID
+Syrup	Omeprazole	Painkiller	Salicylate
+Ointment	Aspirin	Antacid	PPI
+Capsule	Aspirin	Antacid	NSAID
+Injection	Paracetamol	Antipyretic	Penicillin
+Injection	Aspirin	Antipyretic	PPI
+Injection	Aspirin	Antihistamine	H1 Blocker
+Tablet	Metformin	Antibiotic	PPI
+Ointment	Metformin	Antihistamine	H1 Blocker
+Capsule	Aspirin	Antibiotic	H1 Blocker
+Syrup	Aspirin	Antacid	NSAID
+Capsule	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	H1 Blocker
+Injection	Aspirin	Antipyretic	Salicylate
+Syrup	Aspirin	Painkiller	NSAID
+Capsule	Metformin	Antacid	Penicillin
+Tablet	Cetrizine	Antipyretic	Salicylate
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Capsule	Omeprazole	Painkiller	NSAID
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Injection	Ibuprofen	Antipyretic	Penicillin
+Tablet	Cetrizine	Antihistamine	PPI
+Tablet	Aspirin	Antihistamine	Salicylate
+Injection	Cetrizine	Painkiller	NSAID
+Injection	Ibuprofen	Antipyretic	Salicylate
+Ointment	Omeprazole	Antacid	Penicillin
+Injection	Paracetamol	Antibiotic	Salicylate
+Tablet	Amoxicillin	Antipyretic	PPI
+Syrup	Omeprazole	Painkiller	PPI
+Tablet	Amoxicillin	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	PPI
+Syrup	Cetrizine	Antacid	NSAID
+Ointment	Ibuprofen	Antacid	Penicillin
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Syrup	Aspirin	Antipyretic	PPI
+Injection	Paracetamol	Antihistamine	NSAID
+Syrup	Amoxicillin	Antacid	Penicillin
+Tablet	Omeprazole	Antihistamine	Penicillin
+Ointment	Paracetamol	Antibiotic	Salicylate
+Ointment	Amoxicillin	Painkiller	Salicylate
+Syrup	Paracetamol	Antipyretic	PPI
+Syrup	Cetrizine	Antacid	NSAID
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Injection	Aspirin	Antibiotic	PPI
+Tablet	Amoxicillin	Antacid	PPI
+Tablet	Omeprazole	Antacid	Penicillin
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Tablet	Cetrizine	Antipyretic	PPI
+Syrup	Aspirin	Painkiller	PPI
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Injection	Cetrizine	Antipyretic	Penicillin
+Syrup	Cetrizine	Painkiller	PPI
+Syrup	Ibuprofen	Antibiotic	NSAID
+Ointment	Ibuprofen	Antihistamine	NSAID
+Injection	Ibuprofen	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	PPI
+Capsule	Omeprazole	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antacid	Penicillin
+Capsule	Aspirin	Antacid	Salicylate
+Syrup	Amoxicillin	Antacid	H1 Blocker
+Capsule	Cetrizine	Antihistamine	Salicylate
+Capsule	Omeprazole	Antibiotic	H1 Blocker
+Capsule	Metformin	Antipyretic	Salicylate
+Syrup	Aspirin	Painkiller	NSAID
+Ointment	Aspirin	Painkiller	H1 Blocker
+Syrup	Cetrizine	Antibiotic	NSAID
+Capsule	Aspirin	Antibiotic	Salicylate
+Tablet	Amoxicillin	Antipyretic	Penicillin
+Ointment	Aspirin	Painkiller	Penicillin
+Ointment	Amoxicillin	Antibiotic	NSAID
+Injection	Metformin	Antihistamine	Penicillin
+Tablet	Aspirin	Antipyretic	Penicillin
+Ointment	Paracetamol	Antipyretic	PPI
+Injection	Omeprazole	Antacid	Salicylate
+Ointment	Aspirin	Antacid	H1 Blocker
+Tablet	Metformin	Antihistamine	NSAID
+Capsule	Aspirin	Antipyretic	Salicylate
+Injection	Aspirin	Antacid	Penicillin
+Ointment	Metformin	Antihistamine	Salicylate
+Injection	Aspirin	Antibiotic	Penicillin
+Tablet	Aspirin	Antacid	Salicylate
+Injection	Omeprazole	Antacid	Penicillin
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Metformin	Antipyretic	NSAID
+Syrup	Metformin	Antihistamine	NSAID
+Capsule	Omeprazole	Antacid	NSAID
+Capsule	Omeprazole	Antipyretic	PPI
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Syrup	Amoxicillin	Antibiotic	H1 Blocker
+Tablet	Amoxicillin	Antihistamine	PPI
+Tablet	Cetrizine	Antipyretic	Penicillin
+Capsule	Paracetamol	Antacid	H1 Blocker
+Tablet	Metformin	Painkiller	Salicylate
+Injection	Aspirin	Painkiller	PPI
+Syrup	Cetrizine	Painkiller	PPI
+Ointment	Cetrizine	Antibiotic	Penicillin
+Tablet	Ibuprofen	Painkiller	Salicylate
+Syrup	Ibuprofen	Antacid	Penicillin
+Capsule	Omeprazole	Antacid	H1 Blocker
+Syrup	Aspirin	Antipyretic	Salicylate
+Syrup	Omeprazole	Antibiotic	PPI
+Ointment	Aspirin	Antihistamine	NSAID
+Capsule	Amoxicillin	Painkiller	Penicillin
+Ointment	Aspirin	Antacid	H1 Blocker
+Syrup	Paracetamol	Antibiotic	H1 Blocker
+Syrup	Paracetamol	Painkiller	NSAID
+Capsule	Cetrizine	Painkiller	Penicillin
+Tablet	Metformin	Antihistamine	Salicylate
+Syrup	Omeprazole	Painkiller	NSAID
+Capsule	Amoxicillin	Antibiotic	Salicylate
+Injection	Amoxicillin	Antacid	Salicylate
+Tablet	Omeprazole	Antibiotic	NSAID
+Capsule	Metformin	Antibiotic	H1 Blocker
+Syrup	Metformin	Antacid	H1 Blocker
+Capsule	Paracetamol	Painkiller	PPI
+Capsule	Omeprazole	Antihistamine	NSAID
+Ointment	Omeprazole	Antacid	H1 Blocker
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Painkiller	Penicillin
+Capsule	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Cetrizine	Antacid	H1 Blocker
+Capsule	Metformin	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antihistamine	Salicylate
+Syrup	Metformin	Antihistamine	NSAID
+Tablet	Omeprazole	Antibiotic	NSAID
+Syrup	Paracetamol	Antacid	Salicylate
+Ointment	Paracetamol	Painkiller	Salicylate
+Capsule	Metformin	Painkiller	PPI
+Injection	Paracetamol	Painkiller	PPI
+Syrup	Paracetamol	Antihistamine	Penicillin
+Injection	Aspirin	Antibiotic	H1 Blocker
+Ointment	Aspirin	Painkiller	Salicylate
+Tablet	Ibuprofen	Antibiotic	NSAID
+Tablet	Cetrizine	Painkiller	NSAID
+Syrup	Paracetamol	Antacid	Salicylate
+Injection	Omeprazole	Antihistamine	PPI
+Injection	Aspirin	Antipyretic	Penicillin
+Ointment	Amoxicillin	Antacid	Salicylate
+Tablet	Cetrizine	Antacid	H1 Blocker
+Tablet	Cetrizine	Antipyretic	PPI
+Tablet	Omeprazole	Antihistamine	PPI
+Syrup	Aspirin	Antacid	Penicillin
+Syrup	Paracetamol	Antibiotic	Penicillin
+Injection	Aspirin	Antacid	PPI
+Syrup	Omeprazole	Painkiller	Penicillin
+Ointment	Omeprazole	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Antibiotic	Penicillin
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Ointment	Amoxicillin	Painkiller	PPI
+Tablet	Aspirin	Antacid	Salicylate
+Capsule	Metformin	Antihistamine	Penicillin
+Tablet	Omeprazole	Antibiotic	NSAID
+Ointment	Metformin	Painkiller	Penicillin
+Tablet	Metformin	Antibiotic	Penicillin
+Tablet	Omeprazole	Antihistamine	H1 Blocker
+Tablet	Metformin	Antibiotic	Penicillin
+Syrup	Cetrizine	Antipyretic	Salicylate
+Injection	Metformin	Antibiotic	Penicillin
+Tablet	Amoxicillin	Antacid	Salicylate
+Injection	Ibuprofen	Painkiller	Salicylate
+Tablet	Omeprazole	Painkiller	Salicylate
+Injection	Metformin	Antihistamine	Penicillin
+Capsule	Omeprazole	Antacid	Penicillin
+Capsule	Aspirin	Antibiotic	NSAID
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Ointment	Amoxicillin	Antibiotic	PPI
+Ointment	Omeprazole	Antibiotic	NSAID
+Injection	Omeprazole	Antacid	H1 Blocker
+Syrup	Metformin	Antipyretic	Salicylate
+Syrup	Metformin	Antibiotic	PPI
+Syrup	Omeprazole	Antibiotic	Penicillin
+Ointment	Paracetamol	Antihistamine	H1 Blocker
+Injection	Amoxicillin	Antibiotic	NSAID
+Capsule	Amoxicillin	Antibiotic	NSAID
+Capsule	Aspirin	Antibiotic	Salicylate
+Syrup	Ibuprofen	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Antihistamine	NSAID
+Ointment	Omeprazole	Painkiller	Salicylate
+Injection	Amoxicillin	Antibiotic	NSAID
+Syrup	Amoxicillin	Painkiller	Salicylate
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Capsule	Amoxicillin	Antihistamine	PPI
+Ointment	Metformin	Antibiotic	H1 Blocker
+Ointment	Aspirin	Painkiller	PPI
+Syrup	Paracetamol	Antihistamine	Salicylate
+Syrup	Omeprazole	Antipyretic	Salicylate
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Capsule	Omeprazole	Painkiller	Salicylate
+Tablet	Aspirin	Antacid	Salicylate
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Injection	Metformin	Antibiotic	Penicillin
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Tablet	Ibuprofen	Painkiller	Salicylate
+Ointment	Ibuprofen	Antipyretic	PPI
+Injection	Metformin	Antacid	Salicylate
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Injection	Metformin	Antipyretic	H1 Blocker
+Tablet	Ibuprofen	Antihistamine	NSAID
+Tablet	Omeprazole	Antipyretic	PPI
+Syrup	Paracetamol	Painkiller	NSAID
+Injection	Paracetamol	Antibiotic	Penicillin
+Tablet	Cetrizine	Antipyretic	Salicylate
+Tablet	Omeprazole	Antipyretic	H1 Blocker
+Injection	Ibuprofen	Antibiotic	NSAID
+Ointment	Ibuprofen	Antihistamine	NSAID
+Syrup	Aspirin	Antipyretic	PPI
+Ointment	Omeprazole	Antipyretic	NSAID
+Syrup	Omeprazole	Antacid	Penicillin
+Injection	Aspirin	Painkiller	Salicylate
+Injection	Metformin	Antipyretic	NSAID
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antipyretic	Salicylate
+Capsule	Metformin	Antibiotic	PPI
+Tablet	Cetrizine	Antihistamine	PPI
+Tablet	Omeprazole	Antibiotic	PPI
+Ointment	Amoxicillin	Painkiller	NSAID
+Capsule	Paracetamol	Painkiller	PPI
+Ointment	Metformin	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antihistamine	Salicylate
+Capsule	Cetrizine	Antibiotic	PPI
+Syrup	Ibuprofen	Antacid	Salicylate
+Injection	Metformin	Antacid	Salicylate
+Ointment	Omeprazole	Antihistamine	Salicylate
+Injection	Omeprazole	Antihistamine	Penicillin
+Ointment	Cetrizine	Antibiotic	Salicylate
+Syrup	Cetrizine	Antihistamine	NSAID
+Injection	Cetrizine	Painkiller	NSAID
+Injection	Aspirin	Antacid	Penicillin
+Injection	Metformin	Antihistamine	Salicylate
+Capsule	Omeprazole	Antihistamine	H1 Blocker
+Injection	Omeprazole	Painkiller	Penicillin
+Ointment	Aspirin	Painkiller	NSAID
+Capsule	Paracetamol	Antipyretic	Penicillin
+Syrup	Aspirin	Painkiller	Penicillin
+Syrup	Aspirin	Antacid	Salicylate
+Ointment	Aspirin	Antihistamine	NSAID
+Injection	Amoxicillin	Antibiotic	Penicillin
+Injection	Amoxicillin	Antipyretic	Penicillin
+Ointment	Ibuprofen	Painkiller	PPI
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Tablet	Paracetamol	Painkiller	Penicillin
+Tablet	Ibuprofen	Antacid	PPI
+Tablet	Cetrizine	Antipyretic	Salicylate
+Syrup	Omeprazole	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antihistamine	Penicillin
+Ointment	Omeprazole	Antacid	Salicylate
+Ointment	Metformin	Antipyretic	Penicillin
+Tablet	Cetrizine	Antipyretic	NSAID
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Tablet	Metformin	Antibiotic	Penicillin
+Ointment	Paracetamol	Antibiotic	NSAID
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Tablet	Paracetamol	Antipyretic	Penicillin
+Ointment	Aspirin	Antibiotic	PPI
+Ointment	Metformin	Antibiotic	Penicillin
+Syrup	Aspirin	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Antibiotic	NSAID
+Ointment	Aspirin	Antibiotic	Salicylate
+Injection	Omeprazole	Antihistamine	NSAID
+Tablet	Omeprazole	Antihistamine	Penicillin
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antacid	Penicillin
+Ointment	Metformin	Antihistamine	NSAID
+Injection	Paracetamol	Antacid	Salicylate
+Capsule	Aspirin	Painkiller	Penicillin
+Tablet	Omeprazole	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antacid	NSAID
+Syrup	Aspirin	Antihistamine	Salicylate
+Syrup	Aspirin	Antipyretic	PPI
+Tablet	Cetrizine	Antibiotic	Penicillin
+Capsule	Amoxicillin	Antacid	Penicillin
+Syrup	Paracetamol	Antacid	Salicylate
+Syrup	Amoxicillin	Antacid	Salicylate
+Injection	Ibuprofen	Antibiotic	PPI
+Injection	Amoxicillin	Antipyretic	H1 Blocker
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Syrup	Omeprazole	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antihistamine	NSAID
+Tablet	Cetrizine	Painkiller	NSAID
+Injection	Aspirin	Antibiotic	PPI
+Tablet	Cetrizine	Painkiller	Salicylate
+Syrup	Omeprazole	Painkiller	NSAID
+Tablet	Ibuprofen	Antacid	NSAID
+Syrup	Metformin	Antipyretic	Penicillin
+Injection	Ibuprofen	Antipyretic	PPI
+Capsule	Cetrizine	Antipyretic	Salicylate
+Tablet	Paracetamol	Antacid	NSAID
+Tablet	Cetrizine	Antihistamine	Penicillin
+Tablet	Cetrizine	Antacid	H1 Blocker
+Injection	Omeprazole	Antibiotic	PPI
+Tablet	Metformin	Painkiller	Penicillin
+Capsule	Aspirin	Antihistamine	Penicillin
+Injection	Metformin	Painkiller	Salicylate
+Tablet	Amoxicillin	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Salicylate
+Tablet	Ibuprofen	Painkiller	Penicillin
+Injection	Metformin	Antibiotic	Salicylate
+Injection	Ibuprofen	Antihistamine	Penicillin
+Syrup	Amoxicillin	Painkiller	PPI
+Tablet	Paracetamol	Painkiller	Penicillin
+Tablet	Amoxicillin	Antipyretic	PPI
+Capsule	Cetrizine	Antacid	PPI
+Syrup	Metformin	Antacid	H1 Blocker
+Ointment	Metformin	Painkiller	NSAID
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Ointment	Cetrizine	Painkiller	Penicillin
+Syrup	Ibuprofen	Antibiotic	PPI
+Injection	Omeprazole	Antihistamine	PPI
+Injection	Aspirin	Antacid	PPI
+Injection	Amoxicillin	Antipyretic	Penicillin
+Tablet	Paracetamol	Antihistamine	NSAID
+Tablet	Amoxicillin	Painkiller	NSAID
+Syrup	Metformin	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antacid	H1 Blocker
+Syrup	Paracetamol	Antacid	Salicylate
+Syrup	Ibuprofen	Antipyretic	Penicillin
+Ointment	Cetrizine	Painkiller	NSAID
+Tablet	Amoxicillin	Antibiotic	PPI
+Capsule	Paracetamol	Painkiller	H1 Blocker
+Injection	Aspirin	Antacid	PPI
+Capsule	Omeprazole	Antipyretic	H1 Blocker
+Injection	Metformin	Antihistamine	NSAID
+Syrup	Cetrizine	Antipyretic	PPI
+Syrup	Metformin	Antipyretic	Penicillin
+Tablet	Omeprazole	Painkiller	PPI
+Syrup	Paracetamol	Antacid	H1 Blocker
+Ointment	Metformin	Painkiller	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	PPI
+Ointment	Aspirin	Antipyretic	NSAID
+Capsule	Omeprazole	Antipyretic	H1 Blocker
+Injection	Omeprazole	Painkiller	NSAID
+Syrup	Amoxicillin	Antacid	Salicylate
+Capsule	Omeprazole	Painkiller	H1 Blocker
+Injection	Omeprazole	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antipyretic	NSAID
+Ointment	Cetrizine	Antacid	Salicylate
+Injection	Ibuprofen	Antihistamine	NSAID
+Injection	Omeprazole	Antacid	NSAID
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Tablet	Aspirin	Antihistamine	NSAID
+Capsule	Metformin	Painkiller	H1 Blocker
+Injection	Amoxicillin	Antihistamine	NSAID
+Syrup	Ibuprofen	Antacid	Penicillin
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Metformin	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antacid	Salicylate
+Ointment	Omeprazole	Antihistamine	Salicylate
+Tablet	Aspirin	Antipyretic	NSAID
+Syrup	Ibuprofen	Antipyretic	NSAID
+Capsule	Aspirin	Painkiller	Salicylate
+Capsule	Paracetamol	Antibiotic	PPI
+Injection	Ibuprofen	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Painkiller	Penicillin
+Ointment	Paracetamol	Antacid	NSAID
+Tablet	Paracetamol	Painkiller	Penicillin
+Capsule	Cetrizine	Antacid	PPI
+Capsule	Amoxicillin	Antipyretic	H1 Blocker
+Capsule	Amoxicillin	Antihistamine	Penicillin
+Injection	Metformin	Painkiller	H1 Blocker
+Injection	Amoxicillin	Antipyretic	Penicillin
+Syrup	Ibuprofen	Antacid	Penicillin
+Capsule	Paracetamol	Antibiotic	Penicillin
+Capsule	Aspirin	Antacid	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	NSAID
+Tablet	Paracetamol	Antacid	Penicillin
+Ointment	Cetrizine	Antipyretic	Salicylate
+Tablet	Aspirin	Painkiller	Penicillin
+Injection	Ibuprofen	Antihistamine	PPI
+Injection	Omeprazole	Antibiotic	PPI
+Ointment	Ibuprofen	Antacid	PPI
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antacid	Penicillin
+Tablet	Ibuprofen	Antibiotic	Salicylate
+Capsule	Amoxicillin	Antacid	PPI
+Tablet	Omeprazole	Antacid	PPI
+Ointment	Metformin	Antipyretic	Salicylate
+Ointment	Aspirin	Antibiotic	NSAID
+Syrup	Ibuprofen	Painkiller	Penicillin
+Injection	Paracetamol	Antihistamine	NSAID
+Tablet	Metformin	Antipyretic	Salicylate
+Injection	Cetrizine	Antibiotic	NSAID
+Ointment	Cetrizine	Antibiotic	Salicylate
+Ointment	Paracetamol	Antibiotic	NSAID
+Tablet	Paracetamol	Antibiotic	H1 Blocker
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Tablet	Paracetamol	Antacid	Salicylate
+Tablet	Ibuprofen	Antihistamine	PPI
+Tablet	Cetrizine	Painkiller	Salicylate
+Capsule	Paracetamol	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antacid	PPI
+Ointment	Paracetamol	Antipyretic	Penicillin
+Syrup	Metformin	Painkiller	Penicillin
+Tablet	Aspirin	Antihistamine	Penicillin
+Injection	Omeprazole	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	H1 Blocker
+Capsule	Cetrizine	Antibiotic	Salicylate
+Injection	Aspirin	Painkiller	Salicylate
+Capsule	Omeprazole	Painkiller	PPI
+Injection	Cetrizine	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antihistamine	H1 Blocker
+Capsule	Cetrizine	Antibiotic	Salicylate
+Capsule	Metformin	Antacid	Penicillin
+Syrup	Metformin	Antihistamine	H1 Blocker
+Capsule	Ibuprofen	Antipyretic	NSAID
+Capsule	Omeprazole	Antipyretic	NSAID
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Syrup	Aspirin	Antipyretic	Salicylate
+Syrup	Metformin	Antihistamine	NSAID
+Tablet	Cetrizine	Antacid	PPI
+Injection	Cetrizine	Antipyretic	NSAID
+Syrup	Metformin	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Antacid	NSAID
+Capsule	Amoxicillin	Antibiotic	NSAID
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antibiotic	PPI
+Capsule	Paracetamol	Antibiotic	Penicillin
+Capsule	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Injection	Ibuprofen	Painkiller	Penicillin
+Ointment	Aspirin	Antacid	H1 Blocker
+Tablet	Paracetamol	Antibiotic	NSAID
+Capsule	Ibuprofen	Antipyretic	PPI
+Tablet	Aspirin	Antihistamine	Salicylate
+Syrup	Amoxicillin	Antibiotic	NSAID
+Capsule	Ibuprofen	Antihistamine	Salicylate
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Capsule	Cetrizine	Antacid	Penicillin
+Syrup	Amoxicillin	Painkiller	Penicillin
+Injection	Cetrizine	Antibiotic	NSAID
+Ointment	Ibuprofen	Antacid	NSAID
+Injection	Metformin	Antihistamine	H1 Blocker
+Injection	Aspirin	Antacid	Salicylate
+Capsule	Ibuprofen	Antacid	PPI
+Syrup	Omeprazole	Painkiller	Salicylate
+Capsule	Ibuprofen	Antihistamine	H1 Blocker
+Capsule	Metformin	Antacid	Penicillin
+Injection	Amoxicillin	Antacid	Salicylate
+Injection	Paracetamol	Antipyretic	NSAID
+Injection	Paracetamol	Antacid	PPI
+Syrup	Metformin	Antipyretic	Penicillin
+Tablet	Omeprazole	Antacid	Salicylate
+Capsule	Amoxicillin	Antihistamine	PPI
+Syrup	Cetrizine	Antipyretic	NSAID
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Injection	Ibuprofen	Antacid	PPI
+Capsule	Paracetamol	Antibiotic	Penicillin
+Injection	Paracetamol	Antacid	H1 Blocker
+Capsule	Paracetamol	Antibiotic	Salicylate
+Syrup	Metformin	Painkiller	PPI
+Ointment	Cetrizine	Antipyretic	Penicillin
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Metformin	Painkiller	Salicylate
+Injection	Amoxicillin	Painkiller	NSAID
+Tablet	Paracetamol	Antipyretic	H1 Blocker
+Capsule	Omeprazole	Antibiotic	Salicylate
+Tablet	Aspirin	Painkiller	PPI
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Tablet	Metformin	Painkiller	Salicylate
+Ointment	Paracetamol	Antacid	H1 Blocker
+Ointment	Paracetamol	Painkiller	NSAID
+Ointment	Aspirin	Antihistamine	NSAID
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antacid	Salicylate
+Capsule	Aspirin	Antibiotic	Salicylate
+Tablet	Ibuprofen	Painkiller	Penicillin
+Ointment	Ibuprofen	Antihistamine	Salicylate
+Injection	Aspirin	Antacid	Penicillin
+Tablet	Cetrizine	Antacid	H1 Blocker
+Tablet	Cetrizine	Painkiller	Salicylate
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antacid	Penicillin
+Tablet	Ibuprofen	Antacid	PPI
+Capsule	Ibuprofen	Antipyretic	Salicylate
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Omeprazole	Antipyretic	Penicillin
+Capsule	Paracetamol	Painkiller	PPI
+Tablet	Omeprazole	Painkiller	H1 Blocker
+Capsule	Paracetamol	Antibiotic	PPI
+Injection	Metformin	Antipyretic	PPI
+Ointment	Amoxicillin	Antacid	NSAID
+Syrup	Omeprazole	Painkiller	NSAID
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Injection	Omeprazole	Painkiller	Penicillin
+Syrup	Aspirin	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Salicylate
+Ointment	Omeprazole	Antihistamine	NSAID
+Syrup	Paracetamol	Antibiotic	H1 Blocker
+Injection	Paracetamol	Antipyretic	NSAID
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Injection	Omeprazole	Antibiotic	Penicillin
+Injection	Paracetamol	Antihistamine	NSAID
+Syrup	Omeprazole	Antihistamine	PPI
+Ointment	Paracetamol	Antibiotic	NSAID
+Injection	Paracetamol	Antibiotic	Salicylate
+Ointment	Paracetamol	Antipyretic	PPI
+Injection	Amoxicillin	Antihistamine	PPI
+Syrup	Cetrizine	Antihistamine	PPI
+Syrup	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Aspirin	Antacid	Penicillin
+Syrup	Cetrizine	Antipyretic	NSAID
+Capsule	Metformin	Antipyretic	Salicylate
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Capsule	Omeprazole	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Injection	Ibuprofen	Painkiller	Penicillin
+Injection	Metformin	Painkiller	PPI
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Ointment	Metformin	Antipyretic	Salicylate
+Capsule	Aspirin	Antihistamine	Salicylate
+Ointment	Amoxicillin	Painkiller	Penicillin
+Ointment	Aspirin	Antacid	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	PPI
+Syrup	Cetrizine	Antibiotic	Salicylate
+Tablet	Ibuprofen	Painkiller	NSAID
+Syrup	Metformin	Antibiotic	Penicillin
+Injection	Omeprazole	Painkiller	Salicylate
+Ointment	Amoxicillin	Antacid	Salicylate
+Ointment	Aspirin	Antacid	Salicylate
+Tablet	Aspirin	Antacid	PPI
+Injection	Cetrizine	Painkiller	NSAID
+Tablet	Ibuprofen	Antacid	Penicillin
+Capsule	Metformin	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antibiotic	NSAID
+Injection	Aspirin	Antipyretic	Penicillin
+Injection	Metformin	Painkiller	Salicylate
+Syrup	Aspirin	Antibiotic	H1 Blocker
+Injection	Aspirin	Antibiotic	Penicillin
+Ointment	Ibuprofen	Painkiller	Salicylate
+Tablet	Aspirin	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antihistamine	NSAID
+Capsule	Metformin	Antibiotic	NSAID
+Tablet	Ibuprofen	Antipyretic	NSAID
+Tablet	Amoxicillin	Painkiller	PPI
+Ointment	Amoxicillin	Antacid	Penicillin
+Tablet	Metformin	Antibiotic	NSAID
+Capsule	Metformin	Painkiller	Penicillin
+Capsule	Ibuprofen	Painkiller	Penicillin
+Injection	Omeprazole	Antihistamine	Penicillin
+Capsule	Metformin	Painkiller	H1 Blocker
+Tablet	Paracetamol	Antibiotic	PPI
+Capsule	Amoxicillin	Antacid	NSAID
+Tablet	Aspirin	Antipyretic	H1 Blocker
+Tablet	Paracetamol	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antacid	NSAID
+Injection	Cetrizine	Antihistamine	H1 Blocker
+Syrup	Aspirin	Antibiotic	Salicylate
+Injection	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Metformin	Antacid	PPI
+Capsule	Ibuprofen	Antibiotic	H1 Blocker
+Ointment	Omeprazole	Antipyretic	NSAID
+Syrup	Omeprazole	Antacid	H1 Blocker
+Tablet	Paracetamol	Painkiller	Penicillin
+Injection	Aspirin	Antipyretic	Penicillin
+Syrup	Cetrizine	Painkiller	NSAID
+Tablet	Ibuprofen	Antihistamine	Penicillin
+Capsule	Metformin	Antibiotic	Penicillin
+Ointment	Amoxicillin	Antibiotic	H1 Blocker
+Capsule	Paracetamol	Antibiotic	PPI
+Capsule	Amoxicillin	Antihistamine	NSAID
+Capsule	Aspirin	Antibiotic	Salicylate
+Capsule	Aspirin	Antacid	Salicylate
+Tablet	Metformin	Painkiller	NSAID
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antihistamine	PPI
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	PPI
+Ointment	Paracetamol	Antibiotic	PPI
+Syrup	Metformin	Antihistamine	NSAID
+Ointment	Metformin	Painkiller	Penicillin
+Syrup	Paracetamol	Antacid	Salicylate
+Syrup	Paracetamol	Antihistamine	Penicillin
+Injection	Aspirin	Antipyretic	Penicillin
+Ointment	Metformin	Painkiller	Penicillin
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Ointment	Omeprazole	Antacid	NSAID
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Tablet	Omeprazole	Painkiller	Penicillin
+Tablet	Ibuprofen	Antibiotic	PPI
+Syrup	Cetrizine	Antibiotic	Penicillin
+Injection	Ibuprofen	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Antacid	Salicylate
+Tablet	Paracetamol	Antacid	Penicillin
+Syrup	Omeprazole	Antibiotic	NSAID
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Capsule	Ibuprofen	Antipyretic	Penicillin
+Tablet	Metformin	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	H1 Blocker
+Syrup	Metformin	Antihistamine	PPI
+Injection	Paracetamol	Antipyretic	NSAID
+Tablet	Amoxicillin	Antacid	Penicillin
+Ointment	Omeprazole	Painkiller	PPI
+Tablet	Aspirin	Antibiotic	Penicillin
+Syrup	Paracetamol	Antihistamine	PPI
+Ointment	Paracetamol	Painkiller	PPI
+Ointment	Ibuprofen	Antipyretic	NSAID
+Tablet	Aspirin	Antacid	NSAID
+Capsule	Omeprazole	Antibiotic	Penicillin
+Tablet	Omeprazole	Antipyretic	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	PPI
+Injection	Metformin	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antacid	NSAID
+Tablet	Cetrizine	Antipyretic	Salicylate
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Capsule	Ibuprofen	Painkiller	Penicillin
+Capsule	Ibuprofen	Antipyretic	Penicillin
+Capsule	Metformin	Painkiller	Penicillin
+Syrup	Metformin	Antihistamine	Salicylate
+Injection	Aspirin	Antibiotic	PPI
+Injection	Cetrizine	Antacid	H1 Blocker
+Capsule	Aspirin	Antibiotic	NSAID
+Capsule	Amoxicillin	Antacid	Salicylate
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antihistamine	Salicylate
+Ointment	Cetrizine	Antacid	NSAID
+Capsule	Cetrizine	Antibiotic	Penicillin
+Injection	Metformin	Antacid	Salicylate
+Ointment	Paracetamol	Antibiotic	NSAID
+Ointment	Paracetamol	Antipyretic	H1 Blocker
+Tablet	Paracetamol	Antipyretic	Salicylate
+Capsule	Amoxicillin	Painkiller	Salicylate
+Injection	Metformin	Antacid	H1 Blocker
+Syrup	Metformin	Antihistamine	PPI
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antipyretic	NSAID
+Injection	Cetrizine	Painkiller	Salicylate
+Tablet	Omeprazole	Antacid	PPI
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Tablet	Metformin	Antacid	Penicillin
+Ointment	Cetrizine	Antihistamine	NSAID
+Injection	Omeprazole	Painkiller	Penicillin
+Syrup	Cetrizine	Painkiller	Salicylate
+Capsule	Paracetamol	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Antibiotic	Penicillin
+Syrup	Ibuprofen	Antacid	Penicillin
+Ointment	Cetrizine	Antibiotic	Penicillin
+Tablet	Paracetamol	Antihistamine	Salicylate
+Ointment	Metformin	Antacid	Penicillin
+Capsule	Metformin	Antihistamine	Penicillin
+Injection	Cetrizine	Antipyretic	PPI
+Injection	Metformin	Antihistamine	Penicillin
+Ointment	Cetrizine	Antibiotic	Penicillin
+Tablet	Paracetamol	Antihistamine	PPI
+Injection	Aspirin	Antipyretic	PPI
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	PPI
+Syrup	Omeprazole	Antipyretic	Salicylate
+Ointment	Ibuprofen	Painkiller	PPI
+Syrup	Cetrizine	Antacid	Salicylate
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Paracetamol	Antibiotic	Salicylate
+Capsule	Aspirin	Painkiller	NSAID
+Capsule	Cetrizine	Painkiller	Salicylate
+Ointment	Aspirin	Painkiller	PPI
+Ointment	Ibuprofen	Antibiotic	PPI
+Tablet	Omeprazole	Antihistamine	NSAID
+Capsule	Paracetamol	Antipyretic	NSAID
+Syrup	Omeprazole	Antipyretic	PPI
+Syrup	Amoxicillin	Painkiller	NSAID
+Injection	Omeprazole	Antihistamine	NSAID
+Injection	Amoxicillin	Antacid	Penicillin
+Injection	Aspirin	Painkiller	NSAID
+Ointment	Cetrizine	Antibiotic	Salicylate
+Capsule	Paracetamol	Antihistamine	Salicylate
+Syrup	Aspirin	Antibiotic	Salicylate
+Capsule	Aspirin	Antibiotic	H1 Blocker
+Ointment	Aspirin	Antacid	H1 Blocker
+Capsule	Cetrizine	Antacid	Penicillin
+Tablet	Aspirin	Antihistamine	Salicylate
+Tablet	Metformin	Antibiotic	H1 Blocker
+Ointment	Aspirin	Antacid	PPI
+Syrup	Paracetamol	Antacid	NSAID
+Tablet	Aspirin	Painkiller	H1 Blocker
+Injection	Omeprazole	Antipyretic	Salicylate
+Capsule	Ibuprofen	Antacid	Salicylate
+Capsule	Paracetamol	Antibiotic	PPI
+Capsule	Amoxicillin	Antipyretic	PPI
+Capsule	Omeprazole	Painkiller	PPI
+Injection	Metformin	Antihistamine	PPI
+Syrup	Omeprazole	Painkiller	NSAID
+Capsule	Omeprazole	Antipyretic	Salicylate
+Injection	Metformin	Antihistamine	Salicylate
+Capsule	Metformin	Antacid	Salicylate
+Injection	Metformin	Antibiotic	NSAID
+Injection	Amoxicillin	Antibiotic	Penicillin
+Tablet	Metformin	Antipyretic	Penicillin
+Tablet	Paracetamol	Painkiller	NSAID
+Injection	Paracetamol	Antibiotic	PPI
+Tablet	Aspirin	Antacid	NSAID
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Paracetamol	Antibiotic	Salicylate
+Ointment	Metformin	Antacid	Penicillin
+Capsule	Metformin	Antihistamine	PPI
+Syrup	Ibuprofen	Antacid	PPI
+Syrup	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	PPI
+Capsule	Paracetamol	Antipyretic	NSAID
+Injection	Metformin	Antipyretic	NSAID
+Syrup	Omeprazole	Painkiller	Salicylate
+Syrup	Ibuprofen	Antipyretic	PPI
+Syrup	Omeprazole	Antipyretic	Salicylate
+Tablet	Amoxicillin	Antacid	Salicylate
+Injection	Metformin	Antibiotic	PPI
+Ointment	Ibuprofen	Antibiotic	PPI
+Tablet	Amoxicillin	Antacid	NSAID
+Ointment	Paracetamol	Antacid	H1 Blocker
+Syrup	Omeprazole	Antibiotic	PPI
+Syrup	Aspirin	Antacid	NSAID
+Ointment	Cetrizine	Antihistamine	Penicillin
+Ointment	Ibuprofen	Antihistamine	NSAID
+Tablet	Paracetamol	Painkiller	Salicylate
+Injection	Omeprazole	Antihistamine	Penicillin
+Ointment	Omeprazole	Antihistamine	H1 Blocker
+Injection	Metformin	Antibiotic	H1 Blocker
+Injection	Metformin	Antihistamine	Penicillin
+Tablet	Paracetamol	Antacid	Penicillin
+Syrup	Paracetamol	Antihistamine	PPI
+Syrup	Aspirin	Antihistamine	Salicylate
+Capsule	Cetrizine	Antacid	Salicylate
+Capsule	Aspirin	Antihistamine	Penicillin
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Tablet	Aspirin	Painkiller	Penicillin
+Injection	Ibuprofen	Antihistamine	H1 Blocker
+Injection	Amoxicillin	Antipyretic	H1 Blocker
+Tablet	Paracetamol	Antibiotic	Penicillin
+Injection	Paracetamol	Antipyretic	PPI
+Ointment	Cetrizine	Antihistamine	NSAID
+Capsule	Paracetamol	Antacid	NSAID
+Ointment	Cetrizine	Antihistamine	Penicillin
+Syrup	Metformin	Antihistamine	Salicylate
+Capsule	Cetrizine	Antacid	NSAID
+Ointment	Omeprazole	Antacid	Penicillin
+Capsule	Paracetamol	Antacid	Penicillin
+Injection	Cetrizine	Antihistamine	NSAID
+Syrup	Omeprazole	Painkiller	Salicylate
+Capsule	Aspirin	Antihistamine	NSAID
+Tablet	Omeprazole	Painkiller	H1 Blocker
+Ointment	Aspirin	Antibiotic	H1 Blocker
+Injection	Omeprazole	Antacid	Salicylate
+Capsule	Omeprazole	Painkiller	PPI
+Tablet	Metformin	Antihistamine	PPI
+Capsule	Ibuprofen	Antipyretic	NSAID
+Tablet	Omeprazole	Painkiller	NSAID
+Syrup	Aspirin	Antihistamine	Salicylate
+Ointment	Cetrizine	Antacid	Penicillin
+Tablet	Paracetamol	Antihistamine	PPI
+Injection	Amoxicillin	Antibiotic	PPI
+Tablet	Omeprazole	Antacid	H1 Blocker
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Ointment	Omeprazole	Antacid	NSAID
+Ointment	Cetrizine	Painkiller	NSAID
+Capsule	Omeprazole	Painkiller	NSAID
+Tablet	Cetrizine	Painkiller	PPI
+Ointment	Omeprazole	Painkiller	Penicillin
+Injection	Aspirin	Antihistamine	H1 Blocker
+Injection	Aspirin	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Antacid	PPI
+Ointment	Cetrizine	Antihistamine	Penicillin
+Ointment	Omeprazole	Antacid	NSAID
+Tablet	Aspirin	Painkiller	NSAID
+Syrup	Cetrizine	Antihistamine	PPI
+Ointment	Metformin	Painkiller	Penicillin
+Injection	Amoxicillin	Antipyretic	NSAID
+Capsule	Omeprazole	Antacid	H1 Blocker
+Syrup	Cetrizine	Painkiller	Salicylate
+Capsule	Amoxicillin	Antacid	Penicillin
+Tablet	Metformin	Antipyretic	Penicillin
+Syrup	Amoxicillin	Antibiotic	Penicillin
+Ointment	Paracetamol	Antihistamine	PPI
+Syrup	Aspirin	Painkiller	H1 Blocker
+Syrup	Paracetamol	Antihistamine	Penicillin
+Injection	Omeprazole	Antihistamine	PPI
+Injection	Cetrizine	Antacid	Penicillin
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Antibiotic	Salicylate
+Ointment	Ibuprofen	Antipyretic	NSAID
+Injection	Metformin	Painkiller	Salicylate
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Painkiller	Penicillin
+Syrup	Paracetamol	Antihistamine	NSAID
+Injection	Paracetamol	Antihistamine	NSAID
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Syrup	Omeprazole	Antihistamine	PPI
+Injection	Paracetamol	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Capsule	Omeprazole	Antihistamine	Salicylate
+Tablet	Metformin	Antipyretic	NSAID
+Capsule	Omeprazole	Antibiotic	H1 Blocker
+Syrup	Cetrizine	Painkiller	Salicylate
+Ointment	Paracetamol	Antibiotic	PPI
+Syrup	Paracetamol	Antipyretic	H1 Blocker
+Tablet	Metformin	Antipyretic	NSAID
+Syrup	Omeprazole	Antibiotic	PPI
+Tablet	Aspirin	Antacid	NSAID
+Tablet	Aspirin	Antibiotic	PPI
+Tablet	Metformin	Antihistamine	H1 Blocker
+Injection	Paracetamol	Antibiotic	NSAID
+Injection	Amoxicillin	Painkiller	Penicillin
+Injection	Aspirin	Antipyretic	Salicylate
+Tablet	Cetrizine	Antihistamine	Penicillin
+Tablet	Cetrizine	Antihistamine	PPI
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Capsule	Amoxicillin	Antihistamine	Penicillin
+Ointment	Paracetamol	Painkiller	Salicylate
+Capsule	Metformin	Antihistamine	PPI
+Injection	Ibuprofen	Antihistamine	Salicylate
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Ointment	Metformin	Antihistamine	Salicylate
+Ointment	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antipyretic	NSAID
+Tablet	Omeprazole	Painkiller	NSAID
+Injection	Amoxicillin	Antibiotic	PPI
+Tablet	Amoxicillin	Painkiller	Penicillin
+Ointment	Metformin	Painkiller	Penicillin
+Capsule	Ibuprofen	Antihistamine	NSAID
+Tablet	Ibuprofen	Antipyretic	Penicillin
+Tablet	Omeprazole	Antihistamine	PPI
+Tablet	Metformin	Antipyretic	PPI
+Capsule	Metformin	Antipyretic	H1 Blocker
+Ointment	Ibuprofen	Antacid	NSAID
+Injection	Cetrizine	Antipyretic	NSAID
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Cetrizine	Antihistamine	Salicylate
+Ointment	Cetrizine	Antihistamine	Penicillin
+Tablet	Aspirin	Antibiotic	Salicylate
+Tablet	Omeprazole	Painkiller	Salicylate
+Syrup	Amoxicillin	Antacid	Penicillin
+Syrup	Metformin	Antihistamine	Penicillin
+Injection	Amoxicillin	Painkiller	Penicillin
+Ointment	Paracetamol	Antacid	Penicillin
+Syrup	Aspirin	Antacid	H1 Blocker
+Ointment	Metformin	Antibiotic	NSAID
+Injection	Omeprazole	Antihistamine	NSAID
+Tablet	Omeprazole	Antibiotic	NSAID
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antacid	NSAID
+Injection	Amoxicillin	Antacid	H1 Blocker
+Capsule	Metformin	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Antacid	Salicylate
+Capsule	Amoxicillin	Antihistamine	Penicillin
+Capsule	Cetrizine	Antihistamine	Salicylate
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Injection	Cetrizine	Antacid	PPI
+Injection	Cetrizine	Antacid	PPI
+Injection	Omeprazole	Antacid	Salicylate
+Syrup	Metformin	Antibiotic	NSAID
+Tablet	Ibuprofen	Antacid	PPI
+Injection	Aspirin	Antacid	Penicillin
+Syrup	Omeprazole	Antipyretic	PPI
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Injection	Omeprazole	Antacid	Salicylate
+Syrup	Aspirin	Antihistamine	PPI
+Tablet	Paracetamol	Antihistamine	Salicylate
+Syrup	Ibuprofen	Painkiller	Penicillin
+Tablet	Cetrizine	Painkiller	Penicillin
+Ointment	Paracetamol	Antipyretic	Salicylate
+Injection	Ibuprofen	Antibiotic	Penicillin
+Injection	Paracetamol	Painkiller	H1 Blocker
+Tablet	Metformin	Painkiller	Salicylate
+Tablet	Amoxicillin	Antacid	PPI
+Tablet	Omeprazole	Antacid	Penicillin
+Ointment	Omeprazole	Antihistamine	Salicylate
+Syrup	Amoxicillin	Painkiller	Salicylate
+Tablet	Omeprazole	Antacid	Salicylate
+Syrup	Ibuprofen	Painkiller	Penicillin
+Capsule	Paracetamol	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Capsule	Ibuprofen	Antihistamine	Salicylate
+Capsule	Metformin	Antacid	Salicylate
+Ointment	Aspirin	Painkiller	Penicillin
+Capsule	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Paracetamol	Antibiotic	Salicylate
+Tablet	Omeprazole	Painkiller	PPI
+Ointment	Aspirin	Antipyretic	Penicillin
+Ointment	Ibuprofen	Antibiotic	H1 Blocker
+Injection	Cetrizine	Antipyretic	PPI
+Injection	Aspirin	Antibiotic	PPI
+Ointment	Ibuprofen	Antacid	PPI
+Ointment	Amoxicillin	Antibiotic	NSAID
+Capsule	Aspirin	Antipyretic	NSAID
+Syrup	Paracetamol	Painkiller	Salicylate
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Capsule	Omeprazole	Antibiotic	Penicillin
+Capsule	Paracetamol	Antibiotic	NSAID
+Syrup	Aspirin	Antibiotic	Penicillin
+Injection	Amoxicillin	Painkiller	NSAID
+Ointment	Omeprazole	Antihistamine	PPI
+Syrup	Ibuprofen	Antipyretic	NSAID
+Capsule	Omeprazole	Painkiller	H1 Blocker
+Capsule	Aspirin	Antipyretic	PPI
+Ointment	Amoxicillin	Antacid	NSAID
+Syrup	Aspirin	Antipyretic	NSAID
+Injection	Cetrizine	Antihistamine	PPI
+Ointment	Aspirin	Antipyretic	NSAID
+Tablet	Amoxicillin	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	Salicylate
+Tablet	Metformin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Antihistamine	NSAID
+Capsule	Omeprazole	Antacid	PPI
+Ointment	Paracetamol	Antihistamine	Penicillin
+Capsule	Ibuprofen	Antibiotic	H1 Blocker
+Ointment	Paracetamol	Antipyretic	Penicillin
+Tablet	Paracetamol	Antibiotic	NSAID
+Injection	Aspirin	Painkiller	Penicillin
+Capsule	Metformin	Painkiller	NSAID
+Tablet	Paracetamol	Painkiller	NSAID
+Capsule	Aspirin	Painkiller	Penicillin
+Syrup	Metformin	Antihistamine	PPI
+Tablet	Amoxicillin	Painkiller	Penicillin
+Syrup	Amoxicillin	Painkiller	Salicylate
+Tablet	Ibuprofen	Antihistamine	Penicillin
+Ointment	Metformin	Antibiotic	H1 Blocker
+Capsule	Omeprazole	Painkiller	H1 Blocker
+Injection	Omeprazole	Painkiller	Salicylate
+Injection	Metformin	Antipyretic	NSAID
+Syrup	Paracetamol	Antibiotic	NSAID
+Injection	Amoxicillin	Antibiotic	NSAID
+Tablet	Omeprazole	Antibiotic	PPI
+Ointment	Aspirin	Antacid	PPI
+Injection	Metformin	Antibiotic	H1 Blocker
+Capsule	Ibuprofen	Antipyretic	Penicillin
+Tablet	Paracetamol	Antibiotic	Salicylate
+Ointment	Ibuprofen	Antihistamine	Salicylate
+Syrup	Cetrizine	Antipyretic	Salicylate
+Capsule	Amoxicillin	Antacid	Salicylate
+Syrup	Metformin	Antipyretic	PPI
+Tablet	Aspirin	Antibiotic	PPI
+Ointment	Metformin	Antihistamine	PPI
+Tablet	Omeprazole	Antibiotic	Salicylate
+Tablet	Paracetamol	Antibiotic	Salicylate
+Injection	Omeprazole	Antacid	NSAID
+Tablet	Paracetamol	Antibiotic	NSAID
+Ointment	Cetrizine	Antibiotic	Salicylate
+Ointment	Aspirin	Antihistamine	NSAID
+Injection	Omeprazole	Antibiotic	Salicylate
+Tablet	Cetrizine	Antibiotic	Salicylate
+Ointment	Aspirin	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Tablet	Amoxicillin	Antacid	Salicylate
+Ointment	Amoxicillin	Antacid	H1 Blocker
+Injection	Ibuprofen	Painkiller	Salicylate
+Ointment	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	NSAID
+Ointment	Amoxicillin	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Painkiller	Salicylate
+Ointment	Aspirin	Painkiller	Penicillin
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Tablet	Ibuprofen	Antacid	Penicillin
+Capsule	Ibuprofen	Antacid	Penicillin
+Capsule	Metformin	Painkiller	H1 Blocker
+Ointment	Cetrizine	Antihistamine	Salicylate
+Capsule	Omeprazole	Antibiotic	H1 Blocker
+Ointment	Omeprazole	Antihistamine	PPI
+Syrup	Amoxicillin	Antacid	PPI
+Ointment	Aspirin	Antibiotic	H1 Blocker
+Syrup	Omeprazole	Antibiotic	PPI
+Injection	Omeprazole	Antipyretic	NSAID
+Injection	Metformin	Painkiller	Penicillin
+Capsule	Ibuprofen	Antipyretic	NSAID
+Ointment	Metformin	Painkiller	H1 Blocker
+Syrup	Paracetamol	Painkiller	Salicylate
+Tablet	Paracetamol	Antacid	PPI
+Tablet	Paracetamol	Antipyretic	Salicylate
+Capsule	Metformin	Antipyretic	PPI
+Injection	Omeprazole	Antipyretic	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Capsule	Amoxicillin	Antihistamine	PPI
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Ointment	Metformin	Antacid	PPI
+Injection	Aspirin	Painkiller	Salicylate
+Tablet	Aspirin	Antipyretic	Salicylate
+Tablet	Paracetamol	Antacid	Penicillin
+Tablet	Cetrizine	Antihistamine	Salicylate
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Painkiller	NSAID
+Injection	Paracetamol	Antibiotic	PPI
+Capsule	Aspirin	Antihistamine	Penicillin
+Tablet	Metformin	Antipyretic	Penicillin
+Tablet	Omeprazole	Antibiotic	NSAID
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Injection	Aspirin	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antacid	Penicillin
+Tablet	Ibuprofen	Antacid	PPI
+Syrup	Ibuprofen	Antipyretic	PPI
+Tablet	Ibuprofen	Antibiotic	Salicylate
+Injection	Ibuprofen	Antacid	Penicillin
+Tablet	Cetrizine	Antihistamine	NSAID
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Capsule	Omeprazole	Antacid	H1 Blocker
+Syrup	Paracetamol	Antacid	H1 Blocker
+Capsule	Omeprazole	Antipyretic	PPI
+Ointment	Omeprazole	Painkiller	NSAID
+Ointment	Paracetamol	Antihistamine	PPI
+Ointment	Aspirin	Antacid	Penicillin
+Injection	Amoxicillin	Painkiller	Salicylate
+Injection	Ibuprofen	Antipyretic	PPI
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Ointment	Omeprazole	Antipyretic	NSAID
+Capsule	Paracetamol	Antihistamine	PPI
+Ointment	Amoxicillin	Painkiller	Penicillin
+Capsule	Aspirin	Painkiller	Penicillin
+Capsule	Aspirin	Antacid	Salicylate
+Injection	Paracetamol	Antihistamine	Salicylate
+Ointment	Aspirin	Antibiotic	NSAID
+Tablet	Aspirin	Antipyretic	Penicillin
+Injection	Paracetamol	Antihistamine	NSAID
+Ointment	Amoxicillin	Painkiller	PPI
+Ointment	Amoxicillin	Painkiller	Penicillin
+Tablet	Metformin	Antipyretic	NSAID
+Capsule	Ibuprofen	Antibiotic	PPI
+Injection	Paracetamol	Painkiller	H1 Blocker
+Syrup	Aspirin	Antipyretic	Salicylate
+Capsule	Cetrizine	Antipyretic	NSAID
+Injection	Paracetamol	Antihistamine	Penicillin
+Tablet	Paracetamol	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Injection	Aspirin	Antihistamine	Penicillin
+Tablet	Ibuprofen	Antibiotic	Salicylate
+Syrup	Ibuprofen	Antibiotic	NSAID
+Tablet	Cetrizine	Antacid	Penicillin
+Injection	Omeprazole	Antihistamine	Salicylate
+Syrup	Cetrizine	Antacid	NSAID
+Capsule	Omeprazole	Antihistamine	Salicylate
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Injection	Cetrizine	Antacid	Penicillin
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Syrup	Cetrizine	Antacid	Penicillin
+Tablet	Amoxicillin	Antihistamine	PPI
+Syrup	Metformin	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antacid	Salicylate
+Injection	Amoxicillin	Antibiotic	Salicylate
+Capsule	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Antihistamine	PPI
+Ointment	Metformin	Antipyretic	H1 Blocker
+Syrup	Metformin	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antibiotic	NSAID
+Injection	Amoxicillin	Antipyretic	Penicillin
+Injection	Paracetamol	Antibiotic	Salicylate
+Capsule	Omeprazole	Painkiller	NSAID
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Cetrizine	Painkiller	NSAID
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Antacid	Penicillin
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Syrup	Cetrizine	Antacid	Penicillin
+Tablet	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antipyretic	PPI
+Syrup	Omeprazole	Antihistamine	NSAID
+Ointment	Metformin	Antacid	Penicillin
+Ointment	Omeprazole	Antacid	Salicylate
+Injection	Aspirin	Painkiller	PPI
+Tablet	Paracetamol	Antacid	H1 Blocker
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Syrup	Metformin	Antibiotic	PPI
+Ointment	Paracetamol	Painkiller	Salicylate
+Syrup	Metformin	Painkiller	H1 Blocker
+Injection	Ibuprofen	Antacid	NSAID
+Tablet	Omeprazole	Antibiotic	NSAID
+Syrup	Metformin	Painkiller	Salicylate
+Injection	Aspirin	Painkiller	PPI
+Ointment	Ibuprofen	Antihistamine	H1 Blocker
+Syrup	Metformin	Antibiotic	PPI
+Syrup	Ibuprofen	Antihistamine	Penicillin
+Ointment	Amoxicillin	Painkiller	Salicylate
+Ointment	Omeprazole	Antibiotic	Salicylate
+Capsule	Ibuprofen	Painkiller	H1 Blocker
+Injection	Cetrizine	Antibiotic	Penicillin
+Ointment	Omeprazole	Antihistamine	PPI
+Injection	Cetrizine	Antihistamine	Penicillin
+Capsule	Ibuprofen	Antibiotic	PPI
+Ointment	Aspirin	Painkiller	Penicillin
+Tablet	Aspirin	Antacid	Penicillin
+Syrup	Cetrizine	Antihistamine	NSAID
+Syrup	Amoxicillin	Antibiotic	PPI
+Tablet	Aspirin	Antipyretic	Salicylate
+Tablet	Cetrizine	Antacid	Salicylate
+Tablet	Metformin	Antacid	PPI
+Ointment	Omeprazole	Antibiotic	NSAID
+Tablet	Ibuprofen	Antibiotic	Salicylate
+Capsule	Omeprazole	Antipyretic	Penicillin
+Syrup	Amoxicillin	Painkiller	NSAID
+Capsule	Cetrizine	Antihistamine	Penicillin
+Injection	Aspirin	Antacid	NSAID
+Tablet	Amoxicillin	Antacid	NSAID
+Injection	Paracetamol	Antipyretic	NSAID
+Ointment	Ibuprofen	Antihistamine	NSAID
+Capsule	Metformin	Antacid	H1 Blocker
+Ointment	Aspirin	Antacid	PPI
+Injection	Omeprazole	Painkiller	NSAID
+Capsule	Paracetamol	Antipyretic	Penicillin
+Ointment	Ibuprofen	Antacid	PPI
+Tablet	Aspirin	Antibiotic	PPI
+Injection	Cetrizine	Antihistamine	NSAID
+Ointment	Paracetamol	Antipyretic	NSAID
+Capsule	Metformin	Antacid	H1 Blocker
+Injection	Paracetamol	Antacid	H1 Blocker
+Tablet	Aspirin	Antipyretic	PPI
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Injection	Aspirin	Antibiotic	Penicillin
+Capsule	Omeprazole	Antacid	Salicylate
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antihistamine	H1 Blocker
+Capsule	Metformin	Antacid	Salicylate
+Capsule	Metformin	Antipyretic	PPI
+Injection	Metformin	Antihistamine	Salicylate
+Tablet	Paracetamol	Antacid	PPI
+Ointment	Aspirin	Antipyretic	Penicillin
+Syrup	Cetrizine	Antibiotic	PPI
+Injection	Ibuprofen	Antacid	Salicylate
+Syrup	Amoxicillin	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Painkiller	PPI
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Painkiller	Salicylate
+Ointment	Aspirin	Painkiller	Penicillin
+Capsule	Omeprazole	Antibiotic	PPI
+Ointment	Paracetamol	Antipyretic	H1 Blocker
+Injection	Cetrizine	Painkiller	NSAID
+Syrup	Omeprazole	Antacid	NSAID
+Syrup	Paracetamol	Antibiotic	PPI
+Capsule	Amoxicillin	Painkiller	PPI
+Syrup	Amoxicillin	Antihistamine	NSAID
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Omeprazole	Antipyretic	NSAID
+Tablet	Ibuprofen	Painkiller	Penicillin
+Ointment	Omeprazole	Painkiller	Penicillin
+Capsule	Cetrizine	Painkiller	Penicillin
+Syrup	Omeprazole	Antibiotic	Salicylate
+Injection	Cetrizine	Antibiotic	NSAID
+Capsule	Ibuprofen	Antihistamine	PPI
+Syrup	Paracetamol	Painkiller	Salicylate
+Tablet	Omeprazole	Antihistamine	H1 Blocker
+Capsule	Metformin	Antibiotic	Penicillin
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Syrup	Cetrizine	Painkiller	PPI
+Injection	Aspirin	Antihistamine	NSAID
+Tablet	Amoxicillin	Painkiller	Penicillin
+Capsule	Metformin	Antibiotic	Penicillin
+Syrup	Metformin	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antibiotic	Penicillin
+Syrup	Paracetamol	Antipyretic	Penicillin
+Syrup	Amoxicillin	Painkiller	NSAID
+Syrup	Omeprazole	Antipyretic	H1 Blocker
+Tablet	Cetrizine	Antacid	PPI
+Capsule	Cetrizine	Antipyretic	PPI
+Capsule	Cetrizine	Painkiller	Salicylate
+Ointment	Metformin	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Antihistamine	Salicylate
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Ointment	Omeprazole	Antihistamine	Penicillin
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Capsule	Metformin	Antipyretic	PPI
+Syrup	Omeprazole	Antibiotic	NSAID
+Syrup	Amoxicillin	Painkiller	NSAID
+Syrup	Amoxicillin	Antihistamine	PPI
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	NSAID
+Injection	Amoxicillin	Antibiotic	Penicillin
+Injection	Cetrizine	Antibiotic	NSAID
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Syrup	Amoxicillin	Antihistamine	NSAID
+Injection	Omeprazole	Antacid	Penicillin
+Injection	Amoxicillin	Painkiller	Penicillin
+Injection	Paracetamol	Antipyretic	PPI
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Tablet	Amoxicillin	Antihistamine	PPI
+Ointment	Aspirin	Antibiotic	Penicillin
+Ointment	Omeprazole	Painkiller	PPI
+Injection	Paracetamol	Painkiller	Penicillin
+Capsule	Ibuprofen	Antibiotic	NSAID
+Syrup	Amoxicillin	Antipyretic	NSAID
+Capsule	Cetrizine	Painkiller	Penicillin
+Ointment	Metformin	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antacid	Salicylate
+Capsule	Aspirin	Antipyretic	H1 Blocker
+Syrup	Amoxicillin	Painkiller	PPI
+Ointment	Ibuprofen	Antibiotic	H1 Blocker
+Injection	Aspirin	Painkiller	NSAID
+Injection	Aspirin	Painkiller	Salicylate
+Injection	Metformin	Antibiotic	Penicillin
+Capsule	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Omeprazole	Antihistamine	Penicillin
+Tablet	Metformin	Antacid	Salicylate
+Ointment	Aspirin	Antibiotic	Salicylate
+Injection	Omeprazole	Antipyretic	PPI
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Tablet	Metformin	Antibiotic	PPI
+Injection	Omeprazole	Antipyretic	Salicylate
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Capsule	Omeprazole	Antihistamine	NSAID
+Ointment	Ibuprofen	Antihistamine	H1 Blocker
+Capsule	Metformin	Antibiotic	H1 Blocker
+Ointment	Metformin	Antacid	Penicillin
+Injection	Omeprazole	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antipyretic	Penicillin
+Ointment	Metformin	Antihistamine	Penicillin
+Injection	Aspirin	Antihistamine	H1 Blocker
+Injection	Omeprazole	Painkiller	PPI
+Injection	Paracetamol	Painkiller	Salicylate
+Tablet	Metformin	Antipyretic	Salicylate
+Injection	Omeprazole	Painkiller	Penicillin
+Capsule	Amoxicillin	Antipyretic	Salicylate
+Capsule	Amoxicillin	Painkiller	H1 Blocker
+Ointment	Metformin	Antacid	Penicillin
+Syrup	Cetrizine	Antipyretic	PPI
+Syrup	Metformin	Antacid	PPI
+Capsule	Paracetamol	Antibiotic	NSAID
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Capsule	Amoxicillin	Antacid	NSAID
+Syrup	Ibuprofen	Antihistamine	NSAID
+Syrup	Amoxicillin	Antipyretic	Salicylate
+Capsule	Metformin	Antipyretic	Salicylate
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antacid	NSAID
+Ointment	Paracetamol	Antihistamine	Salicylate
+Capsule	Ibuprofen	Antipyretic	Salicylate
+Capsule	Ibuprofen	Antibiotic	NSAID
+Tablet	Aspirin	Painkiller	Penicillin
+Injection	Ibuprofen	Antibiotic	Salicylate
+Capsule	Cetrizine	Antipyretic	PPI
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Antipyretic	H1 Blocker
+Ointment	Metformin	Painkiller	Penicillin
+Injection	Aspirin	Antihistamine	Salicylate
+Syrup	Paracetamol	Antipyretic	NSAID
+Tablet	Cetrizine	Antihistamine	Penicillin
+Tablet	Metformin	Antihistamine	PPI
+Ointment	Paracetamol	Antihistamine	H1 Blocker
+Ointment	Metformin	Antacid	PPI
+Capsule	Amoxicillin	Antacid	NSAID
+Ointment	Paracetamol	Antacid	NSAID
+Syrup	Omeprazole	Antacid	Salicylate
+Tablet	Omeprazole	Antihistamine	Penicillin
+Syrup	Metformin	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antibiotic	PPI
+Syrup	Aspirin	Painkiller	Salicylate
+Ointment	Aspirin	Antipyretic	H1 Blocker
+Syrup	Ibuprofen	Antacid	PPI
+Capsule	Aspirin	Antacid	NSAID
+Ointment	Amoxicillin	Painkiller	PPI
+Capsule	Omeprazole	Painkiller	Penicillin
+Syrup	Omeprazole	Antibiotic	Salicylate
+Injection	Metformin	Antibiotic	H1 Blocker
+Tablet	Metformin	Antihistamine	Penicillin
+Ointment	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Aspirin	Painkiller	PPI
+Injection	Cetrizine	Antihistamine	NSAID
+Capsule	Cetrizine	Antihistamine	Salicylate
+Capsule	Cetrizine	Painkiller	PPI
+Syrup	Aspirin	Antipyretic	Salicylate
+Capsule	Amoxicillin	Antibiotic	Salicylate
+Injection	Amoxicillin	Antihistamine	Salicylate
+Ointment	Metformin	Antihistamine	NSAID
+Tablet	Omeprazole	Antacid	NSAID
+Ointment	Metformin	Antipyretic	H1 Blocker
+Capsule	Ibuprofen	Painkiller	PPI
+Ointment	Metformin	Antibiotic	PPI
+Ointment	Omeprazole	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antibiotic	Penicillin
+Injection	Ibuprofen	Antihistamine	Penicillin
+Injection	Metformin	Painkiller	NSAID
+Injection	Amoxicillin	Antibiotic	Salicylate
+Tablet	Omeprazole	Antipyretic	NSAID
+Capsule	Paracetamol	Painkiller	H1 Blocker
+Injection	Omeprazole	Antihistamine	PPI
+Syrup	Omeprazole	Antibiotic	NSAID
+Ointment	Ibuprofen	Antipyretic	NSAID
+Capsule	Aspirin	Antacid	PPI
+Ointment	Aspirin	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Injection	Paracetamol	Antipyretic	NSAID
+Capsule	Cetrizine	Painkiller	H1 Blocker
+Injection	Aspirin	Antihistamine	NSAID
+Injection	Metformin	Antacid	H1 Blocker
+Syrup	Metformin	Antacid	Salicylate
+Tablet	Metformin	Antipyretic	PPI
+Injection	Omeprazole	Antipyretic	PPI
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Metformin	Painkiller	Penicillin
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Antibiotic	NSAID
+Syrup	Metformin	Painkiller	Penicillin
+Injection	Cetrizine	Antipyretic	NSAID
+Injection	Amoxicillin	Antacid	H1 Blocker
+Syrup	Cetrizine	Antipyretic	Penicillin
+Injection	Ibuprofen	Antihistamine	Penicillin
+Syrup	Metformin	Painkiller	Penicillin
+Syrup	Amoxicillin	Painkiller	Salicylate
+Injection	Aspirin	Antacid	NSAID
+Capsule	Paracetamol	Antihistamine	NSAID
+Capsule	Ibuprofen	Antipyretic	PPI
+Capsule	Paracetamol	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antipyretic	NSAID
+Tablet	Aspirin	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Antacid	Penicillin
+Syrup	Metformin	Antacid	H1 Blocker
+Ointment	Aspirin	Antacid	H1 Blocker
+Syrup	Amoxicillin	Antacid	NSAID
+Ointment	Ibuprofen	Antipyretic	NSAID
+Ointment	Amoxicillin	Painkiller	Penicillin
+Capsule	Aspirin	Antibiotic	Penicillin
+Syrup	Paracetamol	Painkiller	Penicillin
+Tablet	Metformin	Antihistamine	PPI
+Capsule	Aspirin	Painkiller	NSAID
+Capsule	Aspirin	Antihistamine	PPI
+Ointment	Amoxicillin	Antihistamine	Penicillin
+Tablet	Omeprazole	Antihistamine	NSAID
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Antacid	PPI
+Capsule	Aspirin	Antipyretic	Salicylate
+Tablet	Cetrizine	Painkiller	Penicillin
+Ointment	Metformin	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Ointment	Omeprazole	Antibiotic	PPI
+Ointment	Amoxicillin	Antibiotic	NSAID
+Syrup	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Ibuprofen	Painkiller	NSAID
+Ointment	Amoxicillin	Painkiller	Salicylate
+Capsule	Aspirin	Antibiotic	Penicillin
+Tablet	Metformin	Antacid	Salicylate
+Ointment	Aspirin	Antihistamine	PPI
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Ibuprofen	Painkiller	NSAID
+Ointment	Aspirin	Antihistamine	PPI
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Aspirin	Antibiotic	Salicylate
+Syrup	Paracetamol	Antibiotic	H1 Blocker
+Syrup	Paracetamol	Antibiotic	H1 Blocker
+Ointment	Cetrizine	Antipyretic	Salicylate
+Ointment	Cetrizine	Antacid	NSAID
+Syrup	Paracetamol	Antacid	H1 Blocker
+Capsule	Cetrizine	Painkiller	Salicylate
+Ointment	Omeprazole	Antacid	Penicillin
+Ointment	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Omeprazole	Antihistamine	Salicylate
+Syrup	Omeprazole	Painkiller	Penicillin
+Tablet	Amoxicillin	Antibiotic	H1 Blocker
+Ointment	Omeprazole	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Painkiller	NSAID
+Injection	Metformin	Antihistamine	NSAID
+Tablet	Amoxicillin	Antibiotic	PPI
+Syrup	Aspirin	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antibiotic	PPI
+Injection	Metformin	Antihistamine	Penicillin
+Injection	Paracetamol	Antibiotic	PPI
+Injection	Ibuprofen	Antacid	H1 Blocker
+Injection	Amoxicillin	Painkiller	NSAID
+Syrup	Omeprazole	Painkiller	PPI
+Injection	Ibuprofen	Antibiotic	Salicylate
+Tablet	Omeprazole	Antipyretic	PPI
+Capsule	Paracetamol	Antihistamine	PPI
+Injection	Metformin	Antipyretic	Salicylate
+Syrup	Metformin	Painkiller	H1 Blocker
+Capsule	Cetrizine	Painkiller	Penicillin
+Injection	Paracetamol	Painkiller	PPI
+Injection	Aspirin	Antacid	PPI
+Syrup	Paracetamol	Antibiotic	Penicillin
+Ointment	Aspirin	Antibiotic	Salicylate
+Ointment	Cetrizine	Antibiotic	Salicylate
+Injection	Cetrizine	Antihistamine	Salicylate
+Injection	Omeprazole	Painkiller	Penicillin
+Tablet	Metformin	Antihistamine	Salicylate
+Tablet	Cetrizine	Antacid	H1 Blocker
+Capsule	Metformin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antibiotic	NSAID
+Ointment	Ibuprofen	Antibiotic	H1 Blocker
+Ointment	Cetrizine	Antacid	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Penicillin
+Injection	Omeprazole	Antibiotic	NSAID
+Tablet	Amoxicillin	Antibiotic	PPI
+Tablet	Paracetamol	Antibiotic	Salicylate
+Tablet	Aspirin	Antacid	H1 Blocker
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Ointment	Aspirin	Painkiller	PPI
+Ointment	Metformin	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antibiotic	NSAID
+Ointment	Cetrizine	Antipyretic	Penicillin
+Capsule	Cetrizine	Antihistamine	Salicylate
+Ointment	Omeprazole	Painkiller	Salicylate
+Injection	Paracetamol	Antipyretic	PPI
+Capsule	Ibuprofen	Antacid	PPI
+Tablet	Metformin	Antibiotic	NSAID
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Tablet	Amoxicillin	Antacid	H1 Blocker
+Tablet	Cetrizine	Antibiotic	PPI
+Injection	Paracetamol	Antipyretic	Salicylate
+Syrup	Aspirin	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	NSAID
+Injection	Paracetamol	Painkiller	NSAID
+Tablet	Ibuprofen	Antibiotic	NSAID
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	NSAID
+Injection	Cetrizine	Antibiotic	Salicylate
+Injection	Paracetamol	Antibiotic	PPI
+Capsule	Paracetamol	Antacid	H1 Blocker
+Syrup	Omeprazole	Antibiotic	Penicillin
+Tablet	Metformin	Antipyretic	Salicylate
+Ointment	Cetrizine	Antipyretic	NSAID
+Tablet	Amoxicillin	Antibiotic	H1 Blocker
+Ointment	Metformin	Painkiller	Penicillin
+Syrup	Aspirin	Antipyretic	Salicylate
+Syrup	Ibuprofen	Antibiotic	NSAID
+Injection	Metformin	Antibiotic	Penicillin
+Injection	Ibuprofen	Painkiller	Penicillin
+Tablet	Cetrizine	Antipyretic	Penicillin
+Tablet	Paracetamol	Antihistamine	NSAID
+Syrup	Omeprazole	Painkiller	Penicillin
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Paracetamol	Antipyretic	Salicylate
+Ointment	Aspirin	Antibiotic	Penicillin
+Injection	Paracetamol	Antacid	NSAID
+Tablet	Omeprazole	Antipyretic	PPI
+Capsule	Ibuprofen	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antihistamine	NSAID
+Tablet	Metformin	Antipyretic	Salicylate
+Ointment	Ibuprofen	Antihistamine	NSAID
+Tablet	Ibuprofen	Antipyretic	Penicillin
+Syrup	Paracetamol	Antipyretic	NSAID
+Syrup	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Metformin	Painkiller	PPI
+Syrup	Ibuprofen	Antacid	Salicylate
+Ointment	Metformin	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antacid	PPI
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Ointment	Paracetamol	Painkiller	Salicylate
+Injection	Paracetamol	Antibiotic	PPI
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Tablet	Paracetamol	Antipyretic	PPI
+Ointment	Amoxicillin	Antihistamine	NSAID
+Capsule	Metformin	Painkiller	NSAID
+Capsule	Paracetamol	Antibiotic	Penicillin
+Capsule	Cetrizine	Antihistamine	H1 Blocker
+Injection	Aspirin	Painkiller	NSAID
+Syrup	Paracetamol	Antibiotic	PPI
+Syrup	Paracetamol	Antibiotic	Penicillin
+Syrup	Cetrizine	Antibiotic	PPI
+Capsule	Amoxicillin	Antipyretic	NSAID
+Injection	Ibuprofen	Antihistamine	NSAID
+Syrup	Aspirin	Painkiller	Salicylate
+Ointment	Omeprazole	Antibiotic	PPI
+Injection	Omeprazole	Antihistamine	Salicylate
+Syrup	Amoxicillin	Painkiller	PPI
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Metformin	Antacid	Salicylate
+Injection	Aspirin	Antibiotic	H1 Blocker
+Capsule	Omeprazole	Antipyretic	PPI
+Capsule	Omeprazole	Antihistamine	NSAID
+Injection	Aspirin	Antibiotic	Penicillin
+Capsule	Aspirin	Antipyretic	H1 Blocker
+Capsule	Amoxicillin	Antipyretic	PPI
+Ointment	Aspirin	Painkiller	Salicylate
+Syrup	Metformin	Antipyretic	H1 Blocker
+Capsule	Amoxicillin	Antacid	PPI
+Tablet	Omeprazole	Antacid	Penicillin
+Capsule	Paracetamol	Antibiotic	PPI
+Tablet	Cetrizine	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Capsule	Metformin	Antacid	Salicylate
+Ointment	Aspirin	Antihistamine	Penicillin
+Tablet	Paracetamol	Antacid	PPI
+Ointment	Paracetamol	Painkiller	Salicylate
+Syrup	Ibuprofen	Antacid	Penicillin
+Capsule	Cetrizine	Antacid	Salicylate
+Capsule	Aspirin	Antihistamine	NSAID
+Capsule	Cetrizine	Antihistamine	Penicillin
+Injection	Paracetamol	Antihistamine	Penicillin
+Injection	Cetrizine	Painkiller	NSAID
+Capsule	Aspirin	Antipyretic	Penicillin
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Syrup	Metformin	Antacid	NSAID
+Tablet	Metformin	Antihistamine	H1 Blocker
+Injection	Metformin	Painkiller	H1 Blocker
+Capsule	Aspirin	Antacid	H1 Blocker
+Capsule	Paracetamol	Antipyretic	NSAID
+Tablet	Aspirin	Antacid	H1 Blocker
+Ointment	Omeprazole	Antihistamine	NSAID
+Tablet	Ibuprofen	Antipyretic	PPI
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Antacid	Salicylate
+Capsule	Ibuprofen	Antibiotic	Salicylate
+Ointment	Metformin	Antipyretic	PPI
+Injection	Ibuprofen	Antipyretic	NSAID
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Cetrizine	Antihistamine	Salicylate
+Injection	Ibuprofen	Antibiotic	NSAID
+Ointment	Cetrizine	Antacid	PPI
+Ointment	Ibuprofen	Antibiotic	NSAID
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Injection	Paracetamol	Antihistamine	Penicillin
+Syrup	Aspirin	Antacid	NSAID
+Ointment	Amoxicillin	Antipyretic	Penicillin
+Ointment	Cetrizine	Antipyretic	NSAID
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Tablet	Omeprazole	Antipyretic	Salicylate
+Syrup	Aspirin	Antihistamine	Penicillin
+Tablet	Ibuprofen	Antibiotic	H1 Blocker
+Capsule	Amoxicillin	Antihistamine	NSAID
+Injection	Cetrizine	Antipyretic	NSAID
+Tablet	Omeprazole	Antihistamine	Salicylate
+Syrup	Cetrizine	Antibiotic	Salicylate
+Tablet	Metformin	Antihistamine	H1 Blocker
+Syrup	Aspirin	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Painkiller	Penicillin
+Tablet	Metformin	Antacid	Salicylate
+Tablet	Cetrizine	Antipyretic	Penicillin
+Tablet	Cetrizine	Antihistamine	PPI
+Capsule	Metformin	Painkiller	Penicillin
+Tablet	Paracetamol	Antacid	H1 Blocker
+Capsule	Aspirin	Antacid	Penicillin
+Capsule	Ibuprofen	Painkiller	Penicillin
+Injection	Omeprazole	Painkiller	NSAID
+Capsule	Paracetamol	Antihistamine	PPI
+Injection	Cetrizine	Antihistamine	Salicylate
+Injection	Aspirin	Antihistamine	Penicillin
+Capsule	Paracetamol	Antacid	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Ointment	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Metformin	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Painkiller	PPI
+Injection	Aspirin	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	NSAID
+Injection	Aspirin	Painkiller	PPI
+Tablet	Cetrizine	Antihistamine	PPI
+Ointment	Paracetamol	Antipyretic	PPI
+Injection	Aspirin	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Painkiller	PPI
+Syrup	Metformin	Antihistamine	PPI
+Capsule	Metformin	Antibiotic	PPI
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Injection	Paracetamol	Antipyretic	Penicillin
+Tablet	Ibuprofen	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antihistamine	NSAID
+Capsule	Cetrizine	Painkiller	Salicylate
+Tablet	Metformin	Antacid	Salicylate
+Capsule	Cetrizine	Antipyretic	H1 Blocker
+Tablet	Aspirin	Antipyretic	Salicylate
+Injection	Omeprazole	Painkiller	Penicillin
+Syrup	Omeprazole	Antipyretic	Salicylate
+Syrup	Metformin	Antacid	Penicillin
+Injection	Omeprazole	Antacid	H1 Blocker
+Ointment	Paracetamol	Antacid	Penicillin
+Syrup	Aspirin	Antibiotic	NSAID
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antihistamine	NSAID
+Syrup	Ibuprofen	Antipyretic	PPI
+Capsule	Metformin	Antihistamine	Penicillin
+Injection	Cetrizine	Painkiller	PPI
+Injection	Omeprazole	Antipyretic	Penicillin
+Tablet	Omeprazole	Antacid	Salicylate
+Injection	Aspirin	Antihistamine	PPI
+Injection	Omeprazole	Antipyretic	Salicylate
+Syrup	Metformin	Antibiotic	H1 Blocker
+Syrup	Aspirin	Painkiller	Salicylate
+Ointment	Omeprazole	Antibiotic	PPI
+Ointment	Metformin	Antihistamine	NSAID
+Ointment	Metformin	Antihistamine	NSAID
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Syrup	Paracetamol	Antipyretic	NSAID
+Ointment	Cetrizine	Antacid	NSAID
+Ointment	Paracetamol	Antacid	Penicillin
+Capsule	Cetrizine	Antipyretic	NSAID
+Tablet	Omeprazole	Painkiller	PPI
+Tablet	Aspirin	Painkiller	H1 Blocker
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Capsule	Aspirin	Antihistamine	NSAID
+Injection	Paracetamol	Antihistamine	NSAID
+Injection	Metformin	Antipyretic	Salicylate
+Capsule	Metformin	Antacid	H1 Blocker
+Syrup	Ibuprofen	Antihistamine	NSAID
+Ointment	Metformin	Antibiotic	NSAID
+Ointment	Metformin	Antacid	H1 Blocker
+Capsule	Omeprazole	Antihistamine	NSAID
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Cetrizine	Painkiller	H1 Blocker
+Capsule	Aspirin	Painkiller	H1 Blocker
+Ointment	Paracetamol	Painkiller	Penicillin
+Capsule	Amoxicillin	Antihistamine	NSAID
+Ointment	Metformin	Antibiotic	Salicylate
+Ointment	Paracetamol	Antacid	Salicylate
+Syrup	Ibuprofen	Antipyretic	NSAID
+Injection	Cetrizine	Antipyretic	PPI
+Injection	Paracetamol	Antibiotic	Salicylate
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Aspirin	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Antihistamine	Salicylate
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antipyretic	Salicylate
+Tablet	Omeprazole	Antibiotic	Penicillin
+Injection	Amoxicillin	Antacid	Salicylate
+Injection	Aspirin	Antibiotic	NSAID
+Capsule	Aspirin	Antibiotic	Penicillin
+Capsule	Aspirin	Antibiotic	PPI
+Injection	Aspirin	Antibiotic	NSAID
+Injection	Paracetamol	Antihistamine	NSAID
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Ointment	Aspirin	Painkiller	H1 Blocker
+Capsule	Paracetamol	Antibiotic	NSAID
+Ointment	Omeprazole	Antihistamine	Salicylate
+Tablet	Omeprazole	Antihistamine	PPI
+Capsule	Omeprazole	Antipyretic	Salicylate
+Capsule	Ibuprofen	Antipyretic	NSAID
+Tablet	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Aspirin	Antacid	Salicylate
+Syrup	Amoxicillin	Antipyretic	Salicylate
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antibiotic	Salicylate
+Injection	Amoxicillin	Painkiller	PPI
+Ointment	Paracetamol	Antipyretic	Salicylate
+Syrup	Metformin	Antibiotic	NSAID
+Capsule	Cetrizine	Painkiller	NSAID
+Capsule	Amoxicillin	Antihistamine	PPI
+Ointment	Cetrizine	Antacid	H1 Blocker
+Injection	Aspirin	Antacid	H1 Blocker
+Injection	Ibuprofen	Painkiller	NSAID
+Injection	Metformin	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antacid	Salicylate
+Injection	Paracetamol	Antihistamine	Penicillin
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Tablet	Ibuprofen	Antacid	PPI
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Cetrizine	Antacid	PPI
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Antacid	Salicylate
+Capsule	Paracetamol	Antacid	Salicylate
+Injection	Ibuprofen	Antibiotic	NSAID
+Tablet	Metformin	Painkiller	H1 Blocker
+Ointment	Metformin	Antibiotic	Penicillin
+Tablet	Metformin	Antibiotic	NSAID
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Painkiller	Penicillin
+Capsule	Ibuprofen	Painkiller	NSAID
+Injection	Amoxicillin	Antipyretic	Penicillin
+Injection	Paracetamol	Antihistamine	Salicylate
+Capsule	Metformin	Painkiller	Penicillin
+Tablet	Metformin	Painkiller	Salicylate
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Ointment	Metformin	Painkiller	NSAID
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Paracetamol	Painkiller	NSAID
+Injection	Metformin	Antacid	PPI
+Syrup	Cetrizine	Antipyretic	Salicylate
+Capsule	Cetrizine	Antipyretic	PPI
+Syrup	Omeprazole	Antibiotic	Salicylate
+Capsule	Cetrizine	Antibiotic	Penicillin
+Syrup	Cetrizine	Antibiotic	Salicylate
+Injection	Aspirin	Antacid	H1 Blocker
+Tablet	Metformin	Antipyretic	Penicillin
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Injection	Aspirin	Antibiotic	NSAID
+Capsule	Ibuprofen	Painkiller	Salicylate
+Ointment	Ibuprofen	Antihistamine	H1 Blocker
+Tablet	Metformin	Antihistamine	Penicillin
+Injection	Metformin	Antipyretic	Salicylate
+Ointment	Omeprazole	Antacid	Salicylate
+Ointment	Cetrizine	Antihistamine	PPI
+Tablet	Aspirin	Antipyretic	NSAID
+Syrup	Omeprazole	Antibiotic	NSAID
+Tablet	Ibuprofen	Antibiotic	PPI
+Capsule	Cetrizine	Antibiotic	NSAID
+Syrup	Ibuprofen	Antibiotic	NSAID
+Ointment	Aspirin	Antihistamine	Penicillin
+Capsule	Omeprazole	Antihistamine	PPI
+Injection	Omeprazole	Antacid	H1 Blocker
+Injection	Paracetamol	Antacid	PPI
+Capsule	Paracetamol	Antihistamine	Salicylate
+Syrup	Amoxicillin	Antipyretic	NSAID
+Injection	Cetrizine	Painkiller	Salicylate
+Capsule	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Paracetamol	Antihistamine	PPI
+Injection	Metformin	Antihistamine	NSAID
+Syrup	Amoxicillin	Antipyretic	Salicylate
+Injection	Cetrizine	Painkiller	H1 Blocker
+Injection	Cetrizine	Antacid	NSAID
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Metformin	Antacid	H1 Blocker
+Injection	Amoxicillin	Antibiotic	Penicillin
+Ointment	Amoxicillin	Antacid	H1 Blocker
+Injection	Aspirin	Antacid	NSAID
+Tablet	Cetrizine	Antacid	PPI
+Capsule	Aspirin	Antibiotic	PPI
+Injection	Amoxicillin	Antihistamine	Penicillin
+Ointment	Omeprazole	Antipyretic	PPI
+Capsule	Ibuprofen	Antacid	Salicylate
+Injection	Paracetamol	Antihistamine	PPI
+Ointment	Aspirin	Antihistamine	PPI
+Capsule	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Cetrizine	Antacid	Salicylate
+Injection	Omeprazole	Antipyretic	H1 Blocker
+Tablet	Aspirin	Antipyretic	Penicillin
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Capsule	Paracetamol	Antacid	Salicylate
+Ointment	Aspirin	Painkiller	NSAID
+Tablet	Amoxicillin	Antipyretic	Penicillin
+Injection	Cetrizine	Antacid	Penicillin
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Tablet	Amoxicillin	Painkiller	NSAID
+Syrup	Ibuprofen	Antipyretic	NSAID
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Injection	Metformin	Antacid	Salicylate
+Tablet	Omeprazole	Antibiotic	Penicillin
+Tablet	Aspirin	Antihistamine	PPI
+Ointment	Paracetamol	Painkiller	Salicylate
+Tablet	Omeprazole	Antipyretic	PPI
+Ointment	Paracetamol	Antipyretic	NSAID
+Ointment	Cetrizine	Antipyretic	Penicillin
+Injection	Paracetamol	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	Penicillin
+Capsule	Metformin	Antipyretic	PPI
+Capsule	Ibuprofen	Antihistamine	PPI
+Tablet	Paracetamol	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Antacid	NSAID
+Tablet	Metformin	Antipyretic	NSAID
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Capsule	Cetrizine	Antipyretic	Salicylate
+Ointment	Paracetamol	Antihistamine	Salicylate
+Tablet	Omeprazole	Antihistamine	NSAID
+Capsule	Omeprazole	Antibiotic	Penicillin
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Capsule	Aspirin	Painkiller	Salicylate
+Syrup	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Capsule	Amoxicillin	Antacid	H1 Blocker
+Ointment	Aspirin	Antacid	NSAID
+Syrup	Aspirin	Painkiller	NSAID
+Capsule	Cetrizine	Painkiller	Salicylate
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antihistamine	Penicillin
+Tablet	Metformin	Antipyretic	Salicylate
+Capsule	Cetrizine	Painkiller	NSAID
+Tablet	Metformin	Antipyretic	Penicillin
+Ointment	Metformin	Antipyretic	NSAID
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Omeprazole	Antacid	Penicillin
+Syrup	Metformin	Painkiller	Salicylate
+Injection	Ibuprofen	Painkiller	Salicylate
+Capsule	Paracetamol	Antibiotic	Penicillin
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Tablet	Cetrizine	Antibiotic	NSAID
+Capsule	Omeprazole	Antihistamine	NSAID
+Capsule	Amoxicillin	Antihistamine	PPI
+Ointment	Omeprazole	Antipyretic	PPI
+Injection	Amoxicillin	Antibiotic	NSAID
+Ointment	Aspirin	Antacid	Penicillin
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Capsule	Ibuprofen	Antacid	Penicillin
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Tablet	Cetrizine	Antacid	Penicillin
+Syrup	Ibuprofen	Antibiotic	PPI
+Ointment	Paracetamol	Antacid	Salicylate
+Syrup	Paracetamol	Antacid	NSAID
+Syrup	Ibuprofen	Painkiller	Penicillin
+Tablet	Amoxicillin	Painkiller	Salicylate
+Tablet	Metformin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antipyretic	NSAID
+Capsule	Aspirin	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antipyretic	H1 Blocker
+Injection	Cetrizine	Painkiller	NSAID
+Syrup	Omeprazole	Antihistamine	PPI
+Tablet	Paracetamol	Antacid	NSAID
+Syrup	Amoxicillin	Antibiotic	PPI
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Capsule	Aspirin	Painkiller	Penicillin
+Tablet	Cetrizine	Antipyretic	H1 Blocker
+Injection	Ibuprofen	Antacid	Penicillin
+Syrup	Paracetamol	Antibiotic	PPI
+Ointment	Metformin	Antacid	PPI
+Ointment	Metformin	Antibiotic	Penicillin
+Syrup	Omeprazole	Antibiotic	Salicylate
+Syrup	Omeprazole	Antibiotic	NSAID
+Capsule	Amoxicillin	Painkiller	Penicillin
+Ointment	Paracetamol	Antibiotic	Salicylate
+Injection	Aspirin	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Painkiller	NSAID
+Tablet	Paracetamol	Antibiotic	Salicylate
+Capsule	Paracetamol	Antibiotic	Penicillin
+Tablet	Cetrizine	Antacid	Penicillin
+Ointment	Omeprazole	Antihistamine	Salicylate
+Injection	Amoxicillin	Antacid	PPI
+Capsule	Aspirin	Antihistamine	Penicillin
+Ointment	Omeprazole	Painkiller	NSAID
+Syrup	Cetrizine	Antihistamine	Salicylate
+Syrup	Omeprazole	Antacid	Salicylate
+Capsule	Aspirin	Painkiller	Salicylate
+Ointment	Amoxicillin	Antibiotic	NSAID
+Ointment	Amoxicillin	Painkiller	PPI
+Syrup	Metformin	Painkiller	NSAID
+Tablet	Metformin	Antipyretic	PPI
+Ointment	Omeprazole	Antipyretic	Salicylate
+Ointment	Amoxicillin	Antacid	PPI
+Tablet	Metformin	Antipyretic	NSAID
+Injection	Metformin	Painkiller	H1 Blocker
+Injection	Ibuprofen	Antihistamine	H1 Blocker
+Capsule	Aspirin	Painkiller	H1 Blocker
+Injection	Paracetamol	Antacid	NSAID
+Ointment	Aspirin	Antibiotic	Penicillin
+Injection	Paracetamol	Antibiotic	NSAID
+Capsule	Aspirin	Antacid	PPI
+Capsule	Amoxicillin	Antacid	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	PPI
+Capsule	Amoxicillin	Antipyretic	Penicillin
+Ointment	Cetrizine	Antipyretic	PPI
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Paracetamol	Antacid	PPI
+Tablet	Cetrizine	Painkiller	Penicillin
+Capsule	Aspirin	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antibiotic	Salicylate
+Ointment	Metformin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Injection	Cetrizine	Antipyretic	PPI
+Tablet	Omeprazole	Antipyretic	Penicillin
+Injection	Ibuprofen	Antihistamine	Salicylate
+Injection	Cetrizine	Antacid	Salicylate
+Injection	Ibuprofen	Antibiotic	Penicillin
+Syrup	Paracetamol	Antihistamine	Salicylate
+Tablet	Metformin	Antipyretic	Penicillin
+Tablet	Cetrizine	Antibiotic	NSAID
+Ointment	Aspirin	Antihistamine	Penicillin
+Tablet	Omeprazole	Antipyretic	PPI
+Syrup	Paracetamol	Antibiotic	Penicillin
+Tablet	Cetrizine	Painkiller	NSAID
+Injection	Metformin	Painkiller	NSAID
+Injection	Ibuprofen	Antihistamine	NSAID
+Ointment	Cetrizine	Antacid	Penicillin
+Syrup	Paracetamol	Antibiotic	PPI
+Ointment	Amoxicillin	Antihistamine	NSAID
+Capsule	Cetrizine	Painkiller	H1 Blocker
+Tablet	Omeprazole	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antipyretic	Penicillin
+Syrup	Aspirin	Antibiotic	Penicillin
+Syrup	Omeprazole	Antacid	H1 Blocker
+Syrup	Amoxicillin	Painkiller	NSAID
+Syrup	Cetrizine	Antacid	Penicillin
+Tablet	Amoxicillin	Antihistamine	PPI
+Injection	Cetrizine	Antipyretic	NSAID
+Tablet	Ibuprofen	Painkiller	PPI
+Syrup	Cetrizine	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antacid	Salicylate
+Syrup	Cetrizine	Antibiotic	PPI
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Cetrizine	Antihistamine	Penicillin
+Capsule	Paracetamol	Antacid	NSAID
+Injection	Aspirin	Antihistamine	PPI
+Syrup	Aspirin	Antacid	NSAID
+Injection	Omeprazole	Antacid	PPI
+Injection	Paracetamol	Antibiotic	H1 Blocker
+Injection	Omeprazole	Painkiller	Salicylate
+Syrup	Metformin	Antihistamine	Salicylate
+Injection	Aspirin	Painkiller	NSAID
+Capsule	Metformin	Antipyretic	H1 Blocker
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Ointment	Omeprazole	Antibiotic	PPI
+Tablet	Cetrizine	Antacid	NSAID
+Ointment	Paracetamol	Antihistamine	Salicylate
+Ointment	Cetrizine	Painkiller	Penicillin
+Syrup	Amoxicillin	Antibiotic	NSAID
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Syrup	Paracetamol	Antacid	H1 Blocker
+Injection	Ibuprofen	Antipyretic	Penicillin
+Injection	Metformin	Antihistamine	Penicillin
+Injection	Paracetamol	Antihistamine	Salicylate
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Paracetamol	Antihistamine	Salicylate
+Injection	Metformin	Antibiotic	Penicillin
+Capsule	Metformin	Antacid	NSAID
+Injection	Omeprazole	Antibiotic	NSAID
+Ointment	Ibuprofen	Painkiller	Salicylate
+Ointment	Amoxicillin	Antibiotic	PPI
+Ointment	Metformin	Antihistamine	Salicylate
+Capsule	Cetrizine	Antibiotic	Penicillin
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Injection	Aspirin	Antihistamine	Salicylate
+Ointment	Paracetamol	Antihistamine	H1 Blocker
+Ointment	Metformin	Antacid	Salicylate
+Ointment	Ibuprofen	Antacid	Penicillin
+Injection	Cetrizine	Antihistamine	Salicylate
+Syrup	Aspirin	Antihistamine	NSAID
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Ointment	Cetrizine	Antibiotic	PPI
+Injection	Amoxicillin	Antacid	NSAID
+Ointment	Omeprazole	Antacid	Salicylate
+Ointment	Ibuprofen	Antihistamine	PPI
+Capsule	Paracetamol	Antibiotic	PPI
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Antipyretic	PPI
+Tablet	Aspirin	Antacid	Salicylate
+Tablet	Omeprazole	Antibiotic	Salicylate
+Capsule	Omeprazole	Painkiller	NSAID
+Injection	Aspirin	Antibiotic	Salicylate
+Ointment	Ibuprofen	Antipyretic	NSAID
+Syrup	Paracetamol	Antibiotic	NSAID
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Injection	Ibuprofen	Antihistamine	Salicylate
+Injection	Paracetamol	Painkiller	H1 Blocker
+Injection	Amoxicillin	Antibiotic	Salicylate
+Tablet	Aspirin	Painkiller	PPI
+Tablet	Aspirin	Antacid	H1 Blocker
+Injection	Paracetamol	Antipyretic	NSAID
+Capsule	Aspirin	Painkiller	Penicillin
+Capsule	Ibuprofen	Antihistamine	Salicylate
+Ointment	Cetrizine	Antihistamine	PPI
+Injection	Paracetamol	Antipyretic	NSAID
+Ointment	Aspirin	Antipyretic	NSAID
+Ointment	Cetrizine	Antipyretic	Penicillin
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Injection	Omeprazole	Antacid	PPI
+Tablet	Amoxicillin	Antipyretic	NSAID
+Injection	Ibuprofen	Antacid	PPI
+Tablet	Cetrizine	Antipyretic	Penicillin
+Injection	Paracetamol	Antacid	NSAID
+Syrup	Cetrizine	Antacid	NSAID
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Tablet	Cetrizine	Antacid	NSAID
+Capsule	Omeprazole	Antibiotic	NSAID
+Ointment	Metformin	Antihistamine	PPI
+Capsule	Omeprazole	Antacid	PPI
+Syrup	Omeprazole	Antipyretic	Penicillin
+Ointment	Metformin	Antipyretic	PPI
+Capsule	Paracetamol	Antipyretic	Salicylate
+Syrup	Aspirin	Painkiller	Penicillin
+Tablet	Ibuprofen	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	NSAID
+Ointment	Aspirin	Antipyretic	NSAID
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Injection	Ibuprofen	Antacid	NSAID
+Syrup	Paracetamol	Antihistamine	Penicillin
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Capsule	Omeprazole	Antibiotic	PPI
+Capsule	Metformin	Antacid	Salicylate
+Capsule	Ibuprofen	Painkiller	Penicillin
+Ointment	Paracetamol	Antibiotic	NSAID
+Ointment	Cetrizine	Antacid	Penicillin
+Ointment	Paracetamol	Antibiotic	PPI
+Ointment	Metformin	Antihistamine	NSAID
+Injection	Aspirin	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Capsule	Paracetamol	Antipyretic	H1 Blocker
+Capsule	Metformin	Antihistamine	H1 Blocker
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antacid	NSAID
+Injection	Amoxicillin	Antacid	NSAID
+Injection	Amoxicillin	Painkiller	PPI
+Capsule	Paracetamol	Antacid	Penicillin
+Capsule	Paracetamol	Painkiller	Penicillin
+Injection	Ibuprofen	Antibiotic	Salicylate
+Capsule	Amoxicillin	Painkiller	Salicylate
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Tablet	Aspirin	Painkiller	H1 Blocker
+Injection	Cetrizine	Painkiller	Penicillin
+Injection	Cetrizine	Antacid	H1 Blocker
+Injection	Metformin	Antacid	NSAID
+Capsule	Aspirin	Antibiotic	Penicillin
+Injection	Metformin	Antihistamine	PPI
+Syrup	Paracetamol	Antipyretic	Penicillin
+Capsule	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Amoxicillin	Painkiller	Penicillin
+Capsule	Omeprazole	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	Penicillin
+Injection	Metformin	Antipyretic	PPI
+Capsule	Paracetamol	Painkiller	Penicillin
+Syrup	Cetrizine	Painkiller	Penicillin
+Syrup	Paracetamol	Painkiller	NSAID
+Capsule	Omeprazole	Painkiller	PPI
+Ointment	Metformin	Antibiotic	NSAID
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Syrup	Aspirin	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Painkiller	H1 Blocker
+Tablet	Metformin	Antacid	Penicillin
+Capsule	Aspirin	Antihistamine	PPI
+Ointment	Metformin	Antacid	NSAID
+Tablet	Metformin	Antacid	Penicillin
+Ointment	Metformin	Antipyretic	NSAID
+Tablet	Ibuprofen	Antacid	Penicillin
+Tablet	Paracetamol	Painkiller	Penicillin
+Tablet	Ibuprofen	Antibiotic	H1 Blocker
+Syrup	Aspirin	Antihistamine	PPI
+Capsule	Amoxicillin	Antipyretic	Salicylate
+Ointment	Amoxicillin	Painkiller	NSAID
+Capsule	Omeprazole	Antacid	Salicylate
+Capsule	Ibuprofen	Antacid	PPI
+Tablet	Cetrizine	Antacid	Salicylate
+Ointment	Metformin	Antibiotic	H1 Blocker
+Capsule	Metformin	Antacid	H1 Blocker
+Injection	Aspirin	Painkiller	Penicillin
+Capsule	Amoxicillin	Antihistamine	PPI
+Capsule	Metformin	Antibiotic	Penicillin
+Syrup	Metformin	Antibiotic	NSAID
+Ointment	Amoxicillin	Antibiotic	H1 Blocker
+Capsule	Cetrizine	Antipyretic	Penicillin
+Injection	Paracetamol	Antacid	Salicylate
+Capsule	Ibuprofen	Antihistamine	Salicylate
+Syrup	Cetrizine	Antibiotic	Salicylate
+Syrup	Aspirin	Antipyretic	Salicylate
+Ointment	Paracetamol	Painkiller	PPI
+Tablet	Omeprazole	Antibiotic	Penicillin
+Ointment	Aspirin	Antibiotic	H1 Blocker
+Tablet	Cetrizine	Painkiller	Salicylate
+Injection	Metformin	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Ointment	Ibuprofen	Antibiotic	PPI
+Capsule	Omeprazole	Antipyretic	Penicillin
+Capsule	Paracetamol	Antacid	Salicylate
+Ointment	Omeprazole	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antipyretic	NSAID
+Syrup	Cetrizine	Antihistamine	Penicillin
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Tablet	Amoxicillin	Painkiller	Penicillin
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Ointment	Aspirin	Painkiller	Salicylate
+Ointment	Aspirin	Painkiller	Penicillin
+Ointment	Aspirin	Antacid	H1 Blocker
+Capsule	Paracetamol	Antacid	NSAID
+Syrup	Aspirin	Antihistamine	Salicylate
+Ointment	Paracetamol	Antihistamine	Salicylate
+Injection	Cetrizine	Antacid	H1 Blocker
+Injection	Omeprazole	Antacid	Penicillin
+Syrup	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	NSAID
+Injection	Omeprazole	Antibiotic	NSAID
+Capsule	Metformin	Antacid	NSAID
+Capsule	Amoxicillin	Antihistamine	NSAID
+Tablet	Omeprazole	Antipyretic	NSAID
+Injection	Omeprazole	Antipyretic	Salicylate
+Capsule	Ibuprofen	Antacid	PPI
+Syrup	Paracetamol	Antipyretic	PPI
+Injection	Omeprazole	Antipyretic	Penicillin
+Injection	Omeprazole	Antipyretic	NSAID
+Syrup	Amoxicillin	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antacid	Penicillin
+Tablet	Aspirin	Painkiller	Salicylate
+Injection	Omeprazole	Antihistamine	NSAID
+Tablet	Aspirin	Antipyretic	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	H1 Blocker
+Capsule	Aspirin	Antipyretic	H1 Blocker
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Omeprazole	Antacid	PPI
+Capsule	Metformin	Antacid	Salicylate
+Capsule	Aspirin	Antacid	NSAID
+Tablet	Cetrizine	Antibiotic	NSAID
+Injection	Aspirin	Antihistamine	PPI
+Ointment	Paracetamol	Antihistamine	PPI
+Tablet	Omeprazole	Antihistamine	Salicylate
+Ointment	Metformin	Antihistamine	H1 Blocker
+Capsule	Cetrizine	Antibiotic	NSAID
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Ointment	Paracetamol	Antipyretic	PPI
+Capsule	Cetrizine	Antipyretic	Salicylate
+Capsule	Paracetamol	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antacid	NSAID
+Ointment	Paracetamol	Antacid	PPI
+Capsule	Ibuprofen	Antihistamine	NSAID
+Ointment	Aspirin	Antibiotic	PPI
+Tablet	Paracetamol	Antacid	Penicillin
+Syrup	Metformin	Antibiotic	PPI
+Syrup	Cetrizine	Painkiller	Penicillin
+Injection	Metformin	Painkiller	H1 Blocker
+Tablet	Aspirin	Antibiotic	Salicylate
+Syrup	Metformin	Antipyretic	Penicillin
+Syrup	Aspirin	Antihistamine	Salicylate
+Injection	Ibuprofen	Antacid	PPI
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Capsule	Paracetamol	Antibiotic	Salicylate
+Capsule	Amoxicillin	Antipyretic	NSAID
+Syrup	Omeprazole	Antihistamine	Salicylate
+Ointment	Aspirin	Antipyretic	PPI
+Syrup	Aspirin	Antibiotic	PPI
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Injection	Metformin	Antihistamine	Penicillin
+Ointment	Omeprazole	Antibiotic	H1 Blocker
+Injection	Paracetamol	Antihistamine	Salicylate
+Injection	Omeprazole	Painkiller	NSAID
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Capsule	Cetrizine	Painkiller	Salicylate
+Ointment	Ibuprofen	Antihistamine	PPI
+Tablet	Omeprazole	Antipyretic	NSAID
+Ointment	Ibuprofen	Painkiller	Salicylate
+Injection	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antihistamine	PPI
+Ointment	Cetrizine	Painkiller	Penicillin
+Tablet	Omeprazole	Painkiller	Penicillin
+Syrup	Metformin	Painkiller	PPI
+Ointment	Paracetamol	Antacid	H1 Blocker
+Syrup	Cetrizine	Antacid	NSAID
+Capsule	Amoxicillin	Antibiotic	PPI
+Syrup	Ibuprofen	Painkiller	Salicylate
+Tablet	Ibuprofen	Antipyretic	Salicylate
+Syrup	Metformin	Antipyretic	NSAID
+Tablet	Omeprazole	Antipyretic	Penicillin
+Tablet	Metformin	Antipyretic	PPI
+Ointment	Paracetamol	Antipyretic	Salicylate
+Tablet	Amoxicillin	Painkiller	Penicillin
+Syrup	Cetrizine	Antipyretic	Penicillin
+Ointment	Metformin	Antibiotic	PPI
+Ointment	Omeprazole	Antihistamine	H1 Blocker
+Tablet	Aspirin	Antacid	PPI
+Injection	Amoxicillin	Antihistamine	Salicylate
+Ointment	Paracetamol	Antibiotic	Penicillin
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Salicylate
+Injection	Cetrizine	Antipyretic	NSAID
+Syrup	Ibuprofen	Painkiller	Penicillin
+Tablet	Amoxicillin	Antacid	PPI
+Injection	Paracetamol	Painkiller	H1 Blocker
+Injection	Paracetamol	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Tablet	Amoxicillin	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antipyretic	NSAID
+Tablet	Omeprazole	Antibiotic	PPI
+Capsule	Amoxicillin	Antihistamine	NSAID
+Injection	Omeprazole	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antacid	H1 Blocker
+Capsule	Metformin	Painkiller	H1 Blocker
+Capsule	Cetrizine	Antacid	PPI
+Capsule	Paracetamol	Antihistamine	NSAID
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Tablet	Metformin	Antipyretic	PPI
+Tablet	Aspirin	Antipyretic	PPI
+Capsule	Amoxicillin	Antihistamine	NSAID
+Ointment	Amoxicillin	Antibiotic	Salicylate
+Injection	Cetrizine	Painkiller	PPI
+Ointment	Paracetamol	Antibiotic	NSAID
+Tablet	Omeprazole	Antipyretic	H1 Blocker
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Injection	Metformin	Antipyretic	Penicillin
+Syrup	Omeprazole	Antacid	NSAID
+Injection	Aspirin	Antihistamine	PPI
+Tablet	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Omeprazole	Antihistamine	NSAID
+Injection	Aspirin	Antibiotic	Penicillin
+Injection	Metformin	Painkiller	H1 Blocker
+Capsule	Paracetamol	Antacid	Penicillin
+Syrup	Cetrizine	Antibiotic	Penicillin
+Ointment	Metformin	Antibiotic	H1 Blocker
+Capsule	Omeprazole	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	NSAID
+Injection	Omeprazole	Antacid	Penicillin
+Injection	Omeprazole	Antihistamine	Salicylate
+Syrup	Metformin	Antihistamine	Penicillin
+Syrup	Amoxicillin	Antibiotic	PPI
+Injection	Metformin	Antipyretic	Penicillin
+Ointment	Aspirin	Antibiotic	PPI
+Injection	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Ibuprofen	Antibiotic	PPI
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Ointment	Paracetamol	Antacid	Penicillin
+Syrup	Cetrizine	Antihistamine	PPI
+Syrup	Paracetamol	Antipyretic	PPI
+Tablet	Omeprazole	Antibiotic	Penicillin
+Injection	Omeprazole	Antipyretic	PPI
+Ointment	Amoxicillin	Painkiller	H1 Blocker
+Capsule	Amoxicillin	Painkiller	PPI
+Capsule	Omeprazole	Antihistamine	Salicylate
+Capsule	Paracetamol	Antacid	H1 Blocker
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Cetrizine	Antihistamine	Penicillin
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Ointment	Paracetamol	Antipyretic	Penicillin
+Ointment	Amoxicillin	Painkiller	Salicylate
+Tablet	Cetrizine	Painkiller	Salicylate
+Capsule	Ibuprofen	Antacid	NSAID
+Ointment	Aspirin	Antipyretic	Salicylate
+Ointment	Metformin	Antacid	Penicillin
+Capsule	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Cetrizine	Antibiotic	Penicillin
+Capsule	Cetrizine	Antacid	Salicylate
+Ointment	Metformin	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antacid	PPI
+Capsule	Omeprazole	Painkiller	PPI
+Ointment	Ibuprofen	Antihistamine	NSAID
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Tablet	Aspirin	Antacid	H1 Blocker
+Syrup	Omeprazole	Antihistamine	Salicylate
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Ointment	Cetrizine	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antihistamine	PPI
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Ointment	Amoxicillin	Painkiller	Penicillin
+Injection	Cetrizine	Antihistamine	Penicillin
+Ointment	Cetrizine	Antacid	H1 Blocker
+Injection	Paracetamol	Painkiller	Salicylate
+Ointment	Aspirin	Antipyretic	PPI
+Tablet	Metformin	Painkiller	NSAID
+Ointment	Aspirin	Antihistamine	Salicylate
+Ointment	Omeprazole	Painkiller	Salicylate
+Syrup	Aspirin	Antihistamine	Penicillin
+Capsule	Cetrizine	Antacid	NSAID
+Tablet	Ibuprofen	Antacid	Salicylate
+Syrup	Omeprazole	Antipyretic	Penicillin
+Syrup	Amoxicillin	Antacid	Salicylate
+Tablet	Ibuprofen	Painkiller	PPI
+Capsule	Amoxicillin	Antibiotic	NSAID
+Injection	Aspirin	Antacid	H1 Blocker
+Ointment	Metformin	Antibiotic	Penicillin
+Ointment	Metformin	Antipyretic	NSAID
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Injection	Paracetamol	Antacid	PPI
+Syrup	Metformin	Antipyretic	NSAID
+Syrup	Omeprazole	Painkiller	H1 Blocker
+Capsule	Omeprazole	Antibiotic	Penicillin
+Injection	Cetrizine	Antipyretic	Penicillin
+Injection	Cetrizine	Painkiller	NSAID
+Syrup	Aspirin	Antacid	PPI
+Injection	Amoxicillin	Antipyretic	NSAID
+Syrup	Metformin	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antipyretic	PPI
+Capsule	Amoxicillin	Antacid	NSAID
+Capsule	Paracetamol	Painkiller	Salicylate
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	Penicillin
+Syrup	Metformin	Antibiotic	Salicylate
+Ointment	Amoxicillin	Antacid	Penicillin
+Capsule	Cetrizine	Painkiller	PPI
+Ointment	Paracetamol	Antihistamine	NSAID
+Syrup	Metformin	Antacid	H1 Blocker
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Metformin	Antibiotic	H1 Blocker
+Injection	Aspirin	Antibiotic	NSAID
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Syrup	Omeprazole	Antipyretic	NSAID
+Injection	Aspirin	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Painkiller	NSAID
+Injection	Omeprazole	Antacid	Penicillin
+Syrup	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Ibuprofen	Antibiotic	Salicylate
+Syrup	Aspirin	Antihistamine	Penicillin
+Injection	Paracetamol	Antacid	Salicylate
+Injection	Omeprazole	Painkiller	Salicylate
+Capsule	Amoxicillin	Antibiotic	PPI
+Capsule	Omeprazole	Antacid	Penicillin
+Injection	Aspirin	Antipyretic	PPI
+Capsule	Ibuprofen	Antacid	PPI
+Injection	Ibuprofen	Antihistamine	NSAID
+Injection	Ibuprofen	Antipyretic	PPI
+Syrup	Omeprazole	Painkiller	Penicillin
+Capsule	Cetrizine	Antacid	NSAID
+Capsule	Ibuprofen	Antibiotic	NSAID
+Ointment	Cetrizine	Antibiotic	Salicylate
+Syrup	Paracetamol	Antibiotic	Penicillin
+Tablet	Ibuprofen	Antibiotic	Penicillin
+Tablet	Paracetamol	Antipyretic	Penicillin
+Syrup	Omeprazole	Antihistamine	Salicylate
+Syrup	Aspirin	Antihistamine	PPI
+Capsule	Metformin	Antipyretic	H1 Blocker
+Injection	Ibuprofen	Antibiotic	Penicillin
+Ointment	Paracetamol	Antacid	Penicillin
+Tablet	Paracetamol	Antihistamine	PPI
+Tablet	Amoxicillin	Antihistamine	NSAID
+Tablet	Omeprazole	Antibiotic	Penicillin
+Tablet	Paracetamol	Antihistamine	Salicylate
+Syrup	Aspirin	Antacid	PPI
+Capsule	Metformin	Antibiotic	PPI
+Ointment	Paracetamol	Antacid	PPI
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Capsule	Metformin	Painkiller	H1 Blocker
+Ointment	Metformin	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Antibiotic	Penicillin
+Syrup	Paracetamol	Antacid	PPI
+Syrup	Omeprazole	Painkiller	Salicylate
+Ointment	Aspirin	Painkiller	Salicylate
+Ointment	Cetrizine	Antacid	NSAID
+Injection	Amoxicillin	Antibiotic	Penicillin
+Ointment	Cetrizine	Painkiller	PPI
+Ointment	Cetrizine	Antacid	Salicylate
+Ointment	Amoxicillin	Antipyretic	Salicylate
+Tablet	Aspirin	Antacid	PPI
+Tablet	Metformin	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	Penicillin
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	PPI
+Syrup	Ibuprofen	Antihistamine	NSAID
+Capsule	Aspirin	Antacid	NSAID
+Injection	Paracetamol	Antihistamine	Penicillin
+Ointment	Paracetamol	Antibiotic	Salicylate
+Injection	Paracetamol	Antipyretic	Salicylate
+Injection	Metformin	Antipyretic	Salicylate
+Injection	Metformin	Antihistamine	NSAID
+Ointment	Paracetamol	Antacid	PPI
+Ointment	Omeprazole	Antipyretic	Penicillin
+Tablet	Metformin	Antacid	PPI
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Injection	Ibuprofen	Antacid	PPI
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Syrup	Aspirin	Antibiotic	NSAID
+Capsule	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Ibuprofen	Antacid	NSAID
+Injection	Amoxicillin	Antibiotic	Salicylate
+Tablet	Amoxicillin	Antibiotic	NSAID
+Ointment	Paracetamol	Antihistamine	H1 Blocker
+Injection	Cetrizine	Antacid	Penicillin
+Ointment	Ibuprofen	Antacid	Penicillin
+Capsule	Metformin	Painkiller	Salicylate
+Tablet	Aspirin	Antihistamine	Penicillin
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Syrup	Paracetamol	Antipyretic	NSAID
+Syrup	Amoxicillin	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Ointment	Amoxicillin	Antacid	NSAID
+Syrup	Aspirin	Antipyretic	NSAID
+Tablet	Cetrizine	Antihistamine	PPI
+Tablet	Ibuprofen	Antacid	PPI
+Injection	Amoxicillin	Antacid	H1 Blocker
+Ointment	Aspirin	Antibiotic	Salicylate
+Tablet	Aspirin	Painkiller	Salicylate
+Tablet	Amoxicillin	Painkiller	Penicillin
+Capsule	Ibuprofen	Painkiller	Penicillin
+Syrup	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antacid	H1 Blocker
+Ointment	Omeprazole	Antacid	NSAID
+Tablet	Amoxicillin	Antacid	Salicylate
+Ointment	Omeprazole	Antipyretic	Salicylate
+Ointment	Cetrizine	Painkiller	Salicylate
+Syrup	Aspirin	Antibiotic	H1 Blocker
+Tablet	Paracetamol	Antacid	H1 Blocker
+Tablet	Aspirin	Painkiller	Salicylate
+Ointment	Cetrizine	Antibiotic	PPI
+Ointment	Ibuprofen	Antacid	NSAID
+Syrup	Cetrizine	Painkiller	NSAID
+Tablet	Cetrizine	Antihistamine	NSAID
+Injection	Paracetamol	Antacid	NSAID
+Tablet	Omeprazole	Antibiotic	Penicillin
+Ointment	Omeprazole	Painkiller	Salicylate
+Injection	Cetrizine	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Painkiller	Salicylate
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Antipyretic	PPI
+Injection	Omeprazole	Antibiotic	Salicylate
+Syrup	Omeprazole	Antibiotic	PPI
+Syrup	Omeprazole	Antipyretic	H1 Blocker
+Syrup	Metformin	Antipyretic	H1 Blocker
+Injection	Metformin	Painkiller	PPI
+Capsule	Cetrizine	Painkiller	Penicillin
+Ointment	Cetrizine	Antipyretic	Penicillin
+Injection	Omeprazole	Antihistamine	PPI
+Ointment	Omeprazole	Antihistamine	NSAID
+Injection	Ibuprofen	Antibiotic	NSAID
+Tablet	Omeprazole	Antihistamine	Salicylate
+Tablet	Paracetamol	Painkiller	PPI
+Tablet	Amoxicillin	Antipyretic	H1 Blocker
+Capsule	Omeprazole	Antacid	PPI
+Syrup	Amoxicillin	Antacid	H1 Blocker
+Capsule	Paracetamol	Antihistamine	NSAID
+Syrup	Omeprazole	Antihistamine	H1 Blocker
+Capsule	Aspirin	Antibiotic	PPI
+Syrup	Ibuprofen	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antacid	Salicylate
+Capsule	Ibuprofen	Antibiotic	Penicillin
+Syrup	Aspirin	Antibiotic	PPI
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Ointment	Cetrizine	Antibiotic	Salicylate
+Capsule	Paracetamol	Antihistamine	PPI
+Capsule	Metformin	Painkiller	Penicillin
+Syrup	Ibuprofen	Antipyretic	Penicillin
+Injection	Ibuprofen	Antacid	NSAID
+Tablet	Metformin	Painkiller	PPI
+Syrup	Cetrizine	Antacid	Penicillin
+Injection	Omeprazole	Antibiotic	Penicillin
+Syrup	Omeprazole	Antihistamine	PPI
+Capsule	Ibuprofen	Antacid	Salicylate
+Injection	Amoxicillin	Antacid	Penicillin
+Syrup	Omeprazole	Antihistamine	PPI
+Tablet	Omeprazole	Antibiotic	PPI
+Syrup	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Metformin	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Injection	Aspirin	Painkiller	Penicillin
+Injection	Paracetamol	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	Penicillin
+Syrup	Omeprazole	Antipyretic	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	PPI
+Injection	Amoxicillin	Antacid	PPI
+Syrup	Omeprazole	Painkiller	H1 Blocker
+Ointment	Metformin	Antibiotic	Salicylate
+Injection	Ibuprofen	Antibiotic	PPI
+Capsule	Aspirin	Antibiotic	PPI
+Tablet	Aspirin	Antibiotic	PPI
+Injection	Aspirin	Antipyretic	Penicillin
+Injection	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Omeprazole	Antibiotic	PPI
+Ointment	Amoxicillin	Antibiotic	NSAID
+Syrup	Cetrizine	Antacid	H1 Blocker
+Capsule	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Aspirin	Antibiotic	PPI
+Injection	Amoxicillin	Antacid	Salicylate
+Capsule	Ibuprofen	Painkiller	Salicylate
+Injection	Cetrizine	Antipyretic	Penicillin
+Capsule	Cetrizine	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Painkiller	PPI
+Syrup	Metformin	Antacid	H1 Blocker
+Tablet	Omeprazole	Antipyretic	PPI
+Tablet	Aspirin	Antibiotic	Penicillin
+Capsule	Paracetamol	Antibiotic	Penicillin
+Capsule	Metformin	Painkiller	Penicillin
+Injection	Omeprazole	Antipyretic	Salicylate
+Injection	Cetrizine	Antibiotic	Salicylate
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antibiotic	PPI
+Injection	Omeprazole	Antibiotic	Penicillin
+Tablet	Paracetamol	Antibiotic	Penicillin
+Injection	Aspirin	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	Salicylate
+Injection	Aspirin	Antipyretic	Penicillin
+Tablet	Metformin	Antipyretic	Salicylate
+Injection	Cetrizine	Antacid	Salicylate
+Injection	Metformin	Antipyretic	Penicillin
+Capsule	Metformin	Antihistamine	PPI
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Aspirin	Antibiotic	H1 Blocker
+Capsule	Cetrizine	Antipyretic	NSAID
+Tablet	Ibuprofen	Antacid	PPI
+Ointment	Aspirin	Antibiotic	PPI
+Syrup	Amoxicillin	Antihistamine	NSAID
+Tablet	Aspirin	Antacid	Salicylate
+Capsule	Ibuprofen	Antibiotic	Salicylate
+Ointment	Metformin	Antacid	NSAID
+Tablet	Amoxicillin	Antacid	NSAID
+Tablet	Omeprazole	Antibiotic	PPI
+Ointment	Cetrizine	Antacid	Penicillin
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antipyretic	Salicylate
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Tablet	Cetrizine	Antihistamine	PPI
+Capsule	Metformin	Antacid	Penicillin
+Injection	Paracetamol	Antipyretic	Salicylate
+Syrup	Omeprazole	Antipyretic	Penicillin
+Ointment	Metformin	Painkiller	NSAID
+Syrup	Paracetamol	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antibiotic	Salicylate
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Capsule	Aspirin	Antacid	Penicillin
+Ointment	Omeprazole	Antipyretic	PPI
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Tablet	Amoxicillin	Antacid	Salicylate
+Capsule	Metformin	Antipyretic	NSAID
+Tablet	Aspirin	Antibiotic	Penicillin
+Syrup	Aspirin	Antibiotic	Penicillin
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Injection	Omeprazole	Antacid	Salicylate
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Metformin	Antacid	H1 Blocker
+Tablet	Paracetamol	Painkiller	PPI
+Injection	Aspirin	Antipyretic	NSAID
+Capsule	Aspirin	Antibiotic	PPI
+Tablet	Aspirin	Antacid	Penicillin
+Tablet	Metformin	Antihistamine	PPI
+Syrup	Metformin	Antihistamine	PPI
+Tablet	Ibuprofen	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Antacid	Salicylate
+Tablet	Aspirin	Antihistamine	Penicillin
+Tablet	Omeprazole	Antihistamine	NSAID
+Capsule	Metformin	Antihistamine	Salicylate
+Syrup	Omeprazole	Antihistamine	Penicillin
+Ointment	Omeprazole	Antipyretic	PPI
+Tablet	Cetrizine	Antacid	NSAID
+Syrup	Amoxicillin	Antacid	PPI
+Injection	Aspirin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Painkiller	NSAID
+Syrup	Aspirin	Painkiller	NSAID
+Syrup	Amoxicillin	Antipyretic	NSAID
+Injection	Omeprazole	Antacid	H1 Blocker
+Capsule	Ibuprofen	Antipyretic	PPI
+Capsule	Cetrizine	Antacid	PPI
+Capsule	Omeprazole	Antipyretic	PPI
+Ointment	Paracetamol	Painkiller	Penicillin
+Syrup	Cetrizine	Antibiotic	NSAID
+Ointment	Metformin	Antibiotic	Penicillin
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Syrup	Aspirin	Painkiller	NSAID
+Capsule	Ibuprofen	Antihistamine	PPI
+Tablet	Metformin	Antipyretic	Penicillin
+Tablet	Metformin	Antacid	NSAID
+Injection	Cetrizine	Painkiller	Penicillin
+Syrup	Omeprazole	Antibiotic	PPI
+Capsule	Amoxicillin	Antacid	PPI
+Syrup	Cetrizine	Antihistamine	Salicylate
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antacid	NSAID
+Injection	Ibuprofen	Antihistamine	NSAID
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Capsule	Amoxicillin	Antipyretic	H1 Blocker
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Capsule	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antipyretic	NSAID
+Ointment	Cetrizine	Antipyretic	Penicillin
+Capsule	Cetrizine	Antibiotic	NSAID
+Syrup	Cetrizine	Antipyretic	PPI
+Tablet	Metformin	Antipyretic	H1 Blocker
+Tablet	Metformin	Painkiller	Salicylate
+Tablet	Aspirin	Antibiotic	Salicylate
+Tablet	Ibuprofen	Antacid	Salicylate
+Syrup	Metformin	Antibiotic	NSAID
+Tablet	Metformin	Antacid	PPI
+Syrup	Omeprazole	Antihistamine	PPI
+Ointment	Paracetamol	Antacid	NSAID
+Syrup	Omeprazole	Antihistamine	PPI
+Ointment	Ibuprofen	Painkiller	Penicillin
+Injection	Omeprazole	Painkiller	NSAID
+Capsule	Paracetamol	Antipyretic	PPI
+Tablet	Omeprazole	Antacid	NSAID
+Tablet	Cetrizine	Antipyretic	Penicillin
+Tablet	Paracetamol	Painkiller	NSAID
+Syrup	Paracetamol	Antipyretic	Salicylate
+Syrup	Metformin	Antipyretic	PPI
+Tablet	Cetrizine	Painkiller	Penicillin
+Capsule	Amoxicillin	Painkiller	Penicillin
+Ointment	Metformin	Painkiller	NSAID
+Syrup	Aspirin	Antipyretic	PPI
+Capsule	Metformin	Antipyretic	H1 Blocker
+Capsule	Metformin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antipyretic	NSAID
+Ointment	Amoxicillin	Antacid	Salicylate
+Injection	Cetrizine	Antacid	Penicillin
+Injection	Amoxicillin	Antacid	Salicylate
+Ointment	Paracetamol	Painkiller	NSAID
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Painkiller	PPI
+Ointment	Amoxicillin	Antacid	NSAID
+Injection	Aspirin	Painkiller	Salicylate
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Capsule	Omeprazole	Antacid	NSAID
+Tablet	Ibuprofen	Antihistamine	Penicillin
+Injection	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antibiotic	Salicylate
+Syrup	Omeprazole	Antacid	Penicillin
+Ointment	Aspirin	Antacid	PPI
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Capsule	Paracetamol	Antibiotic	PPI
+Syrup	Omeprazole	Antacid	PPI
+Capsule	Omeprazole	Antacid	Penicillin
+Syrup	Metformin	Antibiotic	PPI
+Syrup	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Aspirin	Antipyretic	PPI
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Injection	Metformin	Antihistamine	Salicylate
+Tablet	Aspirin	Antacid	PPI
+Syrup	Ibuprofen	Painkiller	Penicillin
+Injection	Ibuprofen	Painkiller	Penicillin
+Syrup	Omeprazole	Antihistamine	PPI
+Tablet	Omeprazole	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antacid	PPI
+Syrup	Metformin	Antipyretic	H1 Blocker
+Syrup	Aspirin	Antacid	Salicylate
+Tablet	Ibuprofen	Antibiotic	NSAID
+Ointment	Paracetamol	Antihistamine	Salicylate
+Tablet	Cetrizine	Antibiotic	Salicylate
+Injection	Ibuprofen	Antipyretic	NSAID
+Syrup	Amoxicillin	Antibiotic	PPI
+Syrup	Metformin	Painkiller	Penicillin
+Ointment	Ibuprofen	Painkiller	NSAID
+Ointment	Paracetamol	Antacid	H1 Blocker
+Tablet	Paracetamol	Antibiotic	Salicylate
+Tablet	Amoxicillin	Painkiller	Penicillin
+Ointment	Omeprazole	Antihistamine	Salicylate
+Injection	Metformin	Antipyretic	NSAID
+Ointment	Aspirin	Antacid	NSAID
+Syrup	Omeprazole	Antipyretic	PPI
+Tablet	Paracetamol	Antipyretic	Salicylate
+Ointment	Ibuprofen	Painkiller	NSAID
+Tablet	Metformin	Antibiotic	Penicillin
+Injection	Amoxicillin	Antipyretic	NSAID
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	Salicylate
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Cetrizine	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Antihistamine	PPI
+Ointment	Omeprazole	Antipyretic	Salicylate
+Tablet	Metformin	Painkiller	NSAID
+Capsule	Ibuprofen	Antipyretic	PPI
+Syrup	Paracetamol	Antibiotic	PPI
+Tablet	Omeprazole	Antihistamine	PPI
+Injection	Cetrizine	Painkiller	PPI
+Tablet	Aspirin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Tablet	Paracetamol	Antipyretic	Salicylate
+Ointment	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antihistamine	PPI
+Capsule	Paracetamol	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antipyretic	PPI
+Tablet	Omeprazole	Antacid	Salicylate
+Tablet	Ibuprofen	Antacid	NSAID
+Tablet	Cetrizine	Antipyretic	Salicylate
+Injection	Aspirin	Antipyretic	PPI
+Injection	Aspirin	Antibiotic	Salicylate
+Injection	Ibuprofen	Antihistamine	Penicillin
+Injection	Omeprazole	Antipyretic	PPI
+Syrup	Omeprazole	Antibiotic	PPI
+Syrup	Cetrizine	Antacid	PPI
+Ointment	Ibuprofen	Antibiotic	Salicylate
+Tablet	Cetrizine	Antihistamine	Penicillin
+Injection	Amoxicillin	Antihistamine	PPI
+Tablet	Amoxicillin	Antibiotic	H1 Blocker
+Capsule	Ibuprofen	Antacid	NSAID
+Tablet	Cetrizine	Painkiller	NSAID
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Capsule	Cetrizine	Painkiller	PPI
+Capsule	Ibuprofen	Antibiotic	Penicillin
+Tablet	Ibuprofen	Antacid	Salicylate
+Tablet	Amoxicillin	Antihistamine	Salicylate
+Tablet	Cetrizine	Antibiotic	Salicylate
+Injection	Amoxicillin	Antibiotic	NSAID
+Syrup	Omeprazole	Antacid	NSAID
+Syrup	Aspirin	Antibiotic	NSAID
+Tablet	Aspirin	Antibiotic	Penicillin
+Injection	Paracetamol	Antacid	Penicillin
+Ointment	Paracetamol	Painkiller	PPI
+Syrup	Omeprazole	Antibiotic	NSAID
+Tablet	Amoxicillin	Antipyretic	PPI
+Tablet	Ibuprofen	Antibiotic	Penicillin
+Capsule	Metformin	Painkiller	PPI
+Injection	Omeprazole	Antibiotic	Salicylate
+Syrup	Metformin	Antihistamine	PPI
+Injection	Aspirin	Antipyretic	NSAID
+Capsule	Amoxicillin	Antihistamine	NSAID
+Syrup	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Omeprazole	Antipyretic	PPI
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Capsule	Omeprazole	Antipyretic	Salicylate
+Tablet	Aspirin	Antibiotic	PPI
+Tablet	Cetrizine	Antihistamine	Salicylate
+Ointment	Cetrizine	Antipyretic	NSAID
+Syrup	Metformin	Antacid	NSAID
+Capsule	Omeprazole	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Injection	Amoxicillin	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antacid	Salicylate
+Capsule	Paracetamol	Painkiller	NSAID
+Injection	Metformin	Antacid	Salicylate
+Injection	Ibuprofen	Antihistamine	Salicylate
+Capsule	Omeprazole	Antacid	NSAID
+Ointment	Paracetamol	Antihistamine	NSAID
+Syrup	Metformin	Painkiller	H1 Blocker
+Ointment	Omeprazole	Antibiotic	Salicylate
+Tablet	Aspirin	Antipyretic	NSAID
+Syrup	Paracetamol	Antibiotic	Salicylate
+Injection	Aspirin	Antibiotic	PPI
+Ointment	Amoxicillin	Painkiller	NSAID
+Tablet	Metformin	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Tablet	Metformin	Antibiotic	NSAID
+Tablet	Amoxicillin	Antibiotic	Salicylate
+Tablet	Aspirin	Antacid	PPI
+Ointment	Ibuprofen	Antipyretic	H1 Blocker
+Ointment	Aspirin	Antipyretic	H1 Blocker
+Capsule	Metformin	Antipyretic	PPI
+Ointment	Aspirin	Antihistamine	H1 Blocker
+Tablet	Metformin	Painkiller	Salicylate
+Tablet	Aspirin	Antibiotic	NSAID
+Syrup	Paracetamol	Antibiotic	PPI
+Tablet	Paracetamol	Painkiller	PPI
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Ointment	Paracetamol	Painkiller	Penicillin
+Injection	Metformin	Antihistamine	Salicylate
+Injection	Aspirin	Antipyretic	PPI
+Syrup	Paracetamol	Antipyretic	Salicylate
+Tablet	Paracetamol	Painkiller	NSAID
+Ointment	Paracetamol	Antihistamine	NSAID
+Tablet	Aspirin	Antacid	PPI
+Capsule	Omeprazole	Painkiller	NSAID
+Injection	Paracetamol	Antacid	Penicillin
+Tablet	Aspirin	Painkiller	Penicillin
+Injection	Metformin	Antipyretic	NSAID
+Syrup	Amoxicillin	Antipyretic	NSAID
+Capsule	Omeprazole	Antacid	NSAID
+Capsule	Metformin	Antacid	Penicillin
+Ointment	Aspirin	Antacid	NSAID
+Tablet	Cetrizine	Antibiotic	Penicillin
+Capsule	Paracetamol	Painkiller	NSAID
+Tablet	Cetrizine	Antibiotic	PPI
+Injection	Omeprazole	Antipyretic	PPI
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Ointment	Cetrizine	Antibiotic	NSAID
+Syrup	Aspirin	Painkiller	PPI
+Syrup	Paracetamol	Antihistamine	Penicillin
+Capsule	Ibuprofen	Antacid	Salicylate
+Tablet	Metformin	Antipyretic	H1 Blocker
+Capsule	Paracetamol	Antacid	NSAID
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Aspirin	Antibiotic	Penicillin
+Tablet	Cetrizine	Antipyretic	PPI
+Tablet	Cetrizine	Antacid	NSAID
+Capsule	Amoxicillin	Antipyretic	PPI
+Ointment	Metformin	Antibiotic	NSAID
+Ointment	Omeprazole	Antacid	PPI
+Capsule	Aspirin	Antacid	NSAID
+Injection	Metformin	Antacid	H1 Blocker
+Injection	Omeprazole	Painkiller	H1 Blocker
+Syrup	Aspirin	Antacid	Salicylate
+Syrup	Omeprazole	Antipyretic	H1 Blocker
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Capsule	Metformin	Antibiotic	NSAID
+Tablet	Omeprazole	Antibiotic	H1 Blocker
+Capsule	Omeprazole	Painkiller	H1 Blocker
+Injection	Metformin	Antacid	Penicillin
+Injection	Amoxicillin	Painkiller	PPI
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Aspirin	Painkiller	Penicillin
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Penicillin
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Tablet	Aspirin	Antacid	Penicillin
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Tablet	Metformin	Antipyretic	NSAID
+Syrup	Amoxicillin	Antipyretic	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Tablet	Metformin	Antihistamine	PPI
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Painkiller	H1 Blocker
+Injection	Omeprazole	Antipyretic	PPI
+Capsule	Metformin	Antacid	Penicillin
+Tablet	Metformin	Antibiotic	Penicillin
+Capsule	Metformin	Antipyretic	Penicillin
+Tablet	Ibuprofen	Antipyretic	Salicylate
+Tablet	Aspirin	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Painkiller	PPI
+Injection	Amoxicillin	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Antibiotic	H1 Blocker
+Injection	Amoxicillin	Antibiotic	PPI
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Syrup	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Aspirin	Antacid	PPI
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Syrup	Paracetamol	Painkiller	Penicillin
+Ointment	Paracetamol	Antihistamine	Salicylate
+Tablet	Metformin	Antihistamine	H1 Blocker
+Capsule	Metformin	Painkiller	PPI
+Capsule	Ibuprofen	Antipyretic	PPI
+Capsule	Amoxicillin	Antibiotic	NSAID
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Injection	Metformin	Painkiller	NSAID
+Tablet	Ibuprofen	Antibiotic	Penicillin
+Capsule	Omeprazole	Antipyretic	Salicylate
+Capsule	Cetrizine	Antacid	PPI
+Ointment	Omeprazole	Antibiotic	Penicillin
+Tablet	Metformin	Antibiotic	Penicillin
+Syrup	Omeprazole	Antipyretic	Penicillin
+Injection	Ibuprofen	Antibiotic	H1 Blocker
+Capsule	Paracetamol	Painkiller	NSAID
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Syrup	Cetrizine	Painkiller	Salicylate
+Capsule	Amoxicillin	Antibiotic	PPI
+Injection	Omeprazole	Painkiller	NSAID
+Injection	Cetrizine	Antibiotic	H1 Blocker
+Injection	Amoxicillin	Painkiller	Penicillin
+Ointment	Ibuprofen	Antacid	Salicylate
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Injection	Paracetamol	Antihistamine	Salicylate
+Injection	Cetrizine	Antipyretic	Salicylate
+Capsule	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	PPI
+Ointment	Aspirin	Antipyretic	NSAID
+Ointment	Ibuprofen	Antihistamine	NSAID
+Tablet	Cetrizine	Antacid	Salicylate
+Capsule	Paracetamol	Antipyretic	Salicylate
+Syrup	Ibuprofen	Antacid	Salicylate
+Capsule	Aspirin	Antibiotic	NSAID
+Injection	Amoxicillin	Antipyretic	Penicillin
+Injection	Metformin	Antihistamine	PPI
+Tablet	Amoxicillin	Painkiller	NSAID
+Capsule	Amoxicillin	Painkiller	Penicillin
+Tablet	Ibuprofen	Antibiotic	Penicillin
+Injection	Ibuprofen	Antibiotic	Penicillin
+Ointment	Omeprazole	Antihistamine	Penicillin
+Capsule	Amoxicillin	Antibiotic	PPI
+Capsule	Amoxicillin	Antacid	Salicylate
+Tablet	Metformin	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antibiotic	NSAID
+Syrup	Metformin	Antibiotic	Salicylate
+Tablet	Amoxicillin	Antacid	Salicylate
+Tablet	Ibuprofen	Painkiller	NSAID
+Ointment	Aspirin	Painkiller	NSAID
+Ointment	Amoxicillin	Antibiotic	PPI
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antihistamine	PPI
+Syrup	Metformin	Antacid	Penicillin
+Syrup	Omeprazole	Antipyretic	Salicylate
+Tablet	Amoxicillin	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antipyretic	NSAID
+Syrup	Paracetamol	Antacid	NSAID
+Syrup	Cetrizine	Antihistamine	Penicillin
+Capsule	Metformin	Painkiller	Salicylate
+Capsule	Omeprazole	Antipyretic	NSAID
+Ointment	Cetrizine	Antipyretic	NSAID
+Capsule	Aspirin	Painkiller	PPI
+Injection	Ibuprofen	Antacid	H1 Blocker
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Ointment	Metformin	Antacid	NSAID
+Ointment	Aspirin	Antibiotic	PPI
+Ointment	Metformin	Painkiller	NSAID
+Injection	Omeprazole	Antibiotic	PPI
+Ointment	Amoxicillin	Antipyretic	NSAID
+Syrup	Omeprazole	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antacid	Penicillin
+Capsule	Paracetamol	Antipyretic	PPI
+Tablet	Metformin	Painkiller	PPI
+Syrup	Ibuprofen	Painkiller	H1 Blocker
+Syrup	Aspirin	Painkiller	PPI
+Capsule	Omeprazole	Antibiotic	H1 Blocker
+Injection	Metformin	Antibiotic	PPI
+Injection	Cetrizine	Painkiller	Salicylate
+Ointment	Cetrizine	Antibiotic	PPI
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Amoxicillin	Painkiller	NSAID
+Tablet	Metformin	Antibiotic	Penicillin
+Tablet	Aspirin	Painkiller	Salicylate
+Injection	Amoxicillin	Painkiller	NSAID
+Syrup	Omeprazole	Antihistamine	Penicillin
+Tablet	Cetrizine	Antihistamine	PPI
+Tablet	Metformin	Antacid	PPI
+Capsule	Cetrizine	Antihistamine	H1 Blocker
+Tablet	Paracetamol	Antibiotic	PPI
+Syrup	Paracetamol	Antihistamine	Salicylate
+Injection	Amoxicillin	Antihistamine	PPI
+Injection	Aspirin	Antibiotic	NSAID
+Capsule	Omeprazole	Antibiotic	H1 Blocker
+Ointment	Metformin	Antihistamine	PPI
+Injection	Cetrizine	Antihistamine	Penicillin
+Injection	Omeprazole	Painkiller	Penicillin
+Injection	Amoxicillin	Antibiotic	Salicylate
+Capsule	Omeprazole	Antibiotic	NSAID
+Capsule	Ibuprofen	Painkiller	PPI
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Injection	Paracetamol	Antacid	PPI
+Ointment	Metformin	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antacid	H1 Blocker
+Ointment	Aspirin	Antibiotic	PPI
+Syrup	Omeprazole	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antihistamine	PPI
+Injection	Amoxicillin	Antacid	Penicillin
+Injection	Aspirin	Antihistamine	H1 Blocker
+Injection	Amoxicillin	Antihistamine	NSAID
+Tablet	Metformin	Antipyretic	PPI
+Tablet	Omeprazole	Painkiller	PPI
+Injection	Omeprazole	Antibiotic	Penicillin
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Syrup	Cetrizine	Antacid	Penicillin
+Ointment	Paracetamol	Painkiller	Penicillin
+Syrup	Metformin	Antihistamine	Salicylate
+Injection	Cetrizine	Antipyretic	NSAID
+Tablet	Paracetamol	Painkiller	Salicylate
+Syrup	Metformin	Antihistamine	PPI
+Capsule	Ibuprofen	Painkiller	Penicillin
+Ointment	Cetrizine	Antihistamine	PPI
+Ointment	Omeprazole	Antipyretic	PPI
+Injection	Aspirin	Painkiller	Penicillin
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Syrup	Metformin	Antibiotic	NSAID
+Syrup	Cetrizine	Painkiller	Penicillin
+Capsule	Aspirin	Painkiller	Penicillin
+Syrup	Paracetamol	Antipyretic	Penicillin
+Ointment	Cetrizine	Antacid	H1 Blocker
+Tablet	Cetrizine	Antibiotic	NSAID
+Capsule	Metformin	Antipyretic	H1 Blocker
+Ointment	Aspirin	Antibiotic	NSAID
+Injection	Aspirin	Antihistamine	NSAID
+Syrup	Paracetamol	Antacid	PPI
+Injection	Amoxicillin	Antibiotic	Salicylate
+Syrup	Omeprazole	Antacid	Salicylate
+Capsule	Aspirin	Antihistamine	Salicylate
+Tablet	Cetrizine	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Ibuprofen	Antacid	NSAID
+Injection	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antibiotic	Salicylate
+Injection	Ibuprofen	Antibiotic	H1 Blocker
+Capsule	Amoxicillin	Antihistamine	Penicillin
+Injection	Amoxicillin	Antihistamine	PPI
+Syrup	Ibuprofen	Antihistamine	PPI
+Tablet	Cetrizine	Antipyretic	NSAID
+Capsule	Paracetamol	Antibiotic	Salicylate
+Injection	Aspirin	Antihistamine	Penicillin
+Injection	Aspirin	Painkiller	Salicylate
+Capsule	Ibuprofen	Antihistamine	Salicylate
+Tablet	Amoxicillin	Antacid	NSAID
+Injection	Cetrizine	Painkiller	NSAID
+Syrup	Omeprazole	Antipyretic	NSAID
+Tablet	Metformin	Antibiotic	H1 Blocker
+Capsule	Metformin	Painkiller	NSAID
+Tablet	Aspirin	Antacid	NSAID
+Injection	Metformin	Antibiotic	Salicylate
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antipyretic	PPI
+Injection	Ibuprofen	Antibiotic	H1 Blocker
+Syrup	Paracetamol	Antacid	Penicillin
+Injection	Metformin	Antipyretic	PPI
+Ointment	Cetrizine	Painkiller	H1 Blocker
+Capsule	Ibuprofen	Antacid	Penicillin
+Injection	Aspirin	Antipyretic	Penicillin
+Injection	Aspirin	Antacid	H1 Blocker
+Tablet	Cetrizine	Painkiller	H1 Blocker
+Tablet	Aspirin	Painkiller	NSAID
+Injection	Amoxicillin	Antipyretic	Salicylate
+Ointment	Paracetamol	Painkiller	Salicylate
+Capsule	Paracetamol	Antibiotic	PPI
+Capsule	Ibuprofen	Painkiller	Salicylate
+Syrup	Metformin	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Amoxicillin	Antacid	Salicylate
+Syrup	Omeprazole	Antacid	NSAID
+Injection	Cetrizine	Antacid	NSAID
+Capsule	Omeprazole	Painkiller	Penicillin
+Tablet	Cetrizine	Antacid	H1 Blocker
+Injection	Metformin	Antihistamine	NSAID
+Ointment	Metformin	Antihistamine	Penicillin
+Capsule	Omeprazole	Antihistamine	PPI
+Ointment	Metformin	Painkiller	PPI
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Capsule	Amoxicillin	Painkiller	Salicylate
+Ointment	Amoxicillin	Painkiller	Penicillin
+Capsule	Metformin	Antihistamine	PPI
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Capsule	Ibuprofen	Antihistamine	NSAID
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Capsule	Metformin	Antipyretic	H1 Blocker
+Capsule	Omeprazole	Antibiotic	Penicillin
+Tablet	Ibuprofen	Antibiotic	H1 Blocker
+Capsule	Aspirin	Antipyretic	NSAID
+Capsule	Aspirin	Antibiotic	H1 Blocker
+Capsule	Aspirin	Antipyretic	Penicillin
+Ointment	Amoxicillin	Antibiotic	Penicillin
+Tablet	Paracetamol	Antihistamine	NSAID
+Ointment	Amoxicillin	Antacid	NSAID
+Capsule	Ibuprofen	Antihistamine	PPI
+Ointment	Metformin	Painkiller	NSAID
+Tablet	Omeprazole	Antacid	NSAID
+Capsule	Amoxicillin	Antacid	NSAID
+Injection	Paracetamol	Antipyretic	NSAID
+Ointment	Cetrizine	Painkiller	NSAID
+Syrup	Amoxicillin	Antibiotic	Penicillin
+Injection	Paracetamol	Painkiller	H1 Blocker
+Syrup	Omeprazole	Antibiotic	Penicillin
+Injection	Ibuprofen	Antacid	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Ointment	Cetrizine	Antipyretic	Salicylate
+Ointment	Metformin	Antihistamine	H1 Blocker
+Ointment	Omeprazole	Antihistamine	Penicillin
+Syrup	Ibuprofen	Painkiller	Salicylate
+Capsule	Metformin	Antacid	Penicillin
+Ointment	Aspirin	Painkiller	PPI
+Capsule	Amoxicillin	Antacid	H1 Blocker
+Syrup	Omeprazole	Painkiller	Salicylate
+Syrup	Cetrizine	Antipyretic	H1 Blocker
+Injection	Aspirin	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antihistamine	H1 Blocker
+Injection	Paracetamol	Antacid	Penicillin
+Injection	Cetrizine	Painkiller	Salicylate
+Tablet	Paracetamol	Antipyretic	H1 Blocker
+Capsule	Aspirin	Antacid	H1 Blocker
+Capsule	Paracetamol	Antibiotic	NSAID
+Syrup	Cetrizine	Antacid	NSAID
+Ointment	Metformin	Painkiller	NSAID
+Syrup	Amoxicillin	Antibiotic	NSAID
+Injection	Omeprazole	Antipyretic	PPI
+Tablet	Ibuprofen	Antihistamine	PPI
+Injection	Amoxicillin	Painkiller	Penicillin
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Metformin	Painkiller	Penicillin
+Tablet	Aspirin	Antibiotic	Salicylate
+Ointment	Aspirin	Antipyretic	NSAID
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Tablet	Cetrizine	Antipyretic	H1 Blocker
+Ointment	Aspirin	Antibiotic	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	PPI
+Injection	Metformin	Antacid	H1 Blocker
+Injection	Amoxicillin	Antihistamine	NSAID
+Injection	Amoxicillin	Antacid	PPI
+Syrup	Aspirin	Antacid	Penicillin
+Ointment	Omeprazole	Antibiotic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	PPI
+Injection	Amoxicillin	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antacid	Salicylate
+Capsule	Cetrizine	Antibiotic	PPI
+Syrup	Cetrizine	Antipyretic	PPI
+Injection	Cetrizine	Antacid	Penicillin
+Ointment	Metformin	Antihistamine	Penicillin
+Syrup	Cetrizine	Painkiller	PPI
+Ointment	Metformin	Antihistamine	Penicillin
+Capsule	Aspirin	Antacid	PPI
+Ointment	Metformin	Antibiotic	NSAID
+Capsule	Ibuprofen	Painkiller	PPI
+Ointment	Amoxicillin	Antacid	NSAID
+Injection	Cetrizine	Antibiotic	Salicylate
+Ointment	Paracetamol	Painkiller	Penicillin
+Tablet	Ibuprofen	Antibiotic	NSAID
+Capsule	Metformin	Antacid	H1 Blocker
+Injection	Ibuprofen	Antacid	PPI
+Syrup	Paracetamol	Antihistamine	Salicylate
+Ointment	Amoxicillin	Antacid	NSAID
+Tablet	Cetrizine	Antipyretic	Penicillin
+Tablet	Aspirin	Antipyretic	NSAID
+Ointment	Omeprazole	Painkiller	PPI
+Injection	Amoxicillin	Antipyretic	Penicillin
+Syrup	Paracetamol	Antihistamine	Salicylate
+Syrup	Metformin	Painkiller	NSAID
+Tablet	Aspirin	Antibiotic	Penicillin
+Injection	Amoxicillin	Painkiller	Salicylate
+Ointment	Metformin	Antihistamine	Salicylate
+Ointment	Aspirin	Painkiller	H1 Blocker
+Tablet	Paracetamol	Antacid	PPI
+Capsule	Omeprazole	Painkiller	Penicillin
+Capsule	Cetrizine	Antacid	Salicylate
+Injection	Metformin	Antacid	Penicillin
+Syrup	Omeprazole	Antihistamine	H1 Blocker
+Syrup	Aspirin	Antacid	H1 Blocker
+Syrup	Metformin	Antipyretic	Penicillin
+Tablet	Amoxicillin	Antihistamine	H1 Blocker
+Tablet	Aspirin	Antipyretic	Penicillin
+Tablet	Omeprazole	Painkiller	NSAID
+Syrup	Cetrizine	Antipyretic	Penicillin
+Ointment	Aspirin	Antipyretic	PPI
+Tablet	Omeprazole	Antacid	NSAID
+Tablet	Aspirin	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antacid	Salicylate
+Injection	Amoxicillin	Antipyretic	NSAID
+Capsule	Cetrizine	Antibiotic	PPI
+Syrup	Aspirin	Antacid	Penicillin
+Tablet	Metformin	Antacid	Penicillin
+Tablet	Metformin	Antihistamine	Penicillin
+Injection	Metformin	Antipyretic	Salicylate
+Tablet	Ibuprofen	Antibiotic	NSAID
+Capsule	Paracetamol	Antacid	H1 Blocker
+Injection	Metformin	Antipyretic	Salicylate
+Syrup	Ibuprofen	Antacid	Penicillin
+Tablet	Metformin	Antipyretic	Salicylate
+Capsule	Paracetamol	Antihistamine	Salicylate
+Syrup	Omeprazole	Antacid	Penicillin
+Ointment	Metformin	Antihistamine	NSAID
+Capsule	Paracetamol	Painkiller	Salicylate
+Ointment	Metformin	Antibiotic	PPI
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Injection	Omeprazole	Painkiller	Penicillin
+Syrup	Aspirin	Antacid	NSAID
+Tablet	Metformin	Antipyretic	PPI
+Capsule	Metformin	Antibiotic	NSAID
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Tablet	Cetrizine	Antihistamine	Salicylate
+Tablet	Omeprazole	Antibiotic	PPI
+Syrup	Ibuprofen	Antacid	Penicillin
+Syrup	Cetrizine	Antipyretic	NSAID
+Ointment	Cetrizine	Antihistamine	PPI
+Ointment	Omeprazole	Antacid	Salicylate
+Ointment	Cetrizine	Antacid	PPI
+Tablet	Amoxicillin	Antipyretic	Penicillin
+Tablet	Amoxicillin	Antacid	Salicylate
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Injection	Aspirin	Antihistamine	Penicillin
+Injection	Ibuprofen	Antibiotic	H1 Blocker
+Syrup	Aspirin	Antipyretic	NSAID
+Tablet	Amoxicillin	Painkiller	PPI
+Syrup	Cetrizine	Antibiotic	Penicillin
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Tablet	Paracetamol	Antipyretic	Penicillin
+Syrup	Cetrizine	Antacid	NSAID
+Tablet	Amoxicillin	Antacid	Penicillin
+Capsule	Paracetamol	Painkiller	Salicylate
+Capsule	Cetrizine	Antihistamine	NSAID
+Injection	Cetrizine	Painkiller	Penicillin
+Tablet	Paracetamol	Antipyretic	NSAID
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Tablet	Paracetamol	Antibiotic	Salicylate
+Ointment	Paracetamol	Antacid	PPI
+Syrup	Ibuprofen	Antipyretic	Penicillin
+Capsule	Aspirin	Antipyretic	PPI
+Capsule	Cetrizine	Antipyretic	NSAID
+Ointment	Aspirin	Antacid	NSAID
+Tablet	Omeprazole	Antihistamine	Penicillin
+Injection	Metformin	Painkiller	H1 Blocker
+Injection	Paracetamol	Antacid	PPI
+Ointment	Aspirin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Painkiller	PPI
+Syrup	Cetrizine	Antipyretic	PPI
+Injection	Amoxicillin	Antipyretic	NSAID
+Injection	Metformin	Painkiller	Salicylate
+Capsule	Paracetamol	Antibiotic	H1 Blocker
+Capsule	Amoxicillin	Antipyretic	NSAID
+Tablet	Amoxicillin	Antacid	H1 Blocker
+Ointment	Paracetamol	Antipyretic	NSAID
+Tablet	Omeprazole	Antacid	Penicillin
+Ointment	Cetrizine	Antibiotic	NSAID
+Capsule	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antihistamine	PPI
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Injection	Omeprazole	Antacid	Penicillin
+Injection	Metformin	Antihistamine	H1 Blocker
+Syrup	Ibuprofen	Antacid	NSAID
+Tablet	Cetrizine	Painkiller	H1 Blocker
+Tablet	Omeprazole	Antihistamine	PPI
+Ointment	Amoxicillin	Painkiller	Penicillin
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Ointment	Paracetamol	Antipyretic	Salicylate
+Injection	Cetrizine	Antipyretic	PPI
+Syrup	Ibuprofen	Antipyretic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	PPI
+Injection	Aspirin	Antibiotic	PPI
+Capsule	Paracetamol	Antacid	Salicylate
+Syrup	Omeprazole	Antibiotic	NSAID
+Injection	Paracetamol	Painkiller	Salicylate
+Injection	Amoxicillin	Antibiotic	Salicylate
+Capsule	Omeprazole	Antacid	NSAID
+Injection	Paracetamol	Antipyretic	PPI
+Tablet	Amoxicillin	Painkiller	Salicylate
+Capsule	Amoxicillin	Antacid	PPI
+Syrup	Omeprazole	Antacid	Penicillin
+Syrup	Paracetamol	Antibiotic	Salicylate
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antacid	NSAID
+Tablet	Metformin	Painkiller	Salicylate
+Injection	Amoxicillin	Painkiller	PPI
+Injection	Amoxicillin	Antibiotic	NSAID
+Injection	Omeprazole	Antacid	PPI
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Tablet	Aspirin	Antipyretic	NSAID
+Ointment	Amoxicillin	Painkiller	PPI
+Injection	Omeprazole	Painkiller	PPI
+Tablet	Aspirin	Antacid	H1 Blocker
+Ointment	Paracetamol	Antipyretic	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	NSAID
+Tablet	Amoxicillin	Antihistamine	PPI
+Ointment	Metformin	Antipyretic	Salicylate
+Injection	Ibuprofen	Antipyretic	Salicylate
+Syrup	Metformin	Antibiotic	PPI
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Syrup	Cetrizine	Antipyretic	NSAID
+Syrup	Ibuprofen	Antacid	PPI
+Capsule	Metformin	Antihistamine	NSAID
+Injection	Metformin	Antibiotic	Salicylate
+Ointment	Aspirin	Painkiller	PPI
+Tablet	Metformin	Antipyretic	PPI
+Tablet	Paracetamol	Antacid	PPI
+Injection	Paracetamol	Antibiotic	PPI
+Ointment	Paracetamol	Antipyretic	H1 Blocker
+Ointment	Ibuprofen	Antihistamine	Salicylate
+Ointment	Metformin	Antacid	NSAID
+Capsule	Amoxicillin	Antipyretic	Salicylate
+Ointment	Ibuprofen	Antacid	Penicillin
+Tablet	Ibuprofen	Painkiller	Penicillin
+Syrup	Aspirin	Antipyretic	PPI
+Capsule	Cetrizine	Antipyretic	PPI
+Tablet	Cetrizine	Antacid	H1 Blocker
+Ointment	Metformin	Antihistamine	Penicillin
+Syrup	Metformin	Antibiotic	Penicillin
+Ointment	Omeprazole	Antihistamine	PPI
+Ointment	Amoxicillin	Antihistamine	PPI
+Capsule	Metformin	Antihistamine	Salicylate
+Syrup	Cetrizine	Painkiller	Penicillin
+Injection	Metformin	Antihistamine	Penicillin
+Injection	Metformin	Antihistamine	NSAID
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Metformin	Antacid	NSAID
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Capsule	Omeprazole	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antibiotic	Salicylate
+Capsule	Paracetamol	Antibiotic	H1 Blocker
+Capsule	Cetrizine	Antihistamine	Salicylate
+Capsule	Amoxicillin	Painkiller	Salicylate
+Capsule	Cetrizine	Antihistamine	Penicillin
+Tablet	Ibuprofen	Antihistamine	Penicillin
+Syrup	Paracetamol	Painkiller	H1 Blocker
+Capsule	Cetrizine	Antihistamine	Salicylate
+Injection	Paracetamol	Painkiller	Salicylate
+Tablet	Aspirin	Antipyretic	Salicylate
+Ointment	Omeprazole	Antihistamine	Penicillin
+Syrup	Aspirin	Antacid	Salicylate
+Syrup	Aspirin	Antihistamine	Salicylate
+Ointment	Paracetamol	Antipyretic	NSAID
+Injection	Cetrizine	Antacid	Salicylate
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Injection	Omeprazole	Antibiotic	Salicylate
+Ointment	Ibuprofen	Antipyretic	NSAID
+Capsule	Aspirin	Antipyretic	NSAID
+Syrup	Cetrizine	Painkiller	NSAID
+Tablet	Metformin	Painkiller	H1 Blocker
+Syrup	Aspirin	Antibiotic	Salicylate
+Syrup	Metformin	Antacid	PPI
+Syrup	Metformin	Antipyretic	H1 Blocker
+Ointment	Metformin	Antihistamine	NSAID
+Ointment	Amoxicillin	Antihistamine	Penicillin
+Ointment	Cetrizine	Painkiller	PPI
+Tablet	Omeprazole	Antihistamine	H1 Blocker
+Syrup	Metformin	Antacid	NSAID
+Ointment	Paracetamol	Antihistamine	Salicylate
+Tablet	Aspirin	Antacid	NSAID
+Injection	Cetrizine	Antipyretic	PPI
+Syrup	Ibuprofen	Painkiller	PPI
+Tablet	Metformin	Antibiotic	PPI
+Capsule	Ibuprofen	Antibiotic	Salicylate
+Injection	Paracetamol	Painkiller	Salicylate
+Tablet	Metformin	Antibiotic	NSAID
+Capsule	Paracetamol	Antibiotic	NSAID
+Capsule	Cetrizine	Painkiller	PPI
+Syrup	Amoxicillin	Antihistamine	NSAID
+Ointment	Omeprazole	Antipyretic	H1 Blocker
+Capsule	Amoxicillin	Antibiotic	H1 Blocker
+Injection	Metformin	Antihistamine	NSAID
+Capsule	Aspirin	Antihistamine	NSAID
+Ointment	Amoxicillin	Antacid	PPI
+Syrup	Aspirin	Antibiotic	H1 Blocker
+Injection	Paracetamol	Painkiller	NSAID
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antihistamine	NSAID
+Injection	Paracetamol	Antibiotic	H1 Blocker
+Injection	Aspirin	Painkiller	NSAID
+Capsule	Metformin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	Salicylate
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Syrup	Cetrizine	Antacid	PPI
+Injection	Metformin	Painkiller	NSAID
+Tablet	Aspirin	Antipyretic	Penicillin
+Capsule	Aspirin	Painkiller	PPI
+Tablet	Aspirin	Antipyretic	Penicillin
+Tablet	Amoxicillin	Antibiotic	H1 Blocker
+Syrup	Paracetamol	Antacid	Salicylate
+Syrup	Cetrizine	Antacid	NSAID
+Tablet	Metformin	Antibiotic	H1 Blocker
+Capsule	Paracetamol	Antipyretic	PPI
+Capsule	Paracetamol	Antihistamine	NSAID
+Syrup	Cetrizine	Antacid	Penicillin
+Syrup	Cetrizine	Antipyretic	Penicillin
+Syrup	Metformin	Antacid	Salicylate
+Syrup	Aspirin	Painkiller	Salicylate
+Capsule	Paracetamol	Antacid	H1 Blocker
+Injection	Amoxicillin	Antibiotic	PPI
+Injection	Paracetamol	Antipyretic	PPI
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Syrup	Cetrizine	Antihistamine	PPI
+Injection	Omeprazole	Antipyretic	Penicillin
+Injection	Omeprazole	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Antacid	PPI
+Tablet	Cetrizine	Antipyretic	H1 Blocker
+Syrup	Metformin	Antipyretic	H1 Blocker
+Tablet	Metformin	Painkiller	PPI
+Injection	Metformin	Antacid	PPI
+Tablet	Paracetamol	Antihistamine	NSAID
+Tablet	Aspirin	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Cetrizine	Antacid	PPI
+Syrup	Paracetamol	Painkiller	Penicillin
+Capsule	Metformin	Painkiller	NSAID
+Tablet	Metformin	Antacid	PPI
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Injection	Ibuprofen	Painkiller	PPI
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antibiotic	NSAID
+Tablet	Metformin	Antihistamine	NSAID
+Injection	Ibuprofen	Antipyretic	NSAID
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Antacid	PPI
+Capsule	Metformin	Antipyretic	Salicylate
+Ointment	Omeprazole	Antacid	Salicylate
+Injection	Ibuprofen	Antipyretic	NSAID
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Capsule	Ibuprofen	Painkiller	NSAID
+Capsule	Metformin	Antihistamine	Penicillin
+Tablet	Paracetamol	Antipyretic	NSAID
+Ointment	Ibuprofen	Antacid	Penicillin
+Syrup	Paracetamol	Antihistamine	PPI
+Ointment	Metformin	Antibiotic	Penicillin
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	PPI
+Syrup	Aspirin	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antacid	NSAID
+Capsule	Amoxicillin	Antacid	NSAID
+Tablet	Ibuprofen	Antihistamine	Penicillin
+Tablet	Aspirin	Antibiotic	Penicillin
+Ointment	Ibuprofen	Antibiotic	NSAID
+Injection	Paracetamol	Painkiller	NSAID
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Injection	Ibuprofen	Antibiotic	PPI
+Tablet	Amoxicillin	Painkiller	Penicillin
+Syrup	Metformin	Antipyretic	Salicylate
+Capsule	Aspirin	Antipyretic	PPI
+Ointment	Ibuprofen	Painkiller	NSAID
+Syrup	Paracetamol	Antihistamine	PPI
+Capsule	Paracetamol	Antibiotic	Salicylate
+Injection	Aspirin	Antacid	PPI
+Ointment	Aspirin	Antihistamine	NSAID
+Capsule	Ibuprofen	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Injection	Ibuprofen	Antipyretic	PPI
+Ointment	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	Penicillin
+Syrup	Cetrizine	Antihistamine	PPI
+Ointment	Metformin	Antihistamine	NSAID
+Ointment	Ibuprofen	Antihistamine	NSAID
+Injection	Amoxicillin	Antihistamine	Penicillin
+Capsule	Cetrizine	Antacid	PPI
+Ointment	Cetrizine	Antipyretic	H1 Blocker
+Ointment	Amoxicillin	Antacid	H1 Blocker
+Capsule	Cetrizine	Painkiller	NSAID
+Syrup	Cetrizine	Antihistamine	Penicillin
+Capsule	Amoxicillin	Antacid	PPI
+Syrup	Metformin	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antihistamine	PPI
+Capsule	Aspirin	Antihistamine	PPI
+Ointment	Ibuprofen	Antibiotic	PPI
+Injection	Metformin	Antacid	NSAID
+Syrup	Aspirin	Antihistamine	Salicylate
+Syrup	Cetrizine	Antibiotic	NSAID
+Syrup	Ibuprofen	Antipyretic	Salicylate
+Ointment	Metformin	Antibiotic	NSAID
+Capsule	Omeprazole	Antipyretic	NSAID
+Capsule	Omeprazole	Antibiotic	Salicylate
+Ointment	Paracetamol	Antipyretic	PPI
+Injection	Aspirin	Antibiotic	PPI
+Syrup	Ibuprofen	Antibiotic	PPI
+Syrup	Metformin	Antipyretic	PPI
+Ointment	Paracetamol	Painkiller	NSAID
+Tablet	Metformin	Antipyretic	Salicylate
+Capsule	Paracetamol	Antihistamine	H1 Blocker
+Injection	Cetrizine	Antacid	PPI
+Capsule	Metformin	Painkiller	H1 Blocker
+Tablet	Aspirin	Painkiller	H1 Blocker
+Syrup	Metformin	Antibiotic	PPI
+Capsule	Omeprazole	Antipyretic	PPI
+Ointment	Amoxicillin	Antacid	Salicylate
+Capsule	Metformin	Antacid	H1 Blocker
+Tablet	Metformin	Antacid	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Ointment	Paracetamol	Antibiotic	Salicylate
+Capsule	Metformin	Painkiller	NSAID
+Ointment	Metformin	Antipyretic	Salicylate
+Ointment	Paracetamol	Antipyretic	H1 Blocker
+Injection	Metformin	Painkiller	NSAID
+Tablet	Cetrizine	Antipyretic	Penicillin
+Ointment	Cetrizine	Antacid	PPI
+Tablet	Paracetamol	Painkiller	PPI
+Capsule	Paracetamol	Antacid	Salicylate
+Capsule	Aspirin	Antipyretic	NSAID
+Injection	Amoxicillin	Antacid	NSAID
+Capsule	Aspirin	Antacid	NSAID
+Tablet	Metformin	Antipyretic	NSAID
+Syrup	Cetrizine	Antibiotic	NSAID
+Ointment	Ibuprofen	Antibiotic	NSAID
+Capsule	Amoxicillin	Antihistamine	Penicillin
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Tablet	Aspirin	Painkiller	H1 Blocker
+Ointment	Aspirin	Antacid	NSAID
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	PPI
+Syrup	Ibuprofen	Painkiller	PPI
+Syrup	Omeprazole	Antihistamine	PPI
+Capsule	Omeprazole	Antacid	NSAID
+Ointment	Aspirin	Painkiller	PPI
+Ointment	Ibuprofen	Antacid	NSAID
+Syrup	Ibuprofen	Antihistamine	Penicillin
+Tablet	Aspirin	Antibiotic	Penicillin
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Ointment	Amoxicillin	Antipyretic	NSAID
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Injection	Omeprazole	Antihistamine	Salicylate
+Ointment	Paracetamol	Antipyretic	PPI
+Syrup	Amoxicillin	Antibiotic	PPI
+Ointment	Ibuprofen	Antacid	H1 Blocker
+Syrup	Cetrizine	Antipyretic	NSAID
+Syrup	Omeprazole	Painkiller	Salicylate
+Tablet	Paracetamol	Antacid	Salicylate
+Ointment	Paracetamol	Antacid	H1 Blocker
+Tablet	Omeprazole	Antacid	H1 Blocker
+Injection	Omeprazole	Antipyretic	PPI
+Tablet	Omeprazole	Antipyretic	Penicillin
+Tablet	Amoxicillin	Antipyretic	PPI
+Ointment	Cetrizine	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Antibiotic	Salicylate
+Syrup	Metformin	Painkiller	Penicillin
+Tablet	Aspirin	Antacid	PPI
+Capsule	Cetrizine	Antibiotic	Penicillin
+Injection	Paracetamol	Painkiller	H1 Blocker
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Capsule	Cetrizine	Antacid	Salicylate
+Capsule	Ibuprofen	Antibiotic	PPI
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Injection	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Metformin	Antipyretic	Penicillin
+Injection	Amoxicillin	Antihistamine	NSAID
+Syrup	Metformin	Antipyretic	PPI
+Injection	Cetrizine	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Painkiller	Penicillin
+Tablet	Omeprazole	Antipyretic	Salicylate
+Syrup	Metformin	Antihistamine	NSAID
+Capsule	Aspirin	Antihistamine	Salicylate
+Tablet	Omeprazole	Antihistamine	H1 Blocker
+Capsule	Metformin	Painkiller	H1 Blocker
+Injection	Aspirin	Antacid	PPI
+Injection	Aspirin	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Antibiotic	PPI
+Tablet	Paracetamol	Painkiller	PPI
+Capsule	Ibuprofen	Antipyretic	Salicylate
+Ointment	Cetrizine	Antibiotic	Salicylate
+Tablet	Aspirin	Painkiller	H1 Blocker
+Syrup	Cetrizine	Antibiotic	PPI
+Tablet	Omeprazole	Antacid	NSAID
+Tablet	Amoxicillin	Antihistamine	NSAID
+Ointment	Omeprazole	Antibiotic	Penicillin
+Syrup	Cetrizine	Antipyretic	Penicillin
+Capsule	Cetrizine	Antacid	NSAID
+Capsule	Aspirin	Painkiller	H1 Blocker
+Syrup	Aspirin	Painkiller	PPI
+Syrup	Ibuprofen	Antacid	Penicillin
+Syrup	Aspirin	Antipyretic	Salicylate
+Syrup	Metformin	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antipyretic	Salicylate
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Ointment	Omeprazole	Painkiller	NSAID
+Capsule	Amoxicillin	Antacid	NSAID
+Syrup	Amoxicillin	Antipyretic	H1 Blocker
+Tablet	Aspirin	Painkiller	PPI
+Capsule	Aspirin	Antibiotic	H1 Blocker
+Ointment	Amoxicillin	Painkiller	NSAID
+Tablet	Paracetamol	Antipyretic	H1 Blocker
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Capsule	Cetrizine	Antipyretic	NSAID
+Injection	Paracetamol	Antihistamine	Penicillin
+Capsule	Metformin	Antacid	Salicylate
+Ointment	Amoxicillin	Antipyretic	Salicylate
+Capsule	Aspirin	Painkiller	Penicillin
+Ointment	Amoxicillin	Antihistamine	Penicillin
+Ointment	Cetrizine	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Antibiotic	Penicillin
+Injection	Omeprazole	Antihistamine	Penicillin
+Ointment	Paracetamol	Painkiller	Penicillin
+Injection	Ibuprofen	Painkiller	Penicillin
+Injection	Ibuprofen	Antipyretic	Salicylate
+Capsule	Cetrizine	Antibiotic	Salicylate
+Ointment	Paracetamol	Painkiller	PPI
+Capsule	Metformin	Antacid	Salicylate
+Injection	Cetrizine	Antibiotic	NSAID
+Ointment	Omeprazole	Antipyretic	NSAID
+Tablet	Cetrizine	Antipyretic	NSAID
+Injection	Aspirin	Antihistamine	PPI
+Tablet	Ibuprofen	Antipyretic	NSAID
+Capsule	Cetrizine	Painkiller	H1 Blocker
+Ointment	Metformin	Antihistamine	Penicillin
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Injection	Cetrizine	Antibiotic	PPI
+Tablet	Amoxicillin	Painkiller	Penicillin
+Injection	Amoxicillin	Antihistamine	PPI
+Tablet	Paracetamol	Painkiller	Salicylate
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Injection	Aspirin	Antacid	H1 Blocker
+Tablet	Aspirin	Antibiotic	NSAID
+Injection	Paracetamol	Antihistamine	H1 Blocker
+Syrup	Cetrizine	Antacid	Salicylate
+Capsule	Omeprazole	Antihistamine	H1 Blocker
+Capsule	Amoxicillin	Antipyretic	NSAID
+Ointment	Cetrizine	Antihistamine	NSAID
+Injection	Amoxicillin	Antacid	Salicylate
+Ointment	Omeprazole	Antihistamine	Penicillin
+Syrup	Omeprazole	Antipyretic	Penicillin
+Tablet	Ibuprofen	Antipyretic	PPI
+Injection	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Painkiller	Penicillin
+Tablet	Cetrizine	Antihistamine	H1 Blocker
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Syrup	Paracetamol	Antacid	PPI
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Capsule	Omeprazole	Antacid	Salicylate
+Injection	Aspirin	Antibiotic	PPI
+Ointment	Omeprazole	Painkiller	Penicillin
+Syrup	Metformin	Antihistamine	H1 Blocker
+Capsule	Metformin	Antihistamine	NSAID
+Injection	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Aspirin	Antibiotic	Penicillin
+Ointment	Amoxicillin	Painkiller	PPI
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Injection	Cetrizine	Antihistamine	PPI
+Syrup	Amoxicillin	Antihistamine	NSAID
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Antacid	NSAID
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Antibiotic	NSAID
+Injection	Paracetamol	Antibiotic	Penicillin
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Omeprazole	Antihistamine	NSAID
+Capsule	Cetrizine	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antihistamine	NSAID
+Tablet	Metformin	Antihistamine	NSAID
+Capsule	Cetrizine	Antipyretic	Penicillin
+Tablet	Ibuprofen	Antibiotic	NSAID
+Capsule	Omeprazole	Painkiller	Penicillin
+Capsule	Aspirin	Antihistamine	Penicillin
+Ointment	Cetrizine	Antihistamine	NSAID
+Capsule	Amoxicillin	Antibiotic	H1 Blocker
+Tablet	Cetrizine	Antacid	H1 Blocker
+Injection	Paracetamol	Painkiller	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	Penicillin
+Capsule	Ibuprofen	Antibiotic	PPI
+Ointment	Omeprazole	Antihistamine	NSAID
+Ointment	Omeprazole	Antacid	PPI
+Tablet	Paracetamol	Antipyretic	Penicillin
+Tablet	Omeprazole	Antipyretic	PPI
+Injection	Omeprazole	Antihistamine	Penicillin
+Tablet	Metformin	Antihistamine	Salicylate
+Injection	Cetrizine	Painkiller	H1 Blocker
+Ointment	Cetrizine	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Antihistamine	Salicylate
+Capsule	Paracetamol	Antipyretic	NSAID
+Capsule	Aspirin	Antihistamine	PPI
+Capsule	Aspirin	Antihistamine	NSAID
+Injection	Metformin	Antihistamine	H1 Blocker
+Injection	Aspirin	Antihistamine	H1 Blocker
+Injection	Metformin	Antacid	H1 Blocker
+Injection	Metformin	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antihistamine	Penicillin
+Injection	Aspirin	Antipyretic	Salicylate
+Injection	Amoxicillin	Antihistamine	PPI
+Syrup	Paracetamol	Antihistamine	NSAID
+Capsule	Ibuprofen	Antibiotic	PPI
+Syrup	Amoxicillin	Painkiller	H1 Blocker
+Capsule	Aspirin	Antihistamine	NSAID
+Capsule	Paracetamol	Antihistamine	NSAID
+Tablet	Metformin	Antipyretic	PPI
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Painkiller	NSAID
+Capsule	Amoxicillin	Painkiller	NSAID
+Tablet	Omeprazole	Antacid	Penicillin
+Tablet	Omeprazole	Antihistamine	PPI
+Tablet	Aspirin	Antihistamine	PPI
+Injection	Omeprazole	Painkiller	Penicillin
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Capsule	Aspirin	Antacid	H1 Blocker
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Ointment	Aspirin	Antipyretic	Penicillin
+Capsule	Amoxicillin	Antihistamine	NSAID
+Capsule	Aspirin	Antihistamine	Penicillin
+Tablet	Metformin	Antibiotic	NSAID
+Ointment	Cetrizine	Antibiotic	PPI
+Injection	Ibuprofen	Antipyretic	PPI
+Ointment	Amoxicillin	Antihistamine	PPI
+Syrup	Metformin	Antihistamine	Penicillin
+Capsule	Cetrizine	Painkiller	PPI
+Capsule	Ibuprofen	Antacid	NSAID
+Injection	Ibuprofen	Antibiotic	Penicillin
+Syrup	Metformin	Painkiller	Penicillin
+Capsule	Cetrizine	Antipyretic	Penicillin
+Capsule	Omeprazole	Antipyretic	Penicillin
+Ointment	Cetrizine	Antibiotic	Salicylate
+Capsule	Metformin	Painkiller	Salicylate
+Capsule	Aspirin	Antihistamine	Penicillin
+Capsule	Omeprazole	Antihistamine	PPI
+Tablet	Metformin	Antipyretic	PPI
+Tablet	Ibuprofen	Antacid	PPI
+Syrup	Paracetamol	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Antibiotic	NSAID
+Ointment	Cetrizine	Painkiller	Penicillin
+Tablet	Omeprazole	Antihistamine	Salicylate
+Syrup	Amoxicillin	Antacid	Penicillin
+Injection	Paracetamol	Antipyretic	Salicylate
+Injection	Amoxicillin	Painkiller	PPI
+Ointment	Paracetamol	Painkiller	Salicylate
+Injection	Omeprazole	Antacid	Penicillin
+Tablet	Ibuprofen	Antipyretic	Penicillin
+Tablet	Omeprazole	Antihistamine	Salicylate
+Injection	Paracetamol	Antipyretic	Salicylate
+Ointment	Amoxicillin	Antihistamine	NSAID
+Ointment	Amoxicillin	Antacid	Salicylate
+Syrup	Metformin	Antibiotic	H1 Blocker
+Syrup	Aspirin	Painkiller	PPI
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Injection	Paracetamol	Antacid	Penicillin
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	PPI
+Ointment	Metformin	Antacid	H1 Blocker
+Tablet	Metformin	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	PPI
+Tablet	Aspirin	Painkiller	Penicillin
+Syrup	Aspirin	Antacid	PPI
+Syrup	Ibuprofen	Antihistamine	H1 Blocker
+Syrup	Aspirin	Antihistamine	Penicillin
+Tablet	Omeprazole	Antacid	H1 Blocker
+Capsule	Metformin	Antibiotic	H1 Blocker
+Capsule	Aspirin	Antihistamine	NSAID
+Capsule	Aspirin	Painkiller	NSAID
+Ointment	Aspirin	Antihistamine	Salicylate
+Ointment	Omeprazole	Antipyretic	PPI
+Capsule	Amoxicillin	Antibiotic	Penicillin
+Syrup	Omeprazole	Antibiotic	Salicylate
+Syrup	Ibuprofen	Painkiller	Penicillin
+Injection	Aspirin	Painkiller	Penicillin
+Injection	Cetrizine	Antihistamine	Penicillin
+Injection	Paracetamol	Antacid	H1 Blocker
+Capsule	Amoxicillin	Antipyretic	Salicylate
+Capsule	Metformin	Antipyretic	PPI
+Tablet	Ibuprofen	Antacid	Penicillin
+Tablet	Amoxicillin	Painkiller	Penicillin
+Syrup	Amoxicillin	Antipyretic	PPI
+Syrup	Ibuprofen	Antipyretic	Penicillin
+Ointment	Paracetamol	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antihistamine	PPI
+Tablet	Paracetamol	Antibiotic	PPI
+Capsule	Paracetamol	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antibiotic	NSAID
+Injection	Aspirin	Antacid	Penicillin
+Ointment	Paracetamol	Antihistamine	PPI
+Injection	Ibuprofen	Antacid	PPI
+Capsule	Omeprazole	Antihistamine	Salicylate
+Capsule	Aspirin	Antacid	PPI
+Capsule	Ibuprofen	Painkiller	PPI
+Capsule	Paracetamol	Antacid	PPI
+Tablet	Aspirin	Antihistamine	PPI
+Syrup	Omeprazole	Antipyretic	NSAID
+Ointment	Aspirin	Antihistamine	PPI
+Injection	Ibuprofen	Antihistamine	Penicillin
+Tablet	Aspirin	Painkiller	PPI
+Capsule	Amoxicillin	Antacid	Salicylate
+Injection	Omeprazole	Painkiller	H1 Blocker
+Injection	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Omeprazole	Antihistamine	H1 Blocker
+Injection	Amoxicillin	Antipyretic	Penicillin
+Syrup	Metformin	Antihistamine	H1 Blocker
+Injection	Ibuprofen	Painkiller	Salicylate
+Syrup	Omeprazole	Antibiotic	Salicylate
+Ointment	Ibuprofen	Painkiller	NSAID
+Ointment	Aspirin	Painkiller	Salicylate
+Ointment	Metformin	Antipyretic	NSAID
+Tablet	Metformin	Antacid	Penicillin
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Tablet	Omeprazole	Painkiller	H1 Blocker
+Tablet	Amoxicillin	Antibiotic	PPI
+Ointment	Aspirin	Antipyretic	Salicylate
+Injection	Aspirin	Antibiotic	PPI
+Syrup	Metformin	Antihistamine	NSAID
+Syrup	Omeprazole	Antacid	Salicylate
+Ointment	Amoxicillin	Antihistamine	NSAID
+Tablet	Metformin	Painkiller	PPI
+Tablet	Aspirin	Antipyretic	Penicillin
+Capsule	Ibuprofen	Antihistamine	Penicillin
+Injection	Amoxicillin	Painkiller	Penicillin
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Capsule	Cetrizine	Antacid	Salicylate
+Capsule	Metformin	Antihistamine	Penicillin
+Ointment	Amoxicillin	Antipyretic	H1 Blocker
+Tablet	Amoxicillin	Painkiller	Penicillin
+Capsule	Metformin	Painkiller	PPI
+Ointment	Omeprazole	Antihistamine	PPI
+Syrup	Amoxicillin	Painkiller	PPI
+Capsule	Aspirin	Antihistamine	PPI
+Syrup	Paracetamol	Antibiotic	PPI
+Tablet	Metformin	Antacid	NSAID
+Ointment	Omeprazole	Antibiotic	NSAID
+Capsule	Aspirin	Antibiotic	Penicillin
+Syrup	Amoxicillin	Antacid	Salicylate
+Syrup	Metformin	Antipyretic	Penicillin
+Capsule	Amoxicillin	Painkiller	Salicylate
+Capsule	Amoxicillin	Antibiotic	NSAID
+Ointment	Amoxicillin	Painkiller	Salicylate
+Injection	Aspirin	Antacid	NSAID
+Injection	Amoxicillin	Antacid	H1 Blocker
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Ointment	Omeprazole	Antipyretic	Penicillin
+Syrup	Ibuprofen	Antibiotic	Salicylate
+Capsule	Cetrizine	Antihistamine	Penicillin
+Tablet	Paracetamol	Antibiotic	H1 Blocker
+Injection	Metformin	Antacid	Salicylate
+Injection	Paracetamol	Painkiller	PPI
+Injection	Amoxicillin	Antipyretic	Salicylate
+Injection	Amoxicillin	Antacid	NSAID
+Injection	Omeprazole	Antibiotic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	NSAID
+Tablet	Amoxicillin	Antacid	PPI
+Injection	Aspirin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antihistamine	NSAID
+Syrup	Omeprazole	Antacid	Penicillin
+Ointment	Cetrizine	Antacid	Penicillin
+Ointment	Omeprazole	Painkiller	Penicillin
+Syrup	Paracetamol	Antacid	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	Salicylate
+Capsule	Ibuprofen	Antibiotic	H1 Blocker
+Capsule	Paracetamol	Antacid	NSAID
+Injection	Aspirin	Antibiotic	H1 Blocker
+Tablet	Paracetamol	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Antipyretic	PPI
+Tablet	Amoxicillin	Antacid	H1 Blocker
+Injection	Metformin	Antacid	NSAID
+Injection	Ibuprofen	Antacid	PPI
+Syrup	Ibuprofen	Antihistamine	Penicillin
+Syrup	Omeprazole	Antipyretic	Salicylate
+Injection	Omeprazole	Antibiotic	Penicillin
+Ointment	Metformin	Antibiotic	NSAID
+Ointment	Paracetamol	Antihistamine	PPI
+Injection	Aspirin	Antipyretic	H1 Blocker
+Tablet	Aspirin	Antibiotic	PPI
+Ointment	Aspirin	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Painkiller	PPI
+Syrup	Omeprazole	Antipyretic	NSAID
+Syrup	Aspirin	Painkiller	H1 Blocker
+Injection	Paracetamol	Antacid	NSAID
+Injection	Ibuprofen	Antacid	Salicylate
+Capsule	Aspirin	Antipyretic	NSAID
+Ointment	Ibuprofen	Antihistamine	H1 Blocker
+Injection	Metformin	Antibiotic	NSAID
+Capsule	Metformin	Antacid	Penicillin
+Tablet	Ibuprofen	Painkiller	NSAID
+Syrup	Aspirin	Antipyretic	Salicylate
+Ointment	Metformin	Painkiller	NSAID
+Ointment	Metformin	Antipyretic	NSAID
+Tablet	Aspirin	Antibiotic	PPI
+Ointment	Metformin	Painkiller	Salicylate
+Ointment	Paracetamol	Antipyretic	Salicylate
+Capsule	Aspirin	Antihistamine	Penicillin
+Injection	Cetrizine	Painkiller	Penicillin
+Tablet	Omeprazole	Painkiller	Penicillin
+Syrup	Paracetamol	Antihistamine	NSAID
+Syrup	Ibuprofen	Antihistamine	Penicillin
+Ointment	Amoxicillin	Painkiller	NSAID
+Ointment	Metformin	Antipyretic	H1 Blocker
+Injection	Omeprazole	Antihistamine	H1 Blocker
+Injection	Amoxicillin	Painkiller	H1 Blocker
+Ointment	Amoxicillin	Painkiller	Penicillin
+Syrup	Metformin	Antipyretic	PPI
+Ointment	Metformin	Antihistamine	H1 Blocker
+Capsule	Omeprazole	Antipyretic	Penicillin
+Syrup	Cetrizine	Painkiller	NSAID
+Ointment	Amoxicillin	Antibiotic	Salicylate
+Injection	Ibuprofen	Painkiller	Salicylate
+Tablet	Cetrizine	Antihistamine	NSAID
+Syrup	Paracetamol	Antacid	NSAID
+Capsule	Cetrizine	Antihistamine	H1 Blocker
+Syrup	Metformin	Antibiotic	Salicylate
+Tablet	Ibuprofen	Antihistamine	PPI
+Injection	Paracetamol	Painkiller	PPI
+Injection	Metformin	Antibiotic	Salicylate
+Capsule	Aspirin	Antibiotic	NSAID
+Syrup	Ibuprofen	Antacid	Salicylate
+Ointment	Aspirin	Painkiller	H1 Blocker
+Capsule	Cetrizine	Painkiller	H1 Blocker
+Capsule	Metformin	Antihistamine	Penicillin
+Syrup	Amoxicillin	Antacid	Penicillin
+Ointment	Amoxicillin	Antipyretic	NSAID
+Ointment	Ibuprofen	Painkiller	Penicillin
+Ointment	Aspirin	Painkiller	Penicillin
+Ointment	Aspirin	Antibiotic	NSAID
+Syrup	Amoxicillin	Painkiller	Penicillin
+Syrup	Aspirin	Antipyretic	H1 Blocker
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Injection	Omeprazole	Antihistamine	PPI
+Capsule	Omeprazole	Antihistamine	PPI
+Capsule	Amoxicillin	Antihistamine	Salicylate
+Injection	Omeprazole	Antibiotic	Salicylate
+Injection	Paracetamol	Antipyretic	Salicylate
+Tablet	Amoxicillin	Antipyretic	PPI
+Syrup	Cetrizine	Antipyretic	PPI
+Tablet	Paracetamol	Antihistamine	Penicillin
+Capsule	Omeprazole	Painkiller	NSAID
+Syrup	Omeprazole	Antacid	NSAID
+Syrup	Omeprazole	Antacid	Penicillin
+Injection	Cetrizine	Painkiller	PPI
+Tablet	Amoxicillin	Antibiotic	Penicillin
+Tablet	Cetrizine	Antihistamine	Penicillin
+Injection	Ibuprofen	Antibiotic	Salicylate
+Ointment	Amoxicillin	Antibiotic	PPI
+Syrup	Ibuprofen	Antibiotic	PPI
+Syrup	Amoxicillin	Antipyretic	Penicillin
+Ointment	Paracetamol	Painkiller	Salicylate
+Tablet	Omeprazole	Antibiotic	Penicillin
+Injection	Aspirin	Antibiotic	NSAID
+Capsule	Metformin	Antacid	H1 Blocker
+Syrup	Metformin	Antihistamine	H1 Blocker
+Syrup	Omeprazole	Antipyretic	H1 Blocker
+Ointment	Cetrizine	Antihistamine	H1 Blocker
+Injection	Aspirin	Painkiller	NSAID
+Tablet	Cetrizine	Antihistamine	PPI
+Syrup	Ibuprofen	Antacid	NSAID
+Capsule	Ibuprofen	Antipyretic	NSAID
+Capsule	Cetrizine	Antibiotic	PPI
+Injection	Paracetamol	Antihistamine	Penicillin
+Tablet	Metformin	Painkiller	PPI
+Tablet	Paracetamol	Antipyretic	NSAID
+Ointment	Metformin	Antihistamine	PPI
+Syrup	Paracetamol	Antihistamine	NSAID
+Syrup	Omeprazole	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antacid	PPI
+Ointment	Ibuprofen	Antihistamine	Salicylate
+Injection	Metformin	Antipyretic	H1 Blocker
+Capsule	Ibuprofen	Antacid	Penicillin
+Injection	Omeprazole	Painkiller	Salicylate
+Capsule	Amoxicillin	Antacid	PPI
+Injection	Paracetamol	Antihistamine	PPI
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Syrup	Cetrizine	Antacid	PPI
+Syrup	Paracetamol	Antihistamine	NSAID
+Injection	Cetrizine	Antipyretic	Salicylate
+Injection	Ibuprofen	Antihistamine	Penicillin
+Ointment	Omeprazole	Antihistamine	Penicillin
+Capsule	Aspirin	Antibiotic	Penicillin
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Injection	Aspirin	Antacid	PPI
+Capsule	Metformin	Antihistamine	NSAID
+Injection	Paracetamol	Antibiotic	Salicylate
+Syrup	Metformin	Antihistamine	PPI
+Capsule	Ibuprofen	Antihistamine	NSAID
+Tablet	Metformin	Antacid	H1 Blocker
+Capsule	Omeprazole	Painkiller	NSAID
+Syrup	Cetrizine	Antihistamine	Salicylate
+Injection	Cetrizine	Antihistamine	Penicillin
+Syrup	Cetrizine	Antibiotic	PPI
+Ointment	Cetrizine	Antihistamine	Salicylate
+Ointment	Ibuprofen	Antibiotic	NSAID
+Ointment	Aspirin	Antihistamine	Penicillin
+Injection	Ibuprofen	Antacid	Penicillin
+Injection	Ibuprofen	Antipyretic	PPI
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antipyretic	PPI
+Injection	Amoxicillin	Antibiotic	NSAID
+Syrup	Paracetamol	Antacid	Penicillin
+Tablet	Omeprazole	Antihistamine	Penicillin
+Injection	Cetrizine	Antihistamine	NSAID
+Capsule	Ibuprofen	Painkiller	NSAID
+Tablet	Paracetamol	Painkiller	NSAID
+Tablet	Cetrizine	Antihistamine	Salicylate
+Injection	Metformin	Antibiotic	PPI
+Syrup	Paracetamol	Antihistamine	Penicillin
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Syrup	Metformin	Antihistamine	H1 Blocker
+Syrup	Amoxicillin	Antacid	Penicillin
+Ointment	Paracetamol	Painkiller	NSAID
+Tablet	Metformin	Antipyretic	H1 Blocker
+Injection	Paracetamol	Painkiller	H1 Blocker
+Capsule	Ibuprofen	Antibiotic	Penicillin
+Tablet	Omeprazole	Antibiotic	Penicillin
+Syrup	Ibuprofen	Painkiller	PPI
+Capsule	Ibuprofen	Antibiotic	H1 Blocker
+Tablet	Cetrizine	Antibiotic	PPI
+Syrup	Paracetamol	Antacid	PPI
+Syrup	Omeprazole	Antibiotic	H1 Blocker
+Injection	Omeprazole	Antibiotic	Penicillin
+Capsule	Metformin	Antipyretic	Salicylate
+Injection	Aspirin	Antibiotic	NSAID
+Capsule	Ibuprofen	Painkiller	PPI
+Capsule	Omeprazole	Antibiotic	Penicillin
+Ointment	Omeprazole	Antacid	Penicillin
+Capsule	Paracetamol	Antacid	NSAID
+Tablet	Aspirin	Antibiotic	NSAID
+Injection	Paracetamol	Antacid	Penicillin
+Ointment	Amoxicillin	Antacid	PPI
+Tablet	Amoxicillin	Antacid	PPI
+Injection	Cetrizine	Antihistamine	Salicylate
+Syrup	Omeprazole	Antihistamine	Salicylate
+Capsule	Metformin	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antacid	Salicylate
+Ointment	Omeprazole	Antibiotic	Penicillin
+Tablet	Metformin	Antihistamine	H1 Blocker
+Syrup	Cetrizine	Antacid	NSAID
+Tablet	Aspirin	Antacid	Penicillin
+Syrup	Omeprazole	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	NSAID
+Injection	Cetrizine	Antipyretic	H1 Blocker
+Tablet	Paracetamol	Antibiotic	NSAID
+Tablet	Paracetamol	Antibiotic	H1 Blocker
+Ointment	Paracetamol	Antihistamine	Penicillin
+Capsule	Omeprazole	Painkiller	PPI
+Capsule	Ibuprofen	Painkiller	PPI
+Tablet	Paracetamol	Antibiotic	Salicylate
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Capsule	Ibuprofen	Antibiotic	PPI
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Syrup	Aspirin	Antibiotic	Salicylate
+Ointment	Omeprazole	Painkiller	H1 Blocker
+Syrup	Aspirin	Antibiotic	PPI
+Capsule	Aspirin	Antihistamine	H1 Blocker
+Injection	Aspirin	Antipyretic	NSAID
+Capsule	Amoxicillin	Antipyretic	Penicillin
+Capsule	Paracetamol	Antibiotic	PPI
+Capsule	Amoxicillin	Antacid	PPI
+Tablet	Ibuprofen	Painkiller	Salicylate
+Ointment	Ibuprofen	Antihistamine	PPI
+Injection	Paracetamol	Antipyretic	PPI
+Capsule	Aspirin	Painkiller	H1 Blocker
+Tablet	Cetrizine	Antibiotic	Penicillin
+Syrup	Metformin	Antipyretic	PPI
+Ointment	Ibuprofen	Antihistamine	PPI
+Syrup	Metformin	Antibiotic	Penicillin
+Capsule	Cetrizine	Antipyretic	Salicylate
+Tablet	Cetrizine	Antibiotic	H1 Blocker
+Tablet	Omeprazole	Antihistamine	Penicillin
+Capsule	Omeprazole	Antibiotic	PPI
+Injection	Metformin	Painkiller	Salicylate
+Capsule	Cetrizine	Antacid	PPI
+Injection	Aspirin	Painkiller	Salicylate
+Injection	Aspirin	Antibiotic	Penicillin
+Syrup	Aspirin	Antipyretic	NSAID
+Ointment	Omeprazole	Antipyretic	NSAID
+Tablet	Metformin	Painkiller	PPI
+Syrup	Metformin	Antihistamine	PPI
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Syrup	Aspirin	Antibiotic	Penicillin
+Injection	Cetrizine	Antihistamine	PPI
+Syrup	Paracetamol	Painkiller	Penicillin
+Injection	Paracetamol	Antipyretic	Penicillin
+Injection	Paracetamol	Antacid	Penicillin
+Capsule	Paracetamol	Painkiller	H1 Blocker
+Capsule	Ibuprofen	Antipyretic	Penicillin
+Tablet	Amoxicillin	Painkiller	NSAID
+Ointment	Amoxicillin	Antibiotic	NSAID
+Injection	Amoxicillin	Antihistamine	NSAID
+Tablet	Amoxicillin	Antibiotic	NSAID
+Injection	Amoxicillin	Antihistamine	Salicylate
+Tablet	Ibuprofen	Antibiotic	NSAID
+Syrup	Metformin	Antihistamine	Salicylate
+Syrup	Paracetamol	Antibiotic	NSAID
+Syrup	Metformin	Antihistamine	NSAID
+Capsule	Aspirin	Antipyretic	H1 Blocker
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Ointment	Paracetamol	Antihistamine	Penicillin
+Injection	Ibuprofen	Antibiotic	Salicylate
+Syrup	Ibuprofen	Antipyretic	H1 Blocker
+Capsule	Metformin	Antacid	PPI
+Ointment	Cetrizine	Antihistamine	H1 Blocker
+Injection	Cetrizine	Antihistamine	Salicylate
+Capsule	Ibuprofen	Painkiller	PPI
+Injection	Aspirin	Antibiotic	H1 Blocker
+Syrup	Aspirin	Antibiotic	Penicillin
+Capsule	Aspirin	Antipyretic	Penicillin
+Capsule	Cetrizine	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	PPI
+Capsule	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Metformin	Antipyretic	Penicillin
+Syrup	Omeprazole	Antipyretic	NSAID
+Tablet	Cetrizine	Antihistamine	NSAID
+Injection	Aspirin	Antihistamine	PPI
+Tablet	Paracetamol	Antacid	H1 Blocker
+Injection	Omeprazole	Antacid	H1 Blocker
+Capsule	Amoxicillin	Painkiller	H1 Blocker
+Injection	Ibuprofen	Painkiller	Salicylate
+Tablet	Ibuprofen	Antacid	H1 Blocker
+Ointment	Amoxicillin	Antibiotic	PPI
+Capsule	Ibuprofen	Antihistamine	H1 Blocker
+Injection	Aspirin	Painkiller	Penicillin
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Aspirin	Antacid	NSAID
+Injection	Paracetamol	Antacid	Penicillin
+Injection	Omeprazole	Painkiller	PPI
+Injection	Omeprazole	Antacid	Penicillin
+Tablet	Aspirin	Painkiller	H1 Blocker
+Injection	Omeprazole	Painkiller	Salicylate
+Tablet	Paracetamol	Antihistamine	Penicillin
+Capsule	Metformin	Painkiller	Salicylate
+Ointment	Metformin	Antihistamine	H1 Blocker
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Injection	Amoxicillin	Antacid	NSAID
+Injection	Metformin	Painkiller	PPI
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Tablet	Omeprazole	Antibiotic	Penicillin
+Tablet	Cetrizine	Antibiotic	Salicylate
+Syrup	Omeprazole	Antihistamine	Penicillin
+Tablet	Metformin	Antipyretic	Salicylate
+Injection	Metformin	Antihistamine	Penicillin
+Tablet	Omeprazole	Painkiller	NSAID
+Injection	Omeprazole	Antipyretic	PPI
+Tablet	Cetrizine	Antibiotic	PPI
+Tablet	Paracetamol	Painkiller	H1 Blocker
+Tablet	Aspirin	Antihistamine	NSAID
+Injection	Amoxicillin	Antibiotic	Penicillin
+Capsule	Amoxicillin	Antihistamine	H1 Blocker
+Capsule	Ibuprofen	Antacid	PPI
+Syrup	Paracetamol	Antibiotic	Penicillin
+Syrup	Amoxicillin	Antibiotic	NSAID
+Injection	Omeprazole	Antihistamine	Salicylate
+Injection	Ibuprofen	Antacid	Salicylate
+Tablet	Cetrizine	Antihistamine	NSAID
+Capsule	Ibuprofen	Painkiller	Salicylate
+Ointment	Aspirin	Antihistamine	Penicillin
+Ointment	Paracetamol	Painkiller	H1 Blocker
+Capsule	Metformin	Painkiller	Penicillin
+Ointment	Ibuprofen	Antihistamine	Penicillin
+Capsule	Metformin	Painkiller	H1 Blocker
+Capsule	Aspirin	Antacid	NSAID
+Injection	Paracetamol	Antihistamine	PPI
+Capsule	Cetrizine	Antacid	Penicillin
+Capsule	Ibuprofen	Antibiotic	H1 Blocker
+Syrup	Omeprazole	Antihistamine	Penicillin
+Tablet	Omeprazole	Antacid	PPI
+Ointment	Amoxicillin	Antipyretic	NSAID
+Tablet	Amoxicillin	Antihistamine	Penicillin
+Syrup	Cetrizine	Antibiotic	NSAID
+Ointment	Omeprazole	Antacid	Penicillin
+Ointment	Omeprazole	Antacid	Penicillin
+Capsule	Aspirin	Antipyretic	Penicillin
+Ointment	Ibuprofen	Antacid	NSAID
+Capsule	Aspirin	Antipyretic	Penicillin
+Tablet	Cetrizine	Painkiller	Penicillin
+Injection	Ibuprofen	Antacid	H1 Blocker
+Capsule	Omeprazole	Antihistamine	H1 Blocker
+Ointment	Cetrizine	Painkiller	NSAID
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Injection	Aspirin	Antibiotic	NSAID
+Ointment	Paracetamol	Antibiotic	H1 Blocker
+Tablet	Ibuprofen	Painkiller	PPI
+Ointment	Paracetamol	Antibiotic	Salicylate
+Syrup	Omeprazole	Antibiotic	NSAID
+Injection	Amoxicillin	Painkiller	Penicillin
+Capsule	Ibuprofen	Antipyretic	H1 Blocker
+Capsule	Paracetamol	Antacid	H1 Blocker
+Syrup	Aspirin	Antihistamine	H1 Blocker
+Tablet	Cetrizine	Painkiller	NSAID
+Injection	Omeprazole	Painkiller	PPI
+Capsule	Amoxicillin	Antihistamine	NSAID
+Syrup	Metformin	Antipyretic	Salicylate
+Capsule	Cetrizine	Antacid	Salicylate
+Tablet	Cetrizine	Antipyretic	NSAID
+Injection	Cetrizine	Painkiller	NSAID
+Syrup	Paracetamol	Antibiotic	Penicillin
+Syrup	Aspirin	Antihistamine	Salicylate
+Capsule	Paracetamol	Antipyretic	Penicillin
+Injection	Metformin	Antibiotic	H1 Blocker
+Syrup	Ibuprofen	Painkiller	Penicillin
+Capsule	Metformin	Antibiotic	Penicillin
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Ointment	Metformin	Painkiller	Penicillin
+Ointment	Cetrizine	Antacid	Salicylate
+Injection	Cetrizine	Antibiotic	Salicylate
+Syrup	Ibuprofen	Antihistamine	PPI
+Syrup	Paracetamol	Antacid	Salicylate
+Syrup	Omeprazole	Antacid	H1 Blocker
+Syrup	Ibuprofen	Antipyretic	PPI
+Ointment	Aspirin	Antibiotic	PPI
+Capsule	Ibuprofen	Painkiller	H1 Blocker
+Syrup	Amoxicillin	Antacid	PPI
+Injection	Cetrizine	Antibiotic	Salicylate
+Tablet	Ibuprofen	Antipyretic	Salicylate
+Tablet	Paracetamol	Antacid	PPI
+Ointment	Amoxicillin	Painkiller	Penicillin
+Syrup	Amoxicillin	Antacid	PPI
+Injection	Ibuprofen	Antibiotic	Salicylate
+Capsule	Paracetamol	Antipyretic	H1 Blocker
+Syrup	Paracetamol	Antacid	H1 Blocker
+Capsule	Aspirin	Antipyretic	NSAID
+Ointment	Cetrizine	Painkiller	NSAID
+Capsule	Paracetamol	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Antacid	Salicylate
+Capsule	Ibuprofen	Antacid	Salicylate
+Ointment	Paracetamol	Antacid	PPI
+Syrup	Metformin	Antacid	Salicylate
+Tablet	Cetrizine	Antibiotic	Penicillin
+Tablet	Cetrizine	Antihistamine	Penicillin
+Injection	Cetrizine	Antibiotic	Salicylate
+Syrup	Amoxicillin	Antibiotic	Salicylate
+Ointment	Paracetamol	Antipyretic	Penicillin
+Tablet	Metformin	Antibiotic	Penicillin
+Injection	Amoxicillin	Antipyretic	NSAID
+Injection	Cetrizine	Painkiller	PPI
+Ointment	Metformin	Antipyretic	NSAID
+Injection	Paracetamol	Painkiller	NSAID
+Tablet	Cetrizine	Antibiotic	NSAID
+Capsule	Paracetamol	Antibiotic	Penicillin
+Tablet	Metformin	Painkiller	Salicylate
+Injection	Paracetamol	Antipyretic	NSAID
+Ointment	Paracetamol	Antipyretic	Penicillin
+Injection	Omeprazole	Antibiotic	NSAID
+Ointment	Cetrizine	Antibiotic	PPI
+Tablet	Cetrizine	Antihistamine	NSAID
+Tablet	Paracetamol	Antipyretic	PPI
+Capsule	Aspirin	Antacid	H1 Blocker
+Ointment	Paracetamol	Painkiller	Salicylate
+Injection	Metformin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antibiotic	Salicylate
+Syrup	Ibuprofen	Painkiller	NSAID
+Tablet	Paracetamol	Antacid	NSAID
+Syrup	Paracetamol	Painkiller	NSAID
+Injection	Paracetamol	Antibiotic	NSAID
+Tablet	Amoxicillin	Antacid	Salicylate
+Injection	Aspirin	Antacid	H1 Blocker
+Capsule	Aspirin	Antipyretic	Penicillin
+Ointment	Amoxicillin	Antihistamine	Salicylate
+Injection	Omeprazole	Antibiotic	Penicillin
+Ointment	Paracetamol	Antibiotic	Salicylate
+Capsule	Ibuprofen	Antipyretic	Salicylate
+Capsule	Ibuprofen	Antipyretic	Salicylate
+Tablet	Omeprazole	Antibiotic	Salicylate
+Tablet	Cetrizine	Antipyretic	Salicylate
+Tablet	Cetrizine	Antibiotic	Salicylate
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Tablet	Aspirin	Antibiotic	Salicylate
+Capsule	Metformin	Antipyretic	Penicillin
+Ointment	Ibuprofen	Antihistamine	PPI
+Tablet	Paracetamol	Painkiller	PPI
+Ointment	Paracetamol	Antacid	H1 Blocker
+Syrup	Aspirin	Antacid	PPI
+Ointment	Metformin	Painkiller	NSAID
+Syrup	Cetrizine	Antihistamine	NSAID
+Tablet	Omeprazole	Antihistamine	PPI
+Capsule	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Amoxicillin	Antihistamine	Penicillin
+Capsule	Metformin	Painkiller	Salicylate
+Syrup	Omeprazole	Antacid	Salicylate
+Capsule	Cetrizine	Antihistamine	Salicylate
+Tablet	Amoxicillin	Antacid	H1 Blocker
+Tablet	Ibuprofen	Painkiller	Salicylate
+Syrup	Cetrizine	Painkiller	NSAID
+Injection	Paracetamol	Antihistamine	Penicillin
+Tablet	Metformin	Painkiller	Salicylate
+Tablet	Aspirin	Antipyretic	Penicillin
+Injection	Cetrizine	Antihistamine	PPI
+Capsule	Aspirin	Antihistamine	Penicillin
+Injection	Aspirin	Antacid	Penicillin
+Syrup	Metformin	Antipyretic	PPI
+Syrup	Aspirin	Painkiller	PPI
+Capsule	Paracetamol	Antacid	NSAID
+Capsule	Ibuprofen	Painkiller	Penicillin
+Ointment	Aspirin	Antacid	NSAID
+Syrup	Ibuprofen	Antipyretic	Penicillin
+Injection	Ibuprofen	Antacid	H1 Blocker
+Syrup	Omeprazole	Painkiller	Salicylate
+Ointment	Cetrizine	Painkiller	NSAID
+Ointment	Omeprazole	Antihistamine	NSAID
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Ibuprofen	Antacid	Penicillin
+Syrup	Amoxicillin	Antacid	NSAID
+Ointment	Metformin	Antibiotic	H1 Blocker
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Capsule	Metformin	Antihistamine	H1 Blocker
+Ointment	Aspirin	Painkiller	Salicylate
+Capsule	Ibuprofen	Antacid	H1 Blocker
+Tablet	Paracetamol	Antibiotic	NSAID
+Ointment	Ibuprofen	Painkiller	Salicylate
+Injection	Ibuprofen	Antihistamine	Penicillin
+Tablet	Amoxicillin	Antibiotic	PPI
+Ointment	Cetrizine	Antipyretic	PPI
+Injection	Amoxicillin	Antihistamine	PPI
+Capsule	Paracetamol	Antihistamine	Penicillin
+Syrup	Metformin	Antibiotic	Penicillin
+Tablet	Paracetamol	Antipyretic	Penicillin
+Injection	Amoxicillin	Antacid	PPI
+Tablet	Aspirin	Antipyretic	NSAID
+Syrup	Metformin	Antacid	Salicylate
+Capsule	Metformin	Antipyretic	PPI
+Ointment	Amoxicillin	Antihistamine	Penicillin
+Tablet	Metformin	Painkiller	PPI
+Tablet	Aspirin	Painkiller	Penicillin
+Capsule	Metformin	Antibiotic	PPI
+Capsule	Omeprazole	Antacid	H1 Blocker
+Ointment	Amoxicillin	Painkiller	NSAID
+Ointment	Metformin	Antacid	H1 Blocker
+Capsule	Cetrizine	Antibiotic	PPI
+Syrup	Metformin	Antihistamine	Penicillin
+Ointment	Paracetamol	Antacid	H1 Blocker
+Tablet	Cetrizine	Antacid	PPI
+Ointment	Metformin	Painkiller	NSAID
+Tablet	Omeprazole	Painkiller	NSAID
+Syrup	Amoxicillin	Painkiller	NSAID
+Tablet	Paracetamol	Antipyretic	Salicylate
+Injection	Ibuprofen	Painkiller	Penicillin
+Syrup	Ibuprofen	Painkiller	Penicillin
+Tablet	Aspirin	Antipyretic	H1 Blocker
+Tablet	Omeprazole	Antacid	PPI
+Ointment	Amoxicillin	Antihistamine	H1 Blocker
+Ointment	Metformin	Antacid	NSAID
+Syrup	Ibuprofen	Antacid	H1 Blocker
+Capsule	Ibuprofen	Antacid	PPI
+Syrup	Omeprazole	Antihistamine	PPI
+Injection	Metformin	Antibiotic	Penicillin
+Syrup	Cetrizine	Antihistamine	NSAID
+Tablet	Aspirin	Antacid	Penicillin
+Capsule	Paracetamol	Antihistamine	Penicillin
+Syrup	Cetrizine	Painkiller	NSAID
+Syrup	Cetrizine	Antihistamine	H1 Blocker
+Ointment	Ibuprofen	Antihistamine	PPI
+Tablet	Paracetamol	Antipyretic	Penicillin
+Injection	Paracetamol	Antipyretic	NSAID
+Ointment	Omeprazole	Painkiller	NSAID
+Capsule	Metformin	Painkiller	PPI
+Syrup	Amoxicillin	Antihistamine	Salicylate
+Tablet	Ibuprofen	Antacid	PPI
+Ointment	Cetrizine	Antihistamine	NSAID
+Ointment	Ibuprofen	Antihistamine	PPI
+Ointment	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antibiotic	PPI
+Tablet	Amoxicillin	Antipyretic	PPI
+Injection	Amoxicillin	Antibiotic	PPI
+Ointment	Ibuprofen	Antacid	Salicylate
+Syrup	Aspirin	Antacid	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Injection	Metformin	Antacid	H1 Blocker
+Syrup	Omeprazole	Antacid	Salicylate
+Ointment	Omeprazole	Antacid	Salicylate
+Ointment	Aspirin	Antibiotic	NSAID
+Injection	Paracetamol	Antacid	Salicylate
+Ointment	Amoxicillin	Antacid	H1 Blocker
+Ointment	Ibuprofen	Antibiotic	PPI
+Syrup	Cetrizine	Painkiller	H1 Blocker
+Injection	Cetrizine	Antibiotic	PPI
+Ointment	Ibuprofen	Painkiller	Salicylate
+Ointment	Paracetamol	Antacid	PPI
+Tablet	Aspirin	Antacid	Penicillin
+Ointment	Cetrizine	Antihistamine	Penicillin
+Capsule	Metformin	Antacid	Salicylate
+Tablet	Paracetamol	Antacid	PPI
+Ointment	Cetrizine	Painkiller	PPI
+Syrup	Aspirin	Painkiller	Salicylate
+Syrup	Metformin	Antacid	H1 Blocker
+Capsule	Metformin	Antibiotic	Penicillin
+Injection	Aspirin	Antacid	PPI
+Ointment	Metformin	Painkiller	PPI
+Ointment	Omeprazole	Antipyretic	Salicylate
+Capsule	Metformin	Antibiotic	NSAID
+Ointment	Ibuprofen	Painkiller	Penicillin
+Ointment	Amoxicillin	Antipyretic	NSAID
+Tablet	Paracetamol	Antibiotic	Penicillin
+Injection	Ibuprofen	Antihistamine	PPI
+Ointment	Metformin	Antipyretic	Salicylate
+Injection	Paracetamol	Antipyretic	H1 Blocker
+Tablet	Ibuprofen	Painkiller	H1 Blocker
+Injection	Amoxicillin	Antipyretic	Salicylate
+Syrup	Cetrizine	Antihistamine	NSAID
+Injection	Amoxicillin	Antibiotic	H1 Blocker
+Ointment	Ibuprofen	Antipyretic	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	H1 Blocker
+Capsule	Cetrizine	Antipyretic	H1 Blocker
+Capsule	Paracetamol	Antihistamine	PPI
+Tablet	Omeprazole	Antacid	NSAID
+Syrup	Ibuprofen	Painkiller	PPI
+Syrup	Metformin	Antipyretic	H1 Blocker
+Injection	Amoxicillin	Painkiller	NSAID
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Capsule	Amoxicillin	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Painkiller	PPI
+Capsule	Ibuprofen	Painkiller	Penicillin
+Syrup	Aspirin	Antibiotic	PPI
+Injection	Omeprazole	Painkiller	Penicillin
+Capsule	Aspirin	Antipyretic	Penicillin
+Syrup	Omeprazole	Antihistamine	PPI
+Syrup	Aspirin	Antibiotic	H1 Blocker
+Injection	Paracetamol	Antihistamine	Penicillin
+Ointment	Ibuprofen	Antacid	NSAID
+Syrup	Aspirin	Antihistamine	PPI
+Tablet	Ibuprofen	Antacid	Salicylate
+Tablet	Amoxicillin	Antipyretic	NSAID
+Injection	Metformin	Antacid	PPI
+Capsule	Cetrizine	Antibiotic	PPI
+Tablet	Aspirin	Antacid	H1 Blocker
+Capsule	Ibuprofen	Antibiotic	NSAID
+Capsule	Paracetamol	Antacid	PPI
+Syrup	Cetrizine	Antacid	H1 Blocker
+Ointment	Aspirin	Antihistamine	NSAID
+Injection	Ibuprofen	Antihistamine	H1 Blocker
+Tablet	Amoxicillin	Antacid	H1 Blocker
+Injection	Ibuprofen	Antacid	H1 Blocker
+Tablet	Metformin	Painkiller	H1 Blocker
+Syrup	Ibuprofen	Antibiotic	H1 Blocker
+Tablet	Cetrizine	Antacid	NSAID
+Capsule	Cetrizine	Antihistamine	NSAID
+Capsule	Omeprazole	Antihistamine	Salicylate
+Capsule	Metformin	Antipyretic	Penicillin
+Capsule	Paracetamol	Antacid	NSAID
+Capsule	Metformin	Antibiotic	Penicillin
+Injection	Omeprazole	Painkiller	PPI
+Ointment	Ibuprofen	Painkiller	Salicylate
+Ointment	Paracetamol	Painkiller	Salicylate
+Injection	Aspirin	Antihistamine	NSAID
+Tablet	Cetrizine	Antibiotic	NSAID
+Syrup	Paracetamol	Painkiller	PPI
+Injection	Amoxicillin	Painkiller	Salicylate
+Syrup	Omeprazole	Antipyretic	Salicylate
+Tablet	Aspirin	Painkiller	Penicillin
+Tablet	Amoxicillin	Antacid	Salicylate
+Injection	Amoxicillin	Antipyretic	Penicillin
+Capsule	Paracetamol	Painkiller	Penicillin
+Tablet	Aspirin	Antihistamine	NSAID
+Syrup	Metformin	Painkiller	PPI
+Syrup	Metformin	Antacid	PPI
+Syrup	Cetrizine	Antibiotic	Penicillin
+Tablet	Amoxicillin	Antacid	Salicylate
+Tablet	Cetrizine	Antacid	PPI
+Capsule	Cetrizine	Antibiotic	Salicylate
+Injection	Omeprazole	Antibiotic	Penicillin
+Ointment	Ibuprofen	Antipyretic	Salicylate
+Syrup	Ibuprofen	Antihistamine	NSAID
+Tablet	Aspirin	Antipyretic	PPI
+Syrup	Aspirin	Painkiller	Penicillin
+Injection	Cetrizine	Painkiller	PPI
+Capsule	Metformin	Antihistamine	Salicylate
+Syrup	Ibuprofen	Antibiotic	Penicillin
+Injection	Metformin	Painkiller	Salicylate
+Ointment	Metformin	Antacid	PPI
+Capsule	Metformin	Antacid	H1 Blocker
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Injection	Amoxicillin	Antihistamine	Salicylate
+Tablet	Omeprazole	Antacid	NSAID
+Syrup	Aspirin	Antacid	Penicillin
+Ointment	Ibuprofen	Antipyretic	Penicillin
+Syrup	Cetrizine	Antacid	H1 Blocker
+Tablet	Paracetamol	Antibiotic	Penicillin
+Syrup	Amoxicillin	Antihistamine	NSAID
+Syrup	Omeprazole	Antihistamine	NSAID
+Ointment	Metformin	Antipyretic	Salicylate
+Tablet	Omeprazole	Antacid	NSAID
+Injection	Aspirin	Antibiotic	Penicillin
+Capsule	Ibuprofen	Antipyretic	H1 Blocker
+Injection	Aspirin	Antibiotic	Penicillin
+Ointment	Metformin	Antacid	PPI
+Capsule	Paracetamol	Antacid	PPI
+Tablet	Omeprazole	Antibiotic	H1 Blocker
+Injection	Ibuprofen	Painkiller	H1 Blocker
+Ointment	Cetrizine	Antihistamine	Penicillin
+Tablet	Cetrizine	Antipyretic	Penicillin
+Capsule	Cetrizine	Antihistamine	PPI
+Tablet	Omeprazole	Antibiotic	Penicillin
+Injection	Aspirin	Antihistamine	Salicylate
+Injection	Ibuprofen	Antihistamine	PPI
+Capsule	Cetrizine	Antipyretic	Penicillin
+Ointment	Paracetamol	Antihistamine	Penicillin
+Ointment	Aspirin	Antacid	H1 Blocker
+Tablet	Amoxicillin	Antipyretic	Salicylate
+Ointment	Metformin	Painkiller	Penicillin
+Tablet	Cetrizine	Antihistamine	PPI
+Capsule	Metformin	Antihistamine	Penicillin
+Tablet	Ibuprofen	Antihistamine	Salicylate
+Tablet	Paracetamol	Antipyretic	PPI
+Capsule	Aspirin	Antacid	Penicillin
+Capsule	Amoxicillin	Antipyretic	PPI
+Capsule	Aspirin	Painkiller	H1 Blocker
+Injection	Aspirin	Antipyretic	H1 Blocker
+Syrup	Aspirin	Antipyretic	Penicillin
+Injection	Omeprazole	Antihistamine	NSAID
+Tablet	Aspirin	Antihistamine	H1 Blocker
+Tablet	Omeprazole	Antibiotic	H1 Blocker
+Capsule	Ibuprofen	Antacid	Penicillin
+Injection	Omeprazole	Antacid	Salicylate
+Capsule	Metformin	Antacid	NSAID
+Capsule	Ibuprofen	Antipyretic	Salicylate
+Tablet	Metformin	Antacid	NSAID
+Ointment	Metformin	Painkiller	Penicillin
+Injection	Metformin	Antibiotic	Salicylate
+Syrup	Paracetamol	Antipyretic	PPI
+Syrup	Amoxicillin	Antihistamine	NSAID
+Injection	Aspirin	Antihistamine	H1 Blocker
+Tablet	Ibuprofen	Antipyretic	Penicillin
+Injection	Paracetamol	Antihistamine	Salicylate
+Ointment	Omeprazole	Antipyretic	Salicylate
+Syrup	Amoxicillin	Antipyretic	NSAID
+Tablet	Amoxicillin	Painkiller	H1 Blocker
+Ointment	Paracetamol	Antacid	PPI
+Injection	Aspirin	Antihistamine	Penicillin
+Tablet	Omeprazole	Antibiotic	NSAID
+Syrup	Omeprazole	Antibiotic	Salicylate
+Ointment	Aspirin	Antacid	PPI
+Syrup	Paracetamol	Antacid	Penicillin
+Tablet	Cetrizine	Antihistamine	NSAID
+Tablet	Paracetamol	Antipyretic	PPI
+Tablet	Paracetamol	Antibiotic	PPI
+Ointment	Metformin	Antihistamine	Salicylate
+Syrup	Amoxicillin	Painkiller	Penicillin
+Tablet	Metformin	Antipyretic	Salicylate
+Tablet	Metformin	Antacid	H1 Blocker
+Capsule	Aspirin	Antipyretic	Penicillin
+Capsule	Paracetamol	Antibiotic	Penicillin
+Tablet	Ibuprofen	Antibiotic	H1 Blocker

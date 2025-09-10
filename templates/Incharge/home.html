@@ -1,0 +1,33 @@
+{% extends 'Incharge/base.html' %}
+{% block body %}
+<section class="home-blog-area section-padding30">
+    <div class="container">
+        <!-- Section Tittle -->
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-md-9 col-sm-10">
+                <div class="section-tittle text-center mb-100">
+                    <h2>Inventories</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for i in inventory %}
+            <div class="col-lg-4 col-md-6">
+                <div class="home-blog-single mb-40">
+                    <div class="blog-img-cap">
+                        <div class="blog-img">
+                            <img src="{{ i.PRODUCT.photo.url }}" alt="">
+                        </div>
+                        <div class="blog-cap">
+                            <h3><a href="#">{{ i.PRODUCT.name }}</a></h3>
+                            <P>Quantity : {{ i.quantity }}</P>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endblock %}

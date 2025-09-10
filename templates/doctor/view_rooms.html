@@ -1,0 +1,78 @@
+{% extends 'Incharge/base.html' %}
+{% block body %}
+
+<style>
+  /* Page Container */
+  .page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+  }
+
+  /* Table Styling */
+  .room-table {
+    width: 100%;
+    max-width: 800px;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  /* Table Header Styling */
+  .room-table th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 15px;
+    font-size: 16px;
+    text-align: left;
+  }
+
+  /* Table Data Styling */
+  .room-table td {
+    padding: 12px 15px;
+    font-size: 14px;
+    color: #333;
+  }
+
+  /* Alternating Row Colors */
+  .room-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  /* Hover Effect on Rows */
+  .room-table tr:hover {
+    background-color: #f1f1f1;
+  }
+</style>
+
+<div class="page-container">
+  <table class="room-table">
+    <thead>
+      <tr>
+        <th>Image</th>
+        <th>Room Number</th>
+        <th>Sharing Type</th>
+        <th>Details</th>
+        <th>Status</th>
+      </tr>
+
+
+    </thead>
+    <tbody>
+      {% for i in rooms %}
+      <tr>
+      <td><img src="{{ i.image.url }}" width="100" height="100"/></td>
+        <td>  {{ i.room_number }}</td>
+        <td>{{ i.capacity }}</td>
+        <td>{{ i.details }}</td>
+        <td>{% if i.status == 'Available' %}{{ i.status }}{% else %} <a href="">{{ i.status }}</a> {% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}
