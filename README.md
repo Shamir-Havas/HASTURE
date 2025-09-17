@@ -1,105 +1,87 @@
 # 🏥 HASTURE – Intelligent Hospital Management System
 
-
-
-## 📌 Overview
-**HASTURE** is an intelligent **Hospital Management System (HMS)** that integrates:
-- **Deep Learning (GRU)** for medical inventory forecasting  
-- **High Utility Occupancy Pattern Mining (HUOMIL)** for identifying high-impact medical supplies  
-- **Role-based dashboards** for administrators, doctors, in-charges, and inventory managers  
-
-This project demonstrates how **Data Science, AI, and Web Technologies** can optimize hospital workflows, reduce resource wastage, and support **data-driven decision-making** in healthcare.  
+> A Data Science & Machine Learning Project integrating **GRU-based forecasting** and **HUOMIL pattern mining** to optimize hospital operations.
 
 ---
 
-## 🚀 Key Features
-- 🔹 **Automated Hospital Workflows** → patient registration, ward allocation, inventory management  
-- 🔹 **GRU-based Time Series Forecasting** → predicts monthly demand for medical inventory with low error (MSE ~9.74)  
-- 🔹 **HUOMIL Algorithm** → mines inventory items with high utility & frequent use across patient records  
-- 🔹 **Role-Based Dashboards** → different interfaces for doctors, admins, in-charges, and inventory managers  
-- 🔹 **Real-Time Analytics** → occupancy rates, patient consultation trends, and resource utilization  
-- 🔹 **Secure Access Control** → Django authentication and session management  
+## 🚀 Project Overview
+**HASTURE** is an intelligent **Hospital Management System (HMS)** built with **Django, GRU deep learning, and HUOMIL pattern mining**.  
 
----
-
-## 🧠 Data Science & Machine Learning
-### GRU Forecasting
-- Built using **TensorFlow/Keras**
-- Learns from historical hospital inventory usage
-- Produces **12-month demand forecasts**
-- Achieved **MSE ≈ 9.74**
-
-### HUOMIL Algorithm
-- Custom implementation of **High Utility Occupancy Mining with Indexed List**
-- Identifies items that are both **economically significant** and **frequently prescribed**
-- Outputs **confidence scores and utility visualizations**
+It addresses critical hospital challenges:  
+- 🏷️ **Automating operations**: Patient admission, ward allocation, inventory management  
+- 📊 **Forecasting inventory**: GRU-based time series model for 12-month predictions  
+- 🧮 **Pattern mining**: HUOMIL algorithm to identify high-utility & high-occupancy medical supplies  
+- 📈 **Dashboards**: Role-based dashboards for doctors, in-charges, inventory managers, and administrators  
+- 🔒 **Security**: Role-based authentication & access control  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Backend:** Django, Python (NumPy, Pandas, scikit-learn, TensorFlow, Keras)  
-- **Database:** MySQL  
-- **Frontend:** HTML, CSS, Bootstrap, Matplotlib (for visualizations)  
-- **Deployment:** Local server (future scope: cloud deployment)  
-
----Hospital_Project/
-│── data/ # Sample hospital data (patients, inventory, consultations)
-│── huomil.py # HUOMIL algorithm implementation
-│── sample.py # GRU forecasting function
-│── dashboards/ # Role-based views for admin, doctor, inventory manager
-│── models.py # Django models (Patients, Inventory, Rooms, etc.)
-│── templates/ # HTML dashboards and reports
-│── requirements.txt # Dependencies
-│── README.md # Project Documentation
-
+- **Languages**: Python (NumPy, Pandas, Scikit-learn, TensorFlow/Keras)  
+- **Frameworks**: Django, MySQL  
+- **Machine Learning**: GRU (Time Series Forecasting), HUOMIL (Pattern Mining)  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Tools**: Jupyter Notebook, Excel (openpyxl), GitHub  
 
 ---
 
-## 📊 Sample Results
-- **GRU Forecast**: Stable demand prediction for Amoxicillin and other key drugs  
-- **HUOMIL Results**: Paracetamol, Amoxicillin, and Insulin identified as **top priority medicines**  
-- **Ward Availability Dashboard**: Real-time tracking of patient bed occupancy (e.g., maternity ward at 62.5% load)  
-- **Doctor Trends**: Visual analysis of patient consultations over time  
+## 📊 Key Features
+- **GRU Forecasting** – Predicts 12-month demand for hospital inventory with MSE ≈ 9.74  
+- **HUOMIL Algorithm** – Mines high-utility, frequently used medicines (e.g., Paracetamol, Amoxicillin, Insulin)  
+- **Dashboards** – Real-time ward occupancy, patient trends, and inventory usage  
+- **Role-based Access** – Secure, tailored dashboards for Admin, Doctor, In-Charge, and Inventory Manager  
+
+---
+
+## 📸 Screenshots
+
+### System Overview
+![HASTURE Overview](screenshots/hasture_overview.png)
+
+### Forecasting (GRU Model)
+![GRU Forecast](screenshots/gru_forecast.png)
+
+### HUOMIL Utility Mining
+![HUOMIL Output](screenshots/huomil.png)
+
+### Ward Availability Dashboard
+![Ward Availability](screenshots/ward_dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+*(Screenshots are stored in the `screenshots/` folder – you can rename them accordingly)*
+
+---
+
+## 📄 Documentation
+Full detailed documentation is available here:  
+📕 [HASTURE Project Report (PDF)](./Hasture.pdf)
 
 ---
 
 ## 🔮 Future Enhancements
-- ✅ Transformer-based forecasting models  
-- ✅ Real-time anomaly detection in inventory usage  
-- ✅ Mobile-friendly dashboards  
-- ✅ NLP-based chatbot for hospital queries  
-- ✅ API integration with existing HMS software  
+- Transformer-based forecasting models  
+- Adaptive HUOMIL thresholds  
+- Real-time anomaly detection  
+- Mobile dashboard access  
+- NLP-based chatbot queries  
 
 ---
 
-## 📌 About Me
-👋 Hi, I’m **Shamir Havas**, an aspiring **Data Scientist (Fresher)** passionate about applying **Machine Learning & Data Analytics** to solve real-world problems.  
-This project was completed as part of my **M.Sc. (Data Science & Big Data Analytics)** at **Yenepoya (Deemed to be University), Mangalore**.  
-
-- 📧 Email: shamirhavas.data@gmail.com  
-- 💼 LinkedIn: [your LinkedIn profile]  
-- 🖥️ Portfolio: [if available]  
+## 📌 Outcomes
+- ✅ Reduced inventory wastage via **GRU predictions**  
+- ✅ Targeted procurement with **HUOMIL insights**  
+- ✅ Improved patient care through **automated workflows**  
+- ✅ Smarter hospital decisions with **role-based dashboards**  
 
 ---
 
-## ⚡ How to Run
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/HASTURE.git
-cd HASTURE
+## 🔗 Connect with Me
+- 📍 Riyadh, Saudi Arabia  
+- 💼 [LinkedIn](your-linkedin-link)  
+- 📧 [Email](mailto:your-email@example.com)  
 
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+---
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run migrations
-python manage.py migrate
-
-# Start the server
-python manage.py runserver
-
-
-## 📂 Project Structure
+⭐ If you find this project interesting, please give it a **star**!
