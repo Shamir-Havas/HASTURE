@@ -70,12 +70,3 @@ It addresses critical hospital challenges:
 - ✅ Smarter hospital decisions with **role-based dashboards**  
 
 ---
-
-## 🔗 Connect with Me
-- 📍 Riyadh, Saudi Arabia  
-- 💼 [LinkedIn](your-linkedin-link)  
-- 📧 [Email](mailto:your-email@example.com)  
-
----
-
-⭐ If you find this project interesting, please give it a **star**!
