@@ -35,28 +35,22 @@ It addresses critical hospital challenges:
 
 ## 📸 Screenshots
 
-### System Overview
-![HASTURE Overview](screenshots/hasture_overview.png)
 
 ### Forecasting (GRU Model)
-![GRU Forecast](screenshots/gru_forecast.png)
+![GRU Forecast](https://github.com/Shamir-Havas/HASTURE/blob/main/gru%20based%20forcasting.png)
 
 ### HUOMIL Utility Mining
-![HUOMIL Output](screenshots/huomil.png)
+![HUOMIL Output](https://github.com/Shamir-Havas/HASTURE/blob/main/utility%20scores.png)
 
 ### Ward Availability Dashboard
-![Ward Availability](screenshots/ward_dashboard.png)
+![Ward Availability](https://github.com/Shamir-Havas/HASTURE/blob/main/ward%20availability.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](https://github.com/Shamir-Havas/HASTURE/blob/main/admin%20dashboard.png)
 
-*(Screenshots are stored in the `screenshots/` folder – you can rename them accordingly)*
+### Patient Doctor consultation Overview
+![patient doctor consultation](https://github.com/Shamir-Havas/HASTURE/blob/main/patient%20doctor%20consulting%20trend.png)
 
----
-
-## 📄 Documentation
-Full detailed documentation is available here:  
-📕 [HASTURE Project Report (PDF)](./Hasture.pdf)
 
 ---
 
