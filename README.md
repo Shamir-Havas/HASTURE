@@ -18,7 +18,7 @@ The project focuses on analyzing historical inventory data using SQL and buildin
 
 ## 🧠 Technologies Used  
 
-**SQL & Database:** MySQL (Joins, Aggregations, Window Functions, CTEs)  
+**SQL & Database:** MySQL (Joins, Aggregations, Window Functions)  
 **Programming:** Python  
 **Data Analysis:** Pandas, NumPy  
 **Machine Learning:** GRU (Gated Recurrent Unit)  
@@ -31,8 +31,7 @@ The project focuses on analyzing historical inventory data using SQL and buildin
 
 The system is built on a relational database structure including:
 
-- **inventory** → item details, stock levels, usage  
-- **suppliers** → supplier information  
+- **inventory** → item details, stock levels, usage   
 - **transactions** → inventory usage and updates  
 
 ---
@@ -44,8 +43,7 @@ SQL was used extensively to extract, transform, and analyze inventory data.
 ### Key SQL Techniques:
 - Joins (INNER JOIN)  
 - Aggregations (SUM, COUNT)  
-- Subqueries  
-- Window Functions (ROW_NUMBER, RANK)  
+- Subqueries    
 - Common Table Expressions (CTEs)  
 
 ---
