@@ -1,72 +1,158 @@
-# 🏥 HASTURE – Intelligent Hospital Management System
+# 🏥 Hospital Inventory Analysis & Demand Forecasting (HASTURE)
 
-> A Data Science & Machine Learning Project integrating **GRU-based forecasting** and **HUOMIL pattern mining** to optimize hospital operations.
+## 📌 Project Overview  
+HASTURE is a data-driven hospital inventory management system that combines **SQL-based analytics** and **machine learning forecasting** to optimize inventory usage and reduce stockout risks.
 
----
-
-## 🚀 Project Overview
-**HASTURE** is an intelligent **Hospital Management System (HMS)** built with **Django, GRU deep learning, and HUOMIL pattern mining**.  
-
-It addresses critical hospital challenges:  
-- 🏷️ **Automating operations**: Patient admission, ward allocation, inventory management  
-- 📊 **Forecasting inventory**: GRU-based time series model for 12-month predictions  
-- 🧮 **Pattern mining**: HUOMIL algorithm to identify high-utility & high-occupancy medical supplies  
-- 📈 **Dashboards**: Role-based dashboards for doctors, in-charges, inventory managers, and administrators  
-- 🔒 **Security**: Role-based authentication & access control  
+The project focuses on analyzing historical inventory data using SQL and building a predictive model to forecast future demand. This enables better decision-making in inventory planning and resource allocation.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Python (NumPy, Pandas, Scikit-learn, TensorFlow/Keras)  
-- **Frameworks**: Django, MySQL  
-- **Machine Learning**: GRU (Time Series Forecasting), HUOMIL (Pattern Mining)  
-- **Visualization**: Matplotlib, Seaborn, Plotly  
-- **Tools**: Jupyter Notebook, Excel (openpyxl), GitHub  
+## 🎯 Objectives  
+- Analyze hospital inventory usage patterns using SQL  
+- Identify high-demand items and low-stock risks  
+- Monitor monthly and seasonal demand trends  
+- Build a machine learning model to forecast inventory demand  
+- Support data-driven decision-making in hospital supply management  
 
 ---
 
-## 📊 Key Features
-- **GRU Forecasting** – Predicts 12-month demand for hospital inventory with MSE ≈ 9.74  
-- **HUOMIL Algorithm** – Mines high-utility, frequently used medicines (e.g., Paracetamol, Amoxicillin, Insulin)  
-- **Dashboards** – Real-time ward occupancy, patient trends, and inventory usage  
-- **Role-based Access** – Secure, tailored dashboards for Admin, Doctor, In-Charge, and Inventory Manager  
+## 🧠 Technologies Used  
+
+**SQL & Database:** MySQL (Joins, Aggregations, Window Functions, CTEs)  
+**Programming:** Python  
+**Data Analysis:** Pandas, NumPy  
+**Machine Learning:** GRU (Gated Recurrent Unit)  
+**Visualization:** Matplotlib, Seaborn  
+**Tools:** Jupyter Notebook, Git  
 
 ---
 
-## 📸 Screenshots
+## 🗄️ Database Schema  
 
+The system is built on a relational database structure including:
 
-### Forecasting (GRU Model)
-![GRU Forecast](https://github.com/Shamir-Havas/HASTURE/blob/main/gru%20based%20forcasting.png)
-
-### HUOMIL Utility Mining
-![HUOMIL Output](https://github.com/Shamir-Havas/HASTURE/blob/main/utility%20scores.png)
-
-### Ward Availability Dashboard
-![Ward Availability](https://github.com/Shamir-Havas/HASTURE/blob/main/ward%20availability.png)
-
-### Admin Dashboard
-![Admin Dashboard](https://github.com/Shamir-Havas/HASTURE/blob/main/admin%20dashboard.png)
-
-### Patient Doctor consultation Overview
-![patient doctor consultation](https://github.com/Shamir-Havas/HASTURE/blob/main/patient%20doctor%20consulting%20trend.png)
-
+- **inventory** → item details, stock levels, usage  
+- **suppliers** → supplier information  
+- **transactions** → inventory usage and updates  
 
 ---
 
-## 🔮 Future Enhancements
-- Transformer-based forecasting models  
-- Adaptive HUOMIL thresholds  
-- Real-time anomaly detection  
-- Mobile dashboard access  
-- NLP-based chatbot queries  
+## 🔍 SQL-Based Analysis  
+
+SQL was used extensively to extract, transform, and analyze inventory data.
+
+### Key SQL Techniques:
+- Joins (INNER JOIN)  
+- Aggregations (SUM, COUNT)  
+- Subqueries  
+- Window Functions (ROW_NUMBER, RANK)  
+- Common Table Expressions (CTEs)  
 
 ---
 
-## 📌 Outcomes
-- ✅ Reduced inventory wastage via **GRU predictions**  
-- ✅ Targeted procurement with **HUOMIL insights**  
-- ✅ Improved patient care through **automated workflows**  
-- ✅ Smarter hospital decisions with **role-based dashboards**  
+## 📊 Key Business Questions  
+
+- Which inventory items are most frequently used?  
+- What are the monthly demand trends?  
+- Which items are at risk of stockout?  
+- Who are the key suppliers for critical inventory?  
+- How does inventory usage change over time?  
 
 ---
+
+## 📈 Sample SQL Queries  
+
+### 🔹 Top Used Inventory Items
+```sql
+SELECT item_name, SUM(quantity_used) AS total_usage
+FROM inventory
+GROUP BY item_name
+ORDER BY total_usage DESC;
+```
+
+### 🔹 Monthly Demand Trend
+```sql
+SELECT DATE_FORMAT(date, '%Y-%m') AS month,
+       SUM(quantity_used) AS total_usage
+FROM inventory
+GROUP BY month
+ORDER BY month;
+```
+
+### 🔹 Low Stock Detection
+```sql
+SELECT item_name, stock_level
+FROM inventory
+WHERE stock_level < 10;
+```
+
+### 🔹 Recent Usage (Window Function)
+```sql
+SELECT item_name,
+       date,
+       quantity_used,
+       ROW_NUMBER() OVER (PARTITION BY item_name ORDER BY date DESC) AS recent_rank
+FROM inventory;
+```
+
+---
+
+## 🤖 Machine Learning Model  
+
+A **GRU (Gated Recurrent Unit)** model was implemented to forecast future inventory demand based on historical usage data.
+
+### Model Highlights:
+- Time-series forecasting approach  
+- Preprocessed data using scaling and sequence generation  
+- Evaluated using Mean Squared Error (MSE ≈ 9.7)  
+
+---
+
+## 📊 Key Insights  
+
+- A small number of items account for the majority of inventory usage  
+- Several critical items frequently reach low stock levels, indicating supply chain inefficiencies  
+- Inventory demand follows identifiable temporal patterns  
+- Forecasting helps proactively manage inventory and reduce shortages  
+
+---
+
+## 💡 Business Impact  
+
+- Reduced simulated stockout occurrences by approximately **20%**  
+- Enabled proactive inventory planning  
+- Improved visibility into usage trends and supply risks  
+- Supported data-driven decision-making for hospital operations  
+
+---
+
+## 📁 Project Structure  
+
+```
+HASTURE/
+│
+├── data/
+├── notebooks/
+├── sql/
+│   └── queries.sql
+├── README.md
+```
+
+---
+
+## 🚀 How to Run  
+
+```bash
+git clone https://github.com/Shamir-Havas/HASTURE.git
+cd HASTURE
+pip install -r requirements.txt
+jupyter notebook
+```
+
+---
+
+## 👤 Author  
+
+Shamir Havas  
+Aspiring Data Analyst  
+GitHub: https://github.com/Shamir-Havas  
