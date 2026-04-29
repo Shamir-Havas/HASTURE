@@ -124,20 +124,6 @@ A **GRU (Gated Recurrent Unit)** model was implemented to forecast future invent
 
 ---
 
-## 📁 Project Structure  
-
-```
-HASTURE/
-│
-├── data/
-├── notebooks/
-├── sql/
-│   └── queries.sql
-├── README.md
-```
-
----
-
 ## 🚀 How to Run  
 
 ```bash
